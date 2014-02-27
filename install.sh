@@ -9,4 +9,7 @@ ln -sf $homerepo/vim/vimrc $HOME/.vimrc
 ln -sf $homerepo/emacs/emacs $HOME/.emacs
 ln -sf $homerepo/emacs/emacs.d $HOME/.emacs.d
 
+# [Bash]
+ln -sf $homerepo/bash/bashrc $HOME/.bashrc 
+ln -sf $homerepo/bash/bash_profile $HOME/.bash_profile
 

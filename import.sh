@@ -6,13 +6,15 @@ cd $homerepo
 #cp -rp $HOME/.vimrc $homerepo/vimrc
 
 # [Emacs]
-mkdir -p $homerepo/emacs
-cp -p $HOME/.emacs $homerepo/emacs/emacs
-cp -rp $HOME/.emacs.d $homerepo/emacs/emacs.d
+#mkdir -p $homerepo/emacs
+#cp -p $HOME/.emacs $homerepo/emacs/emacs
+#cp -rp $HOME/.emacs.d $homerepo/emacs/emacs.d
 
 # [Bash]
-#cp $HOME/.bashrc $homerepo/bashrc
-#cp $HOME/.Xresources $homerepo/Xresources
+mkdir -p $homerepo/bash
+cp $HOME/.bashrc $homerepo/bash/bashrc
+cp $HOME/.bash_profile $homerepo/bash/bash_profile
+#cp $HOME/.bash_history $homerepo/bash/bash_history
 
 # [Xorg]
 #cp $HOME/.xinitrc $homerepo/xinitrc
@@ -23,4 +25,7 @@ cp -rp $HOME/.emacs.d $homerepo/emacs/emacs.d
 
 # [Conky]
 #cp $HOME/.conkyrc $homerepo/conkyrc
+
+
+#cp $HOME/.Xresources $homerepo/Xresources
 
