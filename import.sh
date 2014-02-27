@@ -1,12 +1,15 @@
-dir = "~/.dotfiles"
+dir = "$HOME/.dotfiles"
 
-cp ~/.vimrc			${dir}/dotvimrc
-cp ~/.emacs			&{dir}/dotemacs
-cp -r ~/.emacs.d/		&{dir}/dotemacs.d
-cp ~/.bashrc			&{dir}/dotbashrc
-cp ~/.xinitrc			&{dir}/dotxinitrc
-cp ~/.Xdefaults			&{dir}/dotXdefaults
-cp ~/.config/subtle/subtle.rb	&{dir}/subtle.rb
-cp ~/.moc/config		&{dir}/mocconfig
-cp ~/.moc/config/themes/theme	&{dir}/moctheme
-cp ~/.conkyrc			&{dir}/dotconkyrc
+cp $HOME/.vimrc                         ${dir}/dotvimrc
+cp $HOME/.emacs                         ${dir}/dotemacs
+cp $HOME/.emacs.d/ -r                   ${dir}/dotemacs.d
+cp $HOME/.bashrc                        ${dir}/dotbashrc
+cp $HOME/.xinitrc                       ${dir}/dotxinitrc
+cp $HOME/.Xdefaults                     ${dir}/dotXdefaults
+cp $HOME/.config/subtle/subtle.rb       ${dir}/subtle.rb
+cp $HOME/.moc/config                    ${dir}/mocconfig
+cp $HOME/.moc/config/themes/theme       ${dir}/moctheme
+cp $HOME/.conkyrc                       ${dir}/dotconkyrc
+cp $HOME/.config/bashrun2/bashrun2.rc   ${dir}/bashrun2.rc
+cp $HOME/.config/dunstrc                ${dir}/dunstrc
+
