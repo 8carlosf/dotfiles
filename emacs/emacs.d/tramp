@@ -1,0 +1,30 @@
+;; -*- emacs-lisp -*-
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["ssh" "calberto" "student.dei.uc.pt" nil]
+  ("uname" "Linux 2.6.18-164.6.1.el5")
+  ("test" "test")
+  ("/bin" t)
+  ("/usr/bin" t)
+  ("/usr/sbin" t)
+  ("/usr/local/bin" t)
+  ("/local/bin" nil)
+  ("/local/freeware/bin" nil)
+  ("/local/gnu/bin" nil)
+  ("/usr/freeware/bin" nil)
+  ("/usr/pkg/bin" nil)
+  ("/usr/contrib/bin" nil)
+  ("remote-path"
+   ("/bin" "/usr/bin" "/usr/sbin" "/usr/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/home/lei2010/calberto")
+  ("ls" "/bin/ls")
+  ("file-exists" "test -e")
+  ("stat" "\\stat")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 30011)
+  ("local-encoding" base64-encode-region)
+  ("local-decoding" base64-decode-region)
+  ("remote-encoding" "recode data..base64")
+  ("remote-decoding" "recode base64..data")))

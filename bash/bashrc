@@ -1,0 +1,65 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+# .inputrc #set completion-ignore-case on
+#set show-all-if-ambiguous on
+export EDITOR="vim"
+# ignorespace comandos comecados por espaco, e ignoredups comandos repetidos
+export HISTCONTROL=ignoreboth
+HISTFILESIZE=1000000
+HISTSIZE=1000000
+# guardar logo, em vez de so no fim da sessao
+PROMPT_COMMAND='history -a'
+bind '"\e[A":history-search-backward'
+bind '"\e[B":history-search-forward'
+
+alias ls='ls --color=auto'
+#PS1='[\u@\h \W]\$ '
+PS1='\n\[\033[0;34m\][\[\033[0m\]\u\[\033[0;34m\]]\[\033[0m\] \W \[\033[0;32m\]\$\[\033[0m\] '
+alias rm='rm -I'
+alias ll='ls -la'
+alias unrarall='for i in $(tree -if | grep .rar);do unrar x $i; done;'
+alias unrarall2='find -name "*.rar" | parallel unrar x {}'
+alias unzipall='ls | grep .zip | parallel atool -x {}'
+alias update='sudo pacman -Syu && yaourt -Sua'
+alias moff='xset dpms force off'
+alias gl="git log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+alias gld='git log --decorate --stat --graph --pretty=format:"%d %Cgreen%h%Creset (%ar - %Cred%an%Creset), %s%n"'
+alias active='grep -v -e "^$" -e"^ *#"'
+alias share='python -m http.server'
+alias flac2mp3='find -name "*.flac" | parallel ffmpeg -i {} -acodec libmp3lame -ab 320k {.}.mp3 "&&" rm {}'
+alias matlab='/home/carlosf/App/Matlab/bin/matlab &'
+alias matlab0='/home/carlosf/App/Matlab/bin/matlab -nodesktop'
+
+dualscreen(){
+	xrandr --output VGA1 --mode 1920x1080 --left-of LVDS1
+	bspc monitor VGA1 -d \ 1\  \ 2\  \ 3\  \ 4\  \ 5\ 
+	bspc monitor LVDS1 -d \ 6\  \ 7\  \ 8\  \ 9\  \ 0\ 
+	feh --bg-center ~/Images/chameleon.jpg
+}
+
+# wmname LG3D
+
+deploywar(){
+	export TOMCAT_HOME=/usr/share/tomcat7
+	#export JAVA_HOME=/usr/lib/jvm/java-7-openjdk/
+	export WEBAPP_NAME=$(pwd | awk -F / '{ print $NF}')
+	# ---------------
+
+	mkdir -p target/WEB-INF/classes
+	cd src
+	javac -cp .:$TOMCAT_HOME/lib/* -d ../target/WEB-INF/classes sdist/*.java
+	cd ..
+	cp -r WebContent/* target
+	cd target
+	#jar cf $TOMCAT_HOME/webapps/$WEBAPP_NAME.war *
+	jar cf ../$WEBAPP_NAME.war *
+	cd ..
+	sudo cp $WEBAPP_NAME.war $TOMCAT_HOME/webapps/
+}
+
+
