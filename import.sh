@@ -1,33 +1,26 @@
 
-homerepo = "$HOME/dotfiles"
+homerepo="$HOME/dotfiles"
+cd $homerepo
 
 # [Vim]
-cp $HOME/.vimrc                         $homerepo/vimrc
+#cp -rp $HOME/.vimrc $homerepo/vimrc
 
 # [Emacs]
-cp $HOME/.emacs                         $homerepo/emacs
-cp -r $HOME/.emacs.d/                   $homerepo/emacs.d
+mkdir -p $homerepo/emacs
+cp -p $HOME/.emacs $homerepo/emacs/emacs
+cp -rp $HOME/.emacs.d $homerepo/emacs/emacs.d
 
 # [Bash]
-cp $HOME/.bashrc                        $homerepo/bashrc
-cp $HOME/.Xdefaults                     $homerepo/Xdefaults
+#cp $HOME/.bashrc $homerepo/bashrc
+#cp $HOME/.Xresources $homerepo/Xresources
 
 # [Xorg]
-cp $HOME/.xinitrc                       $homerepo/xinitrc
-
-# [Subtle]
-cp $HOME/.config/subtle/subtle.rb       $homerepo/subtle.rb
+#cp $HOME/.xinitrc $homerepo/xinitrc
 
 # [Moc]
-cp $HOME/.moc/config                    $homerepo/mocconfig
-cp $HOME/.moc/config/themes/theme       $homerepo/moctheme
+#cp $HOME/.moc/config $homerepo/mocconfig
+#cp $HOME/.moc/config/themes/theme $homerepo/moctheme
 
 # [Conky]
-cp $HOME/.conkyrc                       $homerepo/conkyrc
-
-# [Bashrun2]
-cp $HOME/.config/bashrun2/bashrun2.rc   $homerepo/bashrun2.rc
-
-# [dunstrc]
-cp $HOME/.config/dunstrc                $homerepo/dunstrc
+#cp $HOME/.conkyrc $homerepo/conkyrc
 
