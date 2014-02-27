@@ -1,0 +1,62 @@
+! X T E R M ==============================================================
+!
+
+xterm*background: #151515
+xterm*foreground: #999993
+xterm*cursorColor: #373232
+xterm*cursorBlink: true
+
+!-------------
+! URxvt Config
+!-------------
+
+URxvt.background: #101010
+URxvt.foreground: #FFFFFF
+URxvt.cursosColor: #373232
+URxvt.cursorBlink: true
+URxvt.geometry: 85x25
+URxvt.borderWidth: 0
+URxvt.internalBorder: 3
+URxvt.externalBorder: 3
+urxvt.font: -*-terminus-medium-*-*-*-*-140-*-*-*-*-*
+urxvt.font: xft:Monospace:size=9
+urxvt.boldFont: xft:Monospace
+URxvt.scrollBar: false
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher: firefox
+URxvt.colorUL: #e08175
+URxvt.matcher.button: 1
+
+ 
+!! black dark/light
+*color0: #666666
+*color8: #999999
+
+!! red dark/light
+*color1: #B10000
+*color9: #CC0000
+
+!! green dark/light
+*color2: #6CB100
+*color10: #7CCC00
+
+!! yellow dark/light
+*color3: #B15C00
+*color11: #CC6A00
+
+!! blue dark/light
+*color4: #005577
+*color12: #0075A3
+
+!! magenta dark/light
+*color5: #5600B1
+*color13: #6300CC
+
+!! cyan dark/light
+*color6: #007177
+*color14: #009199
+
+!! white dark/light
+*color7: #EEEEEE
+*color15: #FFFFFF 
+

@@ -1,0 +1,30 @@
+#!/bin/sh
+
+if [ -d /etc/X11/xinit/xinitrc.d ]; then
+  for f in /etc/X11/xinit/xinitrc.d/*; do
+    [ -x "$f" ] && . "$f"
+  done
+  unset f
+fi
+
+[[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
+
+xset +fp /usr/share/fonts/local
+xset fp rehash
+setxkbmap -layout pt
+xsetroot -cursor_name left_ptr
+feh --bg-center ~/Images/wall_archlinux.png
+wmname LG3D
+
+#exec startxfce4
+
+xcompmgr &
+sxhkd &
+2> ~/.bspwm.log &
+
+wicd-client -t &
+dropboxd &
+#caffeine &
+
+exec dbus-launch bspwm -s "$PANEL_FIFO" -p W
+

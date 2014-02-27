@@ -13,3 +13,6 @@ ln -sf $homerepo/emacs/emacs.d $HOME/.emacs.d
 ln -sf $homerepo/bash/bashrc $HOME/.bashrc 
 ln -sf $homerepo/bash/bash_profile $HOME/.bash_profile
 
+# [Xorg]
+ln -sf $homerepo/xorg/xinitrc $HOME/.xinitrc
+ln -sf $homerepo/xorg/Xresources $HOME/.Xresources
