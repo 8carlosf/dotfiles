@@ -1,0 +1,31 @@
+set nocompatible
+syntax enable " enable syntax highlight
+set tabstop=4	" numbers of spaces of tab character
+set shiftwidth=4	" numbers of spaces to (auto)indent
+set scrolloff=4	" keep 3 lines when scrolling
+set number	" show line numbers
+set hlsearch	" highlight searches
+set ruler	" show the cursor position all the time
+set ttyfast	" smoother changes
+set autoread " auto read when a file is changed from the outside
+set showmatch " show matching bracets when text indicator is over them
+set ai " auto indent
+set si " smart indet
+set showcmd " shows what you are typing as a command
+filetype plugin on " enable filetype plugin
+filetype indent on
+colorscheme slate " cf3
+set wildmenu " cool tab completion
+set incsearch " incremental searching /
+set mouse=a " enable mouse support in console
+"NAO MOSTRA OUTPUT au FileType c set makeprg=gcc\ -ansi\ -lm\ -Wall\ -o\ %<\ %
+command! W  write
+command! WL  w | !rubber -d %; rubber --clean %
+command! SW w !sudo tee %
+nmap <C-V> "+gP
+imap <C-V> <ESC><C-V>i
+vmap <C-C> "+y
+set t_Co=256
+if has("gui_running")
+	set lines=40 columns=75
+endif
