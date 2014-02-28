@@ -2,7 +2,7 @@
 if [ "$#" != 2 ];then
 	echo -e "Usage:   sh import.sh <type> <file/folder>\n";
 	echo -e "This tool will import your config file to the dotfiles manager and also add the command to install.sh as a comment, so you need to manualy uncomment the lines.\n"
-		echo -e "Example: sh import.sh bash   ~/.bashrc";
+	echo -e "Example: sh import.sh bash   ~/.bashrc";
 	exit 0;
 fi
 
