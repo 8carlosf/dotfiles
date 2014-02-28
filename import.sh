@@ -7,14 +7,13 @@ if [ "$#" != 2 ];then
 fi
 
 homerepo="$HOME/dotfiles"
-cd $homerepo
-
 tname=$1
 fname=${2##*/}
 fname=${fname#.}
 
 mkdir -p $homerepo/$tname
 mv $2 $homerepo/$tname/$fname
+echo "mv $2 $homerepo/$tname/$fname"
 
 exp=$(echo "s/\/home\/$USER/\$HOME/g")
 lname=$(echo $2 | sed -e $exp)

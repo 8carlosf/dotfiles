@@ -1,6 +1,5 @@
 
 homerepo="$HOME/dotfiles"
-cd $homerepo
 
 # [vim]
 ln -sf $homerepo/vim/vimrc $HOME/.vimrc
@@ -28,3 +27,6 @@ ln -sf $homerepo/sxhkd/sxhkd $HOME/.config/sxhkd
 
 # [thunar]
 ln -sf $homerepo/thunar/Thunar $HOME/.config/Thunar
+
+# [git]
+ln -sf $homerepo/git/gitconfig $HOME/.gitconfig
