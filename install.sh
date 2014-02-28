@@ -16,3 +16,4 @@ ln -sf $homerepo/bash/bash_profile $HOME/.bash_profile
 # [Xorg]
 ln -sf $homerepo/xorg/xinitrc $HOME/.xinitrc
 ln -sf $homerepo/xorg/Xresources $HOME/.Xresources
+

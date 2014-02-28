@@ -2,6 +2,8 @@
 homerepo="$HOME/dotfiles"
 cd $homerepo
 
+#sh import.sh [-a] file type
+
 # [Vim]
 #cp -rp $HOME/.vimrc $homerepo/vimrc
 
