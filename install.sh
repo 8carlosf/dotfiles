@@ -17,74 +17,11 @@ ln -sf $homerepo/bash/bash_profile $HOME/.bash_profile
 ln -sf $homerepo/xorg/xinitrc $HOME/.xinitrc
 ln -sf $homerepo/xorg/Xresources $HOME/.Xresources
 
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm $HOME/.config/bspwm
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm /home/carlosf/.config/bspwm
-
+# [ncmpcpp]
+ln -sf $homerepo/ncmpcpp/ncmpcpp $HOME/.ncmpcpp
 
 # [bspwm]
-#ln -sf $homerepo/bspwm/bspwm /home/carlosf/.config/bspwm
+ln -sf $homerepo/bspwm/bspwm $HOME/.config/bspwm
 
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm /home/carlosf/.config/bspwm
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm /home/carlosf/.config/bspwm
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm /home/carlosf/.config/bspwm
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm /home/$HOME/.config/bspwm
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm /home/carlosf/.config/bspwm
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm 
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm }
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm /home/carlosf/.config/bspwm
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm 
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm 
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm 
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm 
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm 
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm $HOME/.config/bspwm
-
-
-# [bspwm]
-#ln -sf $homerepo/bspwm/bspwm $HOME/.config/bspwm
-
+# [sxhkd]
+ln -sf $homerepo/sxhkd/sxhkd $HOME/.config/sxhkd

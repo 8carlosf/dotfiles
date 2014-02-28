@@ -1,0 +1,58 @@
+# Setup
+ncmpcpp_directory = "/home/carlosf/.ncmpcpp"
+#lyrics_directory = /home/jente/.lyrics
+mpd_music_dir = "/home/carlosf/Music"
+external_editor = "/usr/bin/vim"
+
+# Playlist
+#song_list_format = 
+song_columns_list_format = "(6f)[blue]{l} (25)[red]{a} (40)[green]{t|f} (30)[yellow]{b}"
+song_status_format = "$2%a $9• $3%n. %t $9• $4%b {(Disc %d) }$9• $5%y$9"
+#song_library_format = 
+#tag_editor_album_format = 
+now_playing_prefix = "$b"
+now_playing_suffix = "$/b"
+#selected_item_prefix = "$3"
+#selected_item_suffix = "$9"
+header_text_scrolling = "yes"
+fancy_scrolling = "yes"
+playlist_separate_albums = "no"
+playlist_display_mode = "columns" (classic/columns)
+browser_display_mode = "columns" (classic/columns)
+search_engine_display_mode = "columns" (classic/columns)
+playlist_editor_display_mode = "columns" (classic/columns)
+discard_colors_if_item_is_selected = "yes"
+header_visibility = "yes"
+statusbar_visibility = "yes"
+titles_visibility = "no"
+autocenter_mode = "yes"
+centered_cursor = "no"
+progressbar_look = "─╼ "
+store_lyrics_in_song_dir = "yes"
+default_place_to_search_in = "database"
+jump_to_now_playing_song_at_start = "yes"
+display_volume_level = "yes"
+follow_now_playing_lyrics = "yes"
+display_screens_numbers_on_start = "yes"
+ignore_leading_the = "yes"
+use_console_editor = "yes"
+#user_interface = (classic/alternative)
+titles_visibility = "no"
+browser_playlist_prefix = "$9Playlist $3"
+song_window_title_format = "MPD: {%a > }{%t}{ [%b{ Disc %d}]}|{%f}"
+
+# Colors
+colors_enabled = "yes"
+header_window_color = "white"
+volume_color = "white"
+state_line_color = "white"
+state_flags_color = "white"
+main_window_color = "white"
+color1 = "white"
+color2 = "green"
+main_window_highlight_color = "green"
+progressbar_color = "white"
+statusbar_color = "white"
+active_column_color = "yellow"
+visualizer_color = "yellow"
+empty_tag_color = "yellow"

@@ -19,5 +19,5 @@ cp -rp $2 $homerepo/$tname/$fname
 exp=$(echo "s/\/home\/$USER/\$HOME/g")
 lname=$(echo $2 | sed -e $exp)
 
-echo -e "\n# [$tname]\n#ln -sf \$homerepo/$tname/$fname $lname\n" >> $homerepo/install.sh
+echo -e "\n# [$tname]\n#ln -sf \$homerepo/$tname/$fname $lname" >> $homerepo/install.sh
 

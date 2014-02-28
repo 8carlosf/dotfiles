@@ -1,0 +1,17 @@
+#! /bin/sh
+
+bspc monitor -d \ 1\  \ 2\  \ 3\  \ 4\  \ 5\  \ 6\  \ 7\  \ 8\  \ 9\  \ 0\ 
+
+bspc config border_width        3
+bspc config window_gap          10
+bspc config split_ratio         0.50
+bspc config borderless_monocle  true
+bspc config gapless_monocle     true
+
+bspc rule -a Gimp desktop=^8 follow=on floating=on
+bspc rule -a Chromium desktop=^2
+bspc rule -a Pidgin desktop=^9 floating=on
+bspc rule -a Deluge desktop=^10 follow=on
+
+panel &
+
