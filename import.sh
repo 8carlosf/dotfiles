@@ -6,8 +6,16 @@ if [ "$#" != 2 ];then
 	exit 0;
 fi
 
+ln="ln -sf"
+
 if [ -n $SUDO_USER  ]; then
   export HOME=$(bash <<< "echo ~$SUDO_USER")
+else
+  ln="sudo "$ln
+fi
+
+if [ $(whoami) == "root" ]; then
+	ln="sudo "$ln
 fi
 
 homerepo="$HOME/dotfiles"
@@ -23,5 +31,6 @@ user=${HOME##*/}
 exp=$(echo "s/\/home\/$user/\$HOME/g")
 lname=$(echo $2 | sed -e $exp)
 
-echo -e "\n# [$tname]\n#ln -sf \$homerepo/$tname/$fname $lname" >> $homerepo/install.sh
+
+echo -e "\n# [$tname]\n#$ln \$homerepo/$tname/$fname $lname" >> $homerepo/install.sh
 

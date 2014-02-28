@@ -30,3 +30,6 @@ ln -sf $homerepo/thunar/Thunar $HOME/.config/Thunar
 
 # [git]
 ln -sf $homerepo/git/gitconfig $HOME/.gitconfig
+
+# [gtk]
+sudo ln -sf $homerepo/gtk/Xfce-dusk /usr/share/themes/Xfce-dusk
