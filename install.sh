@@ -25,3 +25,6 @@ ln -sf $homerepo/bspwm/bspwm $HOME/.config/bspwm
 
 # [sxhkd]
 ln -sf $homerepo/sxhkd/sxhkd $HOME/.config/sxhkd
+
+# [ncmpcpp]
+#ln -sf $homerepo/ncmpcpp/ncmpcpp $HOME/.ncmpcpp
