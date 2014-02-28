@@ -1,32 +1,23 @@
 
+if [ "$#" != 2 ];then
+	echo -e "Usage:   sh import.sh <type> <file/folder>\n";
+	echo -e "This tool will import your config file to the dotfiles manager and also add the command to install.sh as a comment, so you need to manualy uncomment the lines.\n"
+		echo -e "Example: sh import.sh bash   ~/.bashrc";
+	exit 0;
+fi
+
 homerepo="$HOME/dotfiles"
 cd $homerepo
 
-#sh import.sh [-a] file type
+tname=$1
+fname=${2##*/}
+fname=${fname#.}
 
-# [Vim]
-#cp -rp $HOME/.vimrc $homerepo/vimrc
+mkdir -p $homerepo/$tname
+cp -rp $2 $homerepo/$tname/$fname
 
-# [Emacs]
-#mkdir -p $homerepo/emacs
-#cp -p $HOME/.emacs $homerepo/emacs/emacs
-#cp -rp $HOME/.emacs.d $homerepo/emacs/emacs.d
+exp=$(echo "s/\/home\/$USER/\$HOME/g")
+lname=$(echo $2 | sed -e $exp)
 
-# [Bash]
-#mkdir -p $homerepo/bash
-#cp $HOME/.bashrc $homerepo/bash/bashrc
-#cp $HOME/.bash_profile $homerepo/bash/bash_profile
-#cp $HOME/.bash_history $homerepo/bash/bash_history
-
-# [Xorg]
-#mkdir -p $homerepo/xorg
-#cp $HOME/.xinitrc $homerepo/xorg/xinitrc
-#cp $HOME/.Xresources $homerepo/xorg/Xresources
-
-# [Moc]
-#cp $HOME/.moc/config $homerepo/mocconfig
-#cp $HOME/.moc/config/themes/theme $homerepo/moctheme
-
-# [Conky]
-#cp $HOME/.conkyrc $homerepo/conkyrc
+echo -e "\n# [$tname]\n#ln -sf \$homerepo/$tname/$fname $lname\n" >> $homerepo/install.sh
 
