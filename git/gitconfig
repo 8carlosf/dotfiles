@@ -1,0 +1,9 @@
+[user]
+	email = 8carlosf@gmail.com
+	name = carlosf
+[merge]
+	tool = meld
+[push]
+	default = simple
+[diff]
+	tool = meld
