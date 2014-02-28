@@ -1,0 +1,30 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>Terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1368136524176464-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Example for a custom action</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>system-search</icon>
+	<name>Find subtitles for this video</name>
+	<unique-id>1368136524176497-2</unique-id>
+	<command>periscope -l en %F &amp;&amp; zenity --info --title &quot;Done&quot; --text &quot;Subtitles downloaded successfully&quot; || zenity --error --title &quot;Error&quot; --text &quot;Subtitles NOT downloaded&quot;</command>
+	<description>periscope</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+<action>
+	<icon>Thunar</icon>
+	<name>Sudo Thunar Here</name>
+	<unique-id>1368136524176508-3</unique-id>
+	<command>gksudo thunar %f</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+</actions>
