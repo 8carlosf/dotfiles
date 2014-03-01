@@ -32,4 +32,7 @@ ln -sf $homerepo/thunar/Thunar $HOME/.config/Thunar
 ln -sf $homerepo/git/gitconfig $HOME/.gitconfig
 
 # [gtk]
-sudo ln -sf $homerepo/gtk/Xfce-dusk /usr/share/themes/Xfce-dusk
+#sudo ln -sf $homerepo/gtk/Xfce-dusk /usr/share/themes/Xfce-dusk
+
+# [stalonetray]
+ln -sf $homerepo/stalonetray/stalonetrayrc $HOME/.stalonetrayrc
