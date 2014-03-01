@@ -31,6 +31,6 @@ user=${HOME##*/}
 exp=$(echo "s/\/home\/$user/\$HOME/g")
 lname=$(echo $2 | sed -e $exp)
 
-
+echo -e "#$ln \$homerepo/$tname/$fname $lname"
 echo -e "\n# [$tname]\n#$ln \$homerepo/$tname/$fname $lname" >> $homerepo/install.sh
 
