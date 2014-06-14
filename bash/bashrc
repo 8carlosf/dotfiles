@@ -8,6 +8,7 @@
 # .inputrc #set completion-ignore-case on
 #set show-all-if-ambiguous on
 export EDITOR="vim"
+#export TERM="xterm"
 # ignorespace comandos comecados por espaco, e ignoredups comandos repetidos
 export HISTCONTROL=ignoreboth
 HISTFILESIZE=1000000
@@ -39,27 +40,8 @@ dualscreen(){
 	xrandr --output VGA1 --mode 1920x1080 --left-of LVDS1
 	bspc monitor VGA1 -d \ 1\  \ 2\  \ 3\  \ 4\  \ 5\ 
 	bspc monitor LVDS1 -d \ 6\  \ 7\  \ 8\  \ 9\  \ 0\ 
-	feh --bg-center ~/Images/chameleon.jpg
+	bspc monitor VGA1 -s LVDS1
+	feh --bg-center ~/Images/gallopDark.png
+	setxkbmap -layout us -variant intl
 }
-
-# wmname LG3D
-
-deploywar(){
-	export TOMCAT_HOME=/usr/share/tomcat7
-	#export JAVA_HOME=/usr/lib/jvm/java-7-openjdk/
-	export WEBAPP_NAME=$(pwd | awk -F / '{ print $NF}')
-	# ---------------
-
-	mkdir -p target/WEB-INF/classes
-	cd src
-	javac -cp .:$TOMCAT_HOME/lib/* -d ../target/WEB-INF/classes sdist/*.java
-	cd ..
-	cp -r WebContent/* target
-	cd target
-	#jar cf $TOMCAT_HOME/webapps/$WEBAPP_NAME.war *
-	jar cf ../$WEBAPP_NAME.war *
-	cd ..
-	sudo cp $WEBAPP_NAME.war $TOMCAT_HOME/webapps/
-}
-
 

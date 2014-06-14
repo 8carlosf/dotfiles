@@ -16,16 +16,18 @@ bspc config top_padding $PANEL_HEIGHT
 
 bspc control --subscribe > "$PANEL_FIFO" &
 xtitle -sf 'T%s' > "$PANEL_FIFO" &
-battery -si 4 -f 'B%n %i ' > "$PANEL_FIFO" &
+battery -si 4 -f 'B%i ' > "$PANEL_FIFO" &
 clock -sf 'S%a %H:%M' > "$PANEL_FIFO" &
 echo V$(amixer set Master 0%+ | grep -m 1 % | awk -F [ '{print $2}' | awk -F %] '{print $1}') > $PANEL_FIFO &
 
+. panel_colors
+
 case "$flavor" in
     bar)
-        cat "$PANEL_FIFO" | panel_bar | bar &
+		FONT_FAMILY='-*-terminus-medium-r-normal-*-12-*-*-*-c-*-*-1'
+        cat "$PANEL_FIFO" | panel_bar | bar-aint-recursive -g x$PANEL_HEIGHT -f "$FONT_FAMILY" -F "$COLOR_FOREGROUND" -B "$COLOR_BACKGROUND" &
         ;;
     dzen2)
-        . panel_colors
         FONT_FAMILY='DejaVu Sans'
         FONT_SIZE=11
         cat "$PANEL_FIFO" | panel_dzen2 -f "$FONT_FAMILY" -s "$FONT_SIZE" | dzen2 -h $PANEL_HEIGHT -dock -ta l -title-name panel -fn "${FONT_FAMILY}:pixelsize=${FONT_SIZE}" -fg "$COLOR_FOREGROUND" -bg "$COLOR_BACKGROUND" &

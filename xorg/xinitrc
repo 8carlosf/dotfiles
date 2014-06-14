@@ -13,7 +13,8 @@ xset +fp /usr/share/fonts/local
 xset fp rehash
 setxkbmap -layout pt
 xsetroot -cursor_name left_ptr
-feh --bg-center ~/Images/wall_archlinux.png
+#feh --bg-center ~/Images/wall_archlinux.png
+feh --bg-fill ~/Images/gallopDark.png
 wmname LG3D
 
 #exec startxfce4
@@ -22,8 +23,9 @@ xcompmgr &
 sxhkd &
 2> ~/.bspwm.log &
 
-wicd-client -t &
-dropboxd &
+#wicd-client -t &
+nm-applet &
+#dropboxd &
 #caffeine &
 
 exec dbus-launch bspwm -s "$PANEL_FIFO" -p W

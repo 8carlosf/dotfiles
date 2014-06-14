@@ -2,66 +2,69 @@
 #
 # Example panel for LemonBoy's bar
 
+. panel_colors
+
 while read -r line ; do
-    case $line in
-        S*)
-            # clock output
-            sys_infos="\\br\\f6${line#?}"
-            ;;
-        T*)
-            # xtitle output
-            title="\\br\\f7${line#?}"
-            ;;
+	case $line in
+		S*)
+			# clock output
+			sys_infos="%{F$COLOR_STATUS_FG}%{B$COLOR_STATUS_BG}${line#?}"
+			;;
+		T*)
+			# xtitle output
+			title="%{F$COLOR_TITLE_FG}%{B$COLOR_TITLE_BG}${line#?}"
+			;;
 		V*)
 			#volume level
-			volume_level="\\br\\f7${line#?}\ "
+			volume_level="%{F$COLOR_TITLE_FG}%{B$COLOR_TITLE_BG}${line#?} "
 			;;
 		B*)
 			#battery status
-			battery_status="\\br\\fr${line#?}\ "
+			battery_status="%{F$COLOR_OCCUPIED_FG}%{B$COLOR_OCCUPIED_BG}${line#?}"
 			;;
-        W*)
-            # bspwm internal state
-            wm_infos=""
-            IFS=':'
-            set -- ${line#?}
-            while [ $# -gt 0 ] ; do
-                item=$1
-                name=${item#?}
-                case $item in
-                    O*)
-                        # focused occupied desktop
-                        wm_infos="$wm_infos \\u3\\br\\fr${name}\\ur"
-                        ;;
-                    F*)
-                        # focused free desktop
-                        wm_infos="$wm_infos \\u4\\br\\f7${name}\\ur"
-                        ;;
-                    U*)
-                        # focused urgent desktop
-                        wm_infos="$wm_infos \\u9\\br\\fr${name}\\ur"
-                        ;;
-                    o*)
-                        # occupied desktop
-                        wm_infos="$wm_infos \\br\\fr${name}"
-                        ;;
-                    f*)
-                        # free desktop
-                        wm_infos="$wm_infos \\br\\f7${name}"
-                        ;;
-                    u*)
-                        # urgent desktop
-                        wm_infos="$wm_infos \\b1\\fr${name}"
-                        ;;
-                    L*)
-                        # layout
-                        layout=$(printf "%s" "${name}" | sed 's/\(.\).*/\U\1/')
-                        wm_infos="$wm_infos    \\br\\f6$layout"
-                        ;;
-                esac
-                shift
-            done
-            ;;
-    esac
-    printf "%s\n" "\\l $wm_infos \\c $title \\r $volume_level  $battery_status $sys_infos  "
+		W*)
+			# bspwm internal state
+			wm_infos=""
+			IFS=':'
+			set -- ${line#?}
+			while [ $# -gt 0 ] ; do
+				item=$1
+				name=${item#?}
+				case $item in
+					O*)
+						# focused occupied desktop
+						wm_infos="$wm_infos %{F$COLOR_FOCUSED_OCCUPIED_FG}%{B$COLOR_FOCUSED_OCCUPIED_BG}%{U$COLOR_FOREGROUND}%{+u}${name}%{-u}"
+						;;
+					F*)
+						# focused free desktop
+						wm_infos="$wm_infos %{F$COLOR_FOCUSED_FREE_FG}%{B$COLOR_FOCUSED_FREE_BG}%{U$COLOR_FOREGROUND}%{+u}${name}%{-u}"
+						;;
+					U*)
+						# focused urgent desktop
+						wm_infos="$wm_infos %{F$COLOR_FOCUSED_URGENT_FG}%{B$COLOR_FOCUSED_URGENT_BG}%{U$COLOR_FOREGROUND}%{+u}${name}%{-u}"
+						;;
+					o*)
+						# occupied desktop
+						wm_infos="$wm_infos %{F$COLOR_OCCUPIED_FG}%{B$COLOR_OCCUPIED_BG}${name}"
+						;;
+					f*)
+						# free desktop
+						wm_infos="$wm_infos %{F$COLOR_FREE_FG}%{B$COLOR_FREE_BG}${name}"
+						;;
+					u*)
+						# urgent desktop
+						wm_infos="$wm_infos %{F$COLOR_URGENT_FG}%{B$COLOR_URGENT_BG}${name}"
+						;;
+					L*)
+						# layout
+						layout=$(printf "%s" "${name}" | sed 's/\(.\).*/\U\1/')
+						wm_infos="$wm_infos    %{F$COLOR_LAYOUT_FG}%{B$COLOR_LAYOUT_BG}$layout"
+						;;
+				esac
+				shift
+			done
+			;;
+	esac
+    printf "%s\n" "%{l} $wm_infos %{c} $title %{r} $volume_level  $battery_status $sys_infos  "
 done
+

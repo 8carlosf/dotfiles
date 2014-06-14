@@ -10,6 +10,7 @@ xterm*cursorBlink: true
 ! URxvt Config
 !-------------
 
+URxvt.termName:linux
 URxvt.background: #101010
 URxvt.foreground: #FFFFFF
 URxvt.cursosColor: #373232
