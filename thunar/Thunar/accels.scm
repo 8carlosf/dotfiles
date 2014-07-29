@@ -50,7 +50,6 @@
 ; (gtk_accel_path "<Actions>/ThunarStandardView/select-by-pattern" "<Primary>s")
 ; (gtk_accel_path "<Actions>/ThunarLocationButtons/location-buttons-paste-into-folder" "")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/145e46f25e4816c2a97eb698c094a2f6" "")
-; (gtk_accel_path "<Actions>/ThunarActions/uca-action-1368136524176497-2" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/about" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/contents" "F1")
 ; (gtk_accel_path "<Actions>/ThunarLocationButtons/location-buttons-empty-trash" "")
