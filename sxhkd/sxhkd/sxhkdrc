@@ -80,7 +80,7 @@ XF86AudioMute
 	amixer -q set Master toggle
 
 {XF86AudioPrev,XF86AudioNext,XF86AudioPlay}
-	ncmpcpp {prev,next,toggle}
+	mpc {prev,next,toggle}
 
 ~button1
     bspc pointer -g focus

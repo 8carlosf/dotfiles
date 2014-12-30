@@ -2,9 +2,9 @@
 	email = 8carlosf@gmail.com
 	name = carlosf
 [merge]
-	tool = kdiff3
+	tool = meld
 [diff]
-	tool = kdiff3
+	tool = meld
 [push]
 	default = simple
 

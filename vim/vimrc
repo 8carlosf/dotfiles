@@ -1,3 +1,4 @@
+" used vim-plugins: supertab, jellybeans
 set nocompatible
 syntax enable " enable syntax highlight
 set tabstop=4	" numbers of spaces of tab character
@@ -14,12 +15,13 @@ set si " smart indet
 set showcmd " shows what you are typing as a command
 filetype plugin on " enable filetype plugin
 filetype indent on
-colorscheme slate " cf3
+colorscheme jellybeans
 set wildmenu " cool tab completion
 set incsearch " incremental searching /
 set mouse=a " enable mouse support in console
-"NAO MOSTRA OUTPUT au FileType c set makeprg=gcc\ -ansi\ -lm\ -Wall\ -o\ %<\ %
+
 command! W  write
+command! Q  quit
 command! WL  w | !rubber -d %; rubber --clean %
 command! SW w !sudo tee %
 nmap <C-V> "+gP

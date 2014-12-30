@@ -15,17 +15,18 @@ setxkbmap -layout pt
 xsetroot -cursor_name left_ptr
 #feh --bg-center ~/Images/wall_archlinux.png
 feh --bg-fill ~/Images/gallopDark.png
-wmname LG3D
+#wmname LG3D
 
 #exec startxfce4
 
-xcompmgr &
+#xcompmgr &
+compton &
 sxhkd &
 2> ~/.bspwm.log &
 
 #wicd-client -t &
 nm-applet &
-#dropboxd &
+dropboxd &
 #caffeine &
 
 exec dbus-launch bspwm -s "$PANEL_FIFO" -p W

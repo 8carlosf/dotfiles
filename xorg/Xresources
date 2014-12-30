@@ -19,7 +19,7 @@ URxvt.geometry: 85x25
 URxvt.borderWidth: 0
 URxvt.internalBorder: 3
 URxvt.externalBorder: 3
-urxvt.font: -*-terminus-medium-*-*-*-*-140-*-*-*-*-*
+!urxvt.font: -*-terminus-medium-*-*-*-*-140-*-*-*-*-*
 urxvt.font: xft:Monospace:size=9
 urxvt.boldFont: xft:Monospace
 URxvt.scrollBar: false
