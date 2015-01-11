@@ -1,16 +1,8 @@
-! X T E R M ==============================================================
-!
-
-xterm*background: #151515
-xterm*foreground: #999993
-xterm*cursorColor: #373232
-xterm*cursorBlink: true
-
 !-------------
 ! URxvt Config
 !-------------
 
-URxvt.termName:linux
+URxvt.termName: rxvt-256color
 URxvt.background: #101010
 URxvt.foreground: #FFFFFF
 URxvt.cursosColor: #373232
@@ -19,45 +11,48 @@ URxvt.geometry: 85x25
 URxvt.borderWidth: 0
 URxvt.internalBorder: 3
 URxvt.externalBorder: 3
-!urxvt.font: -*-terminus-medium-*-*-*-*-140-*-*-*-*-*
-urxvt.font: xft:Monospace:size=9
-urxvt.boldFont: xft:Monospace
+URxvt.font: xft:Monospace:size=9
+URxvt.boldFont: xft:Monospace
 URxvt.scrollBar: false
 URxvt.perl-ext-common: default,matcher
-URxvt.urlLauncher: firefox
+URxvt.urlLauncher: chromium
 URxvt.colorUL: #e08175
 URxvt.matcher.button: 1
 
- 
-!! black dark/light
-*color0: #666666
-*color8: #999999
+!URxvt.tabbed.tabbar-fg: 2
+!URxvt.tabbed.tabbar-bg: 0
+!URxvt.tabbed.tab-fg: 3
+!URxvt.tabbed.tab-bg: 0
 
-!! red dark/light
-*color1: #B10000
-*color9: #CC0000
+!!! gruvbox colors
 
-!! green dark/light
-*color2: #6CB100
-*color10: #7CCC00
+! hard contrast: *background: #1d2021
+*background: #282828
+! soft contrast: *background: #32302f
+*foreground: #ebdbb2
 
-!! yellow dark/light
-*color3: #B15C00
-*color11: #CC6A00
-
-!! blue dark/light
-*color4: #005577
-*color12: #0075A3
-
-!! magenta dark/light
-*color5: #5600B1
-*color13: #6300CC
-
-!! cyan dark/light
-*color6: #007177
-*color14: #009199
-
-!! white dark/light
-*color7: #EEEEEE
-*color15: #FFFFFF 
+! Black + DarkGrey
+*color0:  #282828
+*color8:  #928374
+! DarkRed + Red
+*color1:  #cc241d
+*color9:  #fb4934
+! DarkGreen + Green
+*color2:  #98971a
+*color10: #b8bb26
+! DarkYellow + Yellow
+*color3:  #d79921
+*color11: #fabd2f
+! DarkBlue + Blue
+*color4:  #458588
+*color12: #83a598
+! DarkMagenta + Magenta
+*color5:  #b16286
+*color13: #d3869b
+! DarkCyan + Cyan
+*color6:  #689d6a
+*color14: #8ec07c
+! LightGrey + White
+*color7:  #a89984
+*color15: #ebdbb2
 

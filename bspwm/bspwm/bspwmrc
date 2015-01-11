@@ -13,5 +13,6 @@ bspc rule -a Chromium desktop=^2
 bspc rule -a Pidgin desktop=^9 floating=on
 bspc rule -a Deluge desktop=^10 follow=on
 
+wmname LG3D
 panel &
 

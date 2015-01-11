@@ -58,7 +58,8 @@ while read -r line ; do
 					L*)
 						# layout
 						layout=$(printf "%s" "${name}" | sed 's/\(.\).*/\U\1/')
-						wm_infos="$wm_infos    %{F$COLOR_LAYOUT_FG}%{B$COLOR_LAYOUT_BG}$layout"
+						#wm_infos="$wm_infos    %{F$COLOR_LAYOUT_FG}%{B$COLOR_LAYOUT_BG}$layout"
+						wm_infos="$wm_infos%{F$COLOR_LAYOUT_FG}%{B$COLOR_LAYOUT_BG}"
 						;;
 				esac
 				shift

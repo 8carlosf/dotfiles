@@ -15,10 +15,13 @@ set si " smart indet
 set showcmd " shows what you are typing as a command
 filetype plugin on " enable filetype plugin
 filetype indent on
-colorscheme jellybeans
 set wildmenu " cool tab completion
 set incsearch " incremental searching /
 set mouse=a " enable mouse support in console
+
+set background=dark
+colorscheme jellybeans
+"colorscheme gruvbox
 
 command! W  write
 command! Q  quit
@@ -27,7 +30,10 @@ command! SW w !sudo tee %
 nmap <C-V> "+gP
 imap <C-V> <ESC><C-V>i
 vmap <C-C> "+y
+
 set t_Co=256
+
 if has("gui_running")
 	set lines=40 columns=75
 endif
+
