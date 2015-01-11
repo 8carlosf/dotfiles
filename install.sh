@@ -17,7 +17,7 @@ homerepo="$HOME/dotfiles"
 #ln -sf $homerepo/xorg/Xresources $HOME/.Xresources
 
 # [ncmpcpp]
-#ln -sf $homerepo/ncmpcpp $HOME/.ncmpcpp
+#ln -sf $homerepo/ncmpcpp/ncmpcpp $HOME/.ncmpcpp
 
 # [bspwm]
 #ln -sf $homerepo/bspwm/bspwm $HOME/.config/bspwm
@@ -39,3 +39,7 @@ homerepo="$HOME/dotfiles"
 
 # [panel]
 #ln -sf $homerepo/panel/panel $HOME/.config/panel
+
+# [mpd]
+#ln -sf $homerepo/mpd/mpd $HOME/.config/mpd
+
