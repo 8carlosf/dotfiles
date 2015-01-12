@@ -1,4 +1,15 @@
-" used vim-plugins: supertab, jellybeans
+" dependencies:
+" 	vim-supertab
+" 	vim-jellybeans
+" 	vim-colors-gruvbox-git
+" 	vim-airline
+" 		otf-powerline-symbols-git
+" 	vim-bufferline-git
+" 	vim-syntastic
+" 	vim-nerdtree
+" 	vim-fugitive
+" 	rubber
+
 set nocompatible
 syntax enable " enable syntax highlight
 set tabstop=4	" numbers of spaces of tab character
@@ -22,6 +33,30 @@ set mouse=a " enable mouse support in console
 set background=dark
 colorscheme jellybeans
 "colorscheme gruvbox
+
+" vim-airline
+set laststatus=2
+set timeoutlen=50
+"let g:airline#extensions#tabline#enabled = 1
+if !exists('g:airline_symbols')
+	let g:airline_symbols = {}
+endif
+" unicode symbols
+let g:airline_left_sep = '»'
+let g:airline_left_sep = '▶'
+let g:airline_right_sep = '«'
+let g:airline_right_sep = '◀'
+let g:airline_symbols.linenr = '␊'
+let g:airline_symbols.linenr = '␤'
+let g:airline_symbols.linenr = '¶'
+let g:airline_symbols.branch = '⎇'
+let g:airline_symbols.paste = 'ρ'
+let g:airline_symbols.paste = 'Þ'
+let g:airline_symbols.paste = '∥'
+let g:airline_symbols.whitespace = 'Ξ'
+
+"vim-nerdtree
+map <C-n> :NERDTreeToggle<CR>
 
 command! W  write
 command! Q  quit

@@ -2,7 +2,7 @@
 ! URxvt Config
 !-------------
 
-URxvt.termName: rxvt-256color
+URxvt.termName: linux
 URxvt.background: #101010
 URxvt.foreground: #FFFFFF
 URxvt.cursosColor: #373232
@@ -12,12 +12,13 @@ URxvt.borderWidth: 0
 URxvt.internalBorder: 3
 URxvt.externalBorder: 3
 URxvt.font: xft:Monospace:size=9
-URxvt.boldFont: xft:Monospace
+URxvt.boldFont: xft:Monospace:size=9
 URxvt.scrollBar: false
 URxvt.perl-ext-common: default,matcher
 URxvt.urlLauncher: chromium
 URxvt.colorUL: #e08175
 URxvt.matcher.button: 1
+URxvt.urgentOnBell: true
 
 !URxvt.tabbed.tabbar-fg: 2
 !URxvt.tabbed.tabbar-bg: 0
