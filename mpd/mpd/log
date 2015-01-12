@@ -1378,3 +1378,1386 @@ Jan 12 10:33 : player: played "Music/The Doors/1978 - An American Prayer/13 - Ro
 Jan 12 10:34 : player: played "Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3"
 Jan 12 10:36 : player: played "Music/The Doors/1978 - An American Prayer/15 - Lament.mp3"
 Jan 12 10:38 : player: played "Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3"
+Jan 12 10:41 : player: played "Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3"
+Jan 12 10:43 : player: played "Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3"
+Jan 12 10:43 : player: played "Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3"
+Jan 12 10:45 : player: played "Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3"
+Jan 12 10:47 : player: played "Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3"
+Jan 12 10:47 : client: [9] opened from [::1]:59544
+Jan 12 10:47 : client: [9] closed
+Jan 12 11:29 : client: [10] opened from [::1]:59812
+Jan 12 11:29 : client: [10] closed
+Jan 12 11:30 : player: played "Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3"
+Jan 12 11:35 : player: played "Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3"
+Jan 12 11:39 : client: [11] opened from [::1]:59937
+Jan 12 11:39 : client: [11] closed
+Jan 12 11:50 : client: [12] opened from [::1]:60023
+Jan 12 11:50 : client: [12] closed
+Jan 12 11:50 : player: played "Music/The Clash - London Calling/01 The Clash London Calling.mp3"
+Jan 12 11:52 : player: played "Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3"
+Jan 12 11:55 : client: [2] closed
+Jan 12 12:30 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:30 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:30 : player: played "Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3"
+Jan 12 12:30 : avahi: Service 'Music Player' successfully established.
+Jan 12 12:30 : client: [0] opened from [::1]:48384
+Jan 12 12:30 : client: [0] closed
+Jan 12 12:50 : avahi: Client Disconnected, will reconnect shortly
+Jan 12 12:50 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Jan 12 12:51 : avahi: Service 'Music Player' successfully established.
+Jan 12 12:51 : client: [0] opened from [::1]:37024
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/04 The Clash Hateful.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/07 The Clash The Right Profile.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/09 The Clash Clampdown.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/12 The Clash Death or Glory.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/13 The Clash Koka Kola.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/19 The Clash Train in Vain.mp3"
+Jan 12 12:51 : client: [0] closed
+Jan 12 12:51 : client: [1] opened from [::1]:37025
+Jan 12 12:51 : client: [2] opened from [::1]:37026
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/01 - Break On Through.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/01 - Break On Through.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/01 - Break On Through.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/09 - End of the Night.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/09 - End of the Night.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/09 - End of the Night.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/11 - The End.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/11 - The End.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/11 - The End.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3": No such file or directory
+Jan 12 12:51 : client: [2] closed
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/01 - Awake.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/01 - Awake.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/01 - Awake.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/10 - Movie.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/10 - Movie.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/10 - Movie.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/12 - American Night.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/12 - American Night.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/12 - American Night.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/15 - Lament.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/15 - Lament.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/15 - Lament.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/01 The Clash London Calling.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/01 The Clash London Calling.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/01 The Clash London Calling.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/04 The Clash Hateful.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/07 The Clash The Right Profile.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/09 The Clash Clampdown.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/12 The Clash Death or Glory.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/13 The Clash Koka Kola.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/19 The Clash Train in Vain.mp3"
+Jan 12 12:51 : client: [3] opened from [::1]:37027
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/01 - Break On Through.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/01 - Break On Through.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/01 - Break On Through.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/09 - End of the Night.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/09 - End of the Night.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/09 - End of the Night.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/11 - The End.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/11 - The End.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/11 - The End.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3"
+Jan 12 12:51 : client: [3] closed
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/01 - Awake.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/01 - Awake.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/01 - Awake.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/10 - Movie.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/10 - Movie.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/10 - Movie.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/12 - American Night.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/12 - American Night.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/12 - American Night.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/15 - Lament.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/15 - Lament.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/15 - Lament.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/01 The Clash London Calling.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/01 The Clash London Calling.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/01 The Clash London Calling.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/04 The Clash Hateful.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/07 The Clash The Right Profile.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/09 The Clash Clampdown.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/12 The Clash Death or Glory.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/13 The Clash Koka Kola.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/19 The Clash Train in Vain.mp3"
+Jan 12 12:51 : client: [1] closed
+Jan 12 12:51 : client: [4] opened from [::1]:37028
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/19 The Clash Train in Vain.mp3"
+Jan 12 12:51 : client: [4] closed
+Jan 12 12:51 : client: [5] opened from [::1]:37029
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/01 - Break On Through.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/01 - Break On Through.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/01 - Break On Through.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/09 - End of the Night.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/09 - End of the Night.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/09 - End of the Night.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/11 - The End.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1967 - The Doors/11 - The End.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1967 - The Doors/11 - The End.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/01 - Awake.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/01 - Awake.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/01 - Awake.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/10 - Movie.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/10 - Movie.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/10 - Movie.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/12 - American Night.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/12 - American Night.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/12 - American Night.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/15 - Lament.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/15 - Lament.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/15 - Lament.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/01 The Clash London Calling.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/01 The Clash London Calling.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/01 The Clash London Calling.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/04 The Clash Hateful.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/07 The Clash The Right Profile.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/09 The Clash Clampdown.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/12 The Clash Death or Glory.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/13 The Clash Koka Kola.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/19 The Clash Train in Vain.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/01 - Awake.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/01 - Awake.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/01 - Awake.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/10 - Movie.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/10 - Movie.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/10 - Movie.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/12 - American Night.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/12 - American Night.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/12 - American Night.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/15 - Lament.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/15 - Lament.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/15 - Lament.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/01 The Clash London Calling.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/01 The Clash London Calling.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/01 The Clash London Calling.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/04 The Clash Hateful.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/04 The Clash Hateful.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/07 The Clash The Right Profile.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/07 The Clash The Right Profile.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/09 The Clash Clampdown.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/09 The Clash Clampdown.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/12 The Clash Death or Glory.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/12 The Clash Death or Glory.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/13 The Clash Koka Kola.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/13 The Clash Koka Kola.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3"
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : errno: Failed to open "/home/carlosf/Music/Music/The Clash - London Calling/19 The Clash Train in Vain.mp3": No such file or directory
+Jan 12 12:51 : player: played "Music/The Clash - London Calling/19 The Clash Train in Vain.mp3"
+Jan 12 12:51 : client: [5] closed
+Jan 12 12:51 : client: [6] opened from [::1]:37034
+Jan 12 12:52 : client: [6] closed
+Jan 12 12:52 : client: [7] opened from [::1]:37037
+Jan 12 12:52 : client: [7] closed
+Jan 12 12:52 : client: [8] opened from [::1]:37038
+Jan 12 12:52 : client: [8] closed
+Jan 12 12:52 : client: [9] opened from [::1]:37039
+Jan 12 12:52 : client: [9] closed
+Jan 12 15:36 : player: played "1973 - The Dark Side Of The Moon/01. Speak To M.mp3"
+Jan 12 15:37 : avahi: Service 'Music Player' successfully established.
+Jan 12 16:38 : client: [0] opened from [::1]:50840
+Jan 12 16:38 : player: played "1973 - The Dark Side Of The Moon/01. Speak To M.mp3"
+Jan 12 16:38 : player: played "1973 - The Dark Side Of The Moon/01. Speak To M.mp3"
+Jan 12 16:43 : player: played "Music/The Beatles/The Beatles - Abbey Road/01. Come Together.mp3"
+Jan 12 16:46 : player: played "Music/The Beatles/The Beatles - Abbey Road/02. Something.mp3"
+Jan 12 16:49 : player: played "Music/The Beatles/The Beatles - Abbey Road/03. Maxwell’s Silver Hammer.mp3"
+Jan 12 16:50 : client: [1] opened from [::1]:50962
+Jan 12 16:50 : client: [1] closed
+Jan 12 17:30 : client: [2] opened from [::1]:50979
+Jan 12 17:30 : client: [2] closed
+Jan 12 17:32 : player: played "Music/The Beatles/The Beatles - Abbey Road/04. Oh! Darling.mp3"
+Jan 12 17:35 : player: played "Music/The Beatles/The Beatles - Abbey Road/05. Octopus’s Garden.mp3"
+Jan 12 17:42 : client: [3] opened from [::1]:51212
+Jan 12 17:42 : client: [3] closed
+Jan 12 17:43 : client: [4] opened from [::1]:51225
+Jan 12 17:43 : client: [4] closed
+Jan 12 17:43 : player: played "Music/The Beatles/The Beatles - Abbey Road/06. I Want You (She's So Heavy).mp3"
+Jan 12 17:47 : player: played "Music/The Beatles/The Beatles - Abbey Road/07. Here Comes the Sun.mp3"
+Jan 12 17:49 : player: played "Music/The Beatles/The Beatles - Abbey Road/08. Because.mp3"
+Jan 12 17:53 : player: played "Music/The Beatles/The Beatles - Abbey Road/09. You Never Give Me Your Money.mp3"
+Jan 12 17:56 : player: played "Music/The Beatles/The Beatles - Abbey Road/10. Sun King.mp3"
+Jan 12 17:57 : player: played "Music/The Beatles/The Beatles - Abbey Road/11. Mean Mr. Mustard.mp3"
+Jan 12 17:58 : player: played "Music/The Beatles/The Beatles - Abbey Road/12. Polythene Pam.mp3"
+Jan 12 18:00 : player: played "Music/The Beatles/The Beatles - Abbey Road/13. She Came In Through the Bathroom Window.mp3"
+Jan 12 18:00 : client: [5] opened from [::1]:51415
+Jan 12 18:00 : client: [5] closed
+Jan 12 18:36 : client: [6] opened from [::1]:51489
+Jan 12 18:36 : client: [6] closed
+Jan 12 18:38 : player: played "Music/The Beatles/The Beatles - Abbey Road/14. Golden Slumbers.mp3"
+Jan 12 18:39 : player: played "Music/The Beatles/The Beatles - Abbey Road/15. Carry That Weight.mp3"

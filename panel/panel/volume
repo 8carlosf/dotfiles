@@ -1,2 +1,2 @@
 #! /bin/sh
-echo V$(amixer set Master 5%$1 | grep -m 1 % | awk -F [ '{print $2}' | awk -F %] '{print $1}') > $PANEL_FIFO
+echo V$(amixer set Master 5%$1 unmute | grep -m 1 % | awk -F [ '{print $2}' | awk -F %] '{print $1}') > $PANEL_FIFO

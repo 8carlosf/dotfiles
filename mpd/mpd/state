@@ -1,8 +1,8 @@
 sw_volume: 100
 audio_device_state:1:default detected output
 state: play
-current: 94
-time: 119.977000
+current: 14
+time: 35.398000
 random: 0
 repeat: 0
 single: 0
@@ -11,125 +11,92 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Music/The Doors/1967 - Strange Days/01 - Strange Days.MP3
-1:Music/The Doors/1967 - Strange Days/02 - You're Lost Little Girl.MP3
-2:Music/The Doors/1967 - Strange Days/03 - Love Me Two Times.MP3
-3:Music/The Doors/1967 - Strange Days/04 - Unhappy Girl.MP3
-4:Music/The Doors/1967 - Strange Days/05 - Horse Latitudes.MP3
-5:Music/The Doors/1967 - Strange Days/06 - Moonlight Drive.MP3
-6:Music/The Doors/1967 - Strange Days/07 - People Are Strange.MP3
-7:Music/The Doors/1967 - Strange Days/08 - My Eyes Have Seen You.MP3
-8:Music/The Doors/1967 - Strange Days/09 - I Can't See Your Face in My Mind.MP3
-9:Music/The Doors/1967 - Strange Days/10 - When the Music's Over.MP3
-10:Music/The Doors/1967 - The Doors/01 - Break On Through.MP3
-11:Music/The Doors/1967 - The Doors/02 - Soul Kitchen.MP3
-12:Music/The Doors/1967 - The Doors/03 - The Crystal Ship.MP3
-13:Music/The Doors/1967 - The Doors/04 - Twentieth Century Fox.MP3
-14:Music/The Doors/1967 - The Doors/05 - Alabama Song.MP3
-15:Music/The Doors/1967 - The Doors/06 - Light My Fire.MP3
-16:Music/The Doors/1967 - The Doors/07 - Back Door Man.MP3
-17:Music/The Doors/1967 - The Doors/08 - I Looked at You.MP3
-18:Music/The Doors/1967 - The Doors/09 - End of the Night.MP3
-19:Music/The Doors/1967 - The Doors/10 - Take It As It Comes.MP3
-20:Music/The Doors/1967 - The Doors/11 - The End.MP3
-21:Music/The Doors/1968 - Waiting for the Sun/01 - Hello, I Love You.MP3
-22:Music/The Doors/1968 - Waiting for the Sun/02 - Love Street.MP3
-23:Music/The Doors/1968 - Waiting for the Sun/03 - Not to Touch the Earth.MP3
-24:Music/The Doors/1968 - Waiting for the Sun/04 - Summer's Almost Gone.MP3
-25:Music/The Doors/1968 - Waiting for the Sun/05 - Wintertime Love.MP3
-26:Music/The Doors/1968 - Waiting for the Sun/06 - The Unknown Soldier.MP3
-27:Music/The Doors/1968 - Waiting for the Sun/07 - Spanish Caravan.MP3
-28:Music/The Doors/1968 - Waiting for the Sun/08 - My Wild Love.MP3
-29:Music/The Doors/1968 - Waiting for the Sun/09 - We Could Be So Good Together.MP3
-30:Music/The Doors/1968 - Waiting for the Sun/10 - Yes, the River Knows.MP3
-31:Music/The Doors/1968 - Waiting for the Sun/11 - Five To One.MP3
-32:Music/The Doors/1969 - The Soft Parade/01 - Tell All the People.MP3
-33:Music/The Doors/1969 - The Soft Parade/02 - Touch Me.MP3
-34:Music/The Doors/1969 - The Soft Parade/03 - Shaman's Blues.MP3
-35:Music/The Doors/1969 - The Soft Parade/04 - Do It.MP3
-36:Music/The Doors/1969 - The Soft Parade/05 - Easy Ride.MP3
-37:Music/The Doors/1969 - The Soft Parade/06 - Wild Child.MP3
-38:Music/The Doors/1969 - The Soft Parade/07 - Runnin' Blue.MP3
-39:Music/The Doors/1969 - The Soft Parade/08 - Wishful Sinful.MP3
-40:Music/The Doors/1969 - The Soft Parade/09 - The Soft Parade.MP3
-41:Music/The Doors/1970 - Morrison Hotel/01 - Roadhouse Blues.MP3
-42:Music/The Doors/1970 - Morrison Hotel/02 - Waiting for the Sun.MP3
-43:Music/The Doors/1970 - Morrison Hotel/03 - You Make Me Real.MP3
-44:Music/The Doors/1970 - Morrison Hotel/04 - Peace Frog.MP3
-45:Music/The Doors/1970 - Morrison Hotel/05 - Blue Sunday.MP3
-46:Music/The Doors/1970 - Morrison Hotel/06 - Ship of Fools.MP3
-47:Music/The Doors/1970 - Morrison Hotel/07 - Land Ho!.MP3
-48:Music/The Doors/1970 - Morrison Hotel/08 - The Spy.MP3
-49:Music/The Doors/1970 - Morrison Hotel/09 - Queen of the Highway.MP3
-50:Music/The Doors/1970 - Morrison Hotel/10 - Indian Summer.MP3
-51:Music/The Doors/1970 - Morrison Hotel/11 - Maggie M'Gill.MP3
-52:Music/The Doors/1971 - L.A. Woman/01 - The Changeling.MP3
-53:Music/The Doors/1971 - L.A. Woman/02 - Love Her Madly.MP3
-54:Music/The Doors/1971 - L.A. Woman/03 - Been Down So Long.MP3
-55:Music/The Doors/1971 - L.A. Woman/04 - Cars Hiss by My Window.MP3
-56:Music/The Doors/1971 - L.A. Woman/05 - L.A. Woman.MP3
-57:Music/The Doors/1971 - L.A. Woman/06 - L'America.MP3
-58:Music/The Doors/1971 - L.A. Woman/07 - Hyacinth House.MP3
-59:Music/The Doors/1971 - L.A. Woman/08 - Crawling King Snake.MP3
-60:Music/The Doors/1971 - L.A. Woman/09 - The WASP (Texas Radio and the Big Beat).MP3
-61:Music/The Doors/1971 - L.A. Woman/10 - Riders on the Storm.MP3
-62:Music/The Doors/1971 - Other Voices/01 - In the Eye of the Sun.MP3
-63:Music/The Doors/1971 - Other Voices/02 - Variety Is the Spice of Life.MP3
-64:Music/The Doors/1971 - Other Voices/03 - Ships With Sails.MP3
-65:Music/The Doors/1971 - Other Voices/04 - Tightrope Ride.MP3
-66:Music/The Doors/1971 - Other Voices/05 - Down on the Farm.MP3
-67:Music/The Doors/1971 - Other Voices/06 - I'm Horny, I'm Stoned.MP3
-68:Music/The Doors/1971 - Other Voices/07 - Wandering Musician.MP3
-69:Music/The Doors/1971 - Other Voices/08 - Hang on to Your Life.MP3
-70:Music/The Doors/1972 - Full Circle/01 - Get Up and Dance.MP3
-71:Music/The Doors/1972 - Full Circle/02 - 4 Billion Souls.MP3
-72:Music/The Doors/1972 - Full Circle/03 - Verdilac.MP3
-73:Music/The Doors/1972 - Full Circle/04 - Hardwood Floor.MP3
-74:Music/The Doors/1972 - Full Circle/05 - Good Rockin'.MP3
-75:Music/The Doors/1972 - Full Circle/06 - The Mosquito.MP3
-76:Music/The Doors/1972 - Full Circle/07 - The Piano Bird.MP3
-77:Music/The Doors/1972 - Full Circle/08 - It Slipped My Mind.MP3
-78:Music/The Doors/1972 - Full Circle/09 - The Peking King and the New York Queen.MP3
-79:Music/The Doors/1978 - An American Prayer/01 - Awake.mp3
-80:Music/The Doors/1978 - An American Prayer/02 - Ghost Song.mp3
-81:Music/The Doors/1978 - An American Prayer/03 - Dawn's Highway.mp3
-82:Music/The Doors/1978 - An American Prayer/04 - Newborn Awakening.mp3
-83:Music/The Doors/1978 - An American Prayer/05 - To Come of Age.mp3
-84:Music/The Doors/1978 - An American Prayer/06 - Black Polished Chrome.mp3
-85:Music/The Doors/1978 - An American Prayer/07 - Latino Chrome.mp3
-86:Music/The Doors/1978 - An American Prayer/08 - Angels and Sailors.mp3
-87:Music/The Doors/1978 - An American Prayer/09 - Stoned Immaculate.mp3
-88:Music/The Doors/1978 - An American Prayer/10 - Movie.mp3
-89:Music/The Doors/1978 - An American Prayer/11 - Curses, Invocations.mp3
-90:Music/The Doors/1978 - An American Prayer/12 - American Night.mp3
-91:Music/The Doors/1978 - An American Prayer/13 - Roadhouse Blues.mp3
-92:Music/The Doors/1978 - An American Prayer/14 - The World on Fire.mp3
-93:Music/The Doors/1978 - An American Prayer/15 - Lament.mp3
-94:Music/The Doors/1978 - An American Prayer/16 - The Hitchhiker.mp3
-95:Music/The Doors/1978 - An American Prayer/17 - An American Prayer.mp3
-96:Music/The Doors/1978 - An American Prayer/18 - Hour for Magic.mp3
-97:Music/The Doors/1978 - An American Prayer/19 - Freedom Exists.mp3
-98:Music/The Doors/1978 - An American Prayer/20 - A Feast of Friends.mp3
-99:Music/The Doors/1978 - An American Prayer/21 - Babylon Fading.mp3
-100:Music/The Doors/1978 - An American Prayer/22 - Bird Of Prey.mp3
-101:Music/The Doors/1978 - An American Prayer/23 - Ghost Song.mp3
-102:Music/The Clash - London Calling/01 The Clash London Calling.mp3
-103:Music/The Clash - London Calling/02 The Clash Brand New Cadillac.mp3
-104:Music/The Clash - London Calling/03 The Clash Jimmy Jazz.mp3
-105:Music/The Clash - London Calling/04 The Clash Hateful.mp3
-106:Music/The Clash - London Calling/05 The Clash Rudie Can't Fail.mp3
-107:Music/The Clash - London Calling/06 The Clash Spanish Bombs.mp3
-108:Music/The Clash - London Calling/07 The Clash The Right Profile.mp3
-109:Music/The Clash - London Calling/08 The Clash Lost in the Supermarket.mp3
-110:Music/The Clash - London Calling/09 The Clash Clampdown.mp3
-111:Music/The Clash - London Calling/10 The Clash The Guns of Brixton.mp3
-112:Music/The Clash - London Calling/11 The Clash Wrong 'Em Boyo.mp3
-113:Music/The Clash - London Calling/12 The Clash Death or Glory.mp3
-114:Music/The Clash - London Calling/13 The Clash Koka Kola.mp3
-115:Music/The Clash - London Calling/14 The Clash The Card Cheat.mp3
-116:Music/The Clash - London Calling/15 The Clash Lover's Rock.mp3
-117:Music/The Clash - London Calling/16 The Clash Four Horsemen.mp3
-118:Music/The Clash - London Calling/17 The Clash I'm Not Down.mp3
-119:Music/The Clash - London Calling/18 The Clash Revolution Rock.mp3
-120:Music/The Clash - London Calling/19 The Clash Train in Vain.mp3
+0:Music/The Beatles/The Beatles - Abbey Road/01. Come Together.mp3
+1:Music/The Beatles/The Beatles - Abbey Road/02. Something.mp3
+2:Music/The Beatles/The Beatles - Abbey Road/03. Maxwell’s Silver Hammer.mp3
+3:Music/The Beatles/The Beatles - Abbey Road/04. Oh! Darling.mp3
+4:Music/The Beatles/The Beatles - Abbey Road/05. Octopus’s Garden.mp3
+5:Music/The Beatles/The Beatles - Abbey Road/06. I Want You (She's So Heavy).mp3
+6:Music/The Beatles/The Beatles - Abbey Road/07. Here Comes the Sun.mp3
+7:Music/The Beatles/The Beatles - Abbey Road/08. Because.mp3
+8:Music/The Beatles/The Beatles - Abbey Road/09. You Never Give Me Your Money.mp3
+9:Music/The Beatles/The Beatles - Abbey Road/10. Sun King.mp3
+10:Music/The Beatles/The Beatles - Abbey Road/11. Mean Mr. Mustard.mp3
+11:Music/The Beatles/The Beatles - Abbey Road/12. Polythene Pam.mp3
+12:Music/The Beatles/The Beatles - Abbey Road/13. She Came In Through the Bathroom Window.mp3
+13:Music/The Beatles/The Beatles - Abbey Road/14. Golden Slumbers.mp3
+14:Music/The Beatles/The Beatles - Abbey Road/15. Carry That Weight.mp3
+15:Music/The Beatles/The Beatles - Abbey Road/16. The End.mp3
+16:Music/The Beatles/The Beatles - Abbey Road/17. Her Majesty.mp3
+17:Music/The Beatles/The Beatles - Revolver/01 - Taxman.mp3
+18:Music/The Beatles/The Beatles - Revolver/02 - Eleanor Rigby.mp3
+19:Music/The Beatles/The Beatles - Revolver/03 - I'm Only Sleeping.mp3
+20:Music/The Beatles/The Beatles - Revolver/04 - Love You To.mp3
+21:Music/The Beatles/The Beatles - Revolver/05 - Here, There and Everywhere.mp3
+22:Music/The Beatles/The Beatles - Revolver/06 - Yellow Submarine.mp3
+23:Music/The Beatles/The Beatles - Revolver/07 - She Said She Said.mp3
+24:Music/The Beatles/The Beatles - Revolver/08 - Good Day Sunshine.mp3
+25:Music/The Beatles/The Beatles - Revolver/09 - And Your Bird Can Sing.mp3
+26:Music/The Beatles/The Beatles - Revolver/10 - For No One.mp3
+27:Music/The Beatles/The Beatles - Revolver/11 - Doctor Robert.mp3
+28:Music/The Beatles/The Beatles - Revolver/12 - I Want to Tell You.mp3
+29:Music/The Beatles/The Beatles - Revolver/13 - Got To Get You Into My Life.mp3
+30:Music/The Beatles/The Beatles - Revolver/14 - Tomorrow Never Knows.mp3
+31:Music/The Beatles/The Beatles - Rubber Soul/01 - Drive My Car.mp3
+32:Music/The Beatles/The Beatles - Rubber Soul/02 - Norwegian Wood (The Bird Has Flown).mp3
+33:Music/The Beatles/The Beatles - Rubber Soul/03 - You Won't See Me.mp3
+34:Music/The Beatles/The Beatles - Rubber Soul/04 - Nowhere Man.mp3
+35:Music/The Beatles/The Beatles - Rubber Soul/05 - Think For Yourself.mp3
+36:Music/The Beatles/The Beatles - Rubber Soul/06 - The Word.mp3
+37:Music/The Beatles/The Beatles - Rubber Soul/07 - Michelle.mp3
+38:Music/The Beatles/The Beatles - Rubber Soul/08 - What Goes On.mp3
+39:Music/The Beatles/The Beatles - Rubber Soul/09 - Girl.mp3
+40:Music/The Beatles/The Beatles - Rubber Soul/10 - I'm Looking Through You.mp3
+41:Music/The Beatles/The Beatles - Rubber Soul/11 - In My Life.mp3
+42:Music/The Beatles/The Beatles - Rubber Soul/12 - Wait.mp3
+43:Music/The Beatles/The Beatles - Rubber Soul/13 - If I Needed Someone.mp3
+44:Music/The Beatles/The Beatles - Rubber Soul/14 - Run For Your Life.mp3
+45:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/01 - Sgt. Pepper's Lonely Hearts Club Band.mp3
+46:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/02 - With A Little Help From My Friends.mp3
+47:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/03 - Lucy In The Sky With Diamonds.mp3
+48:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/04 - Getting Better.mp3
+49:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/05 - Fixing A Hole.mp3
+50:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/06 - She's Leaving Home.mp3
+51:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/07 - Being For The Benefit of Mr. Kite!.mp3
+52:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/08 - Within You Without You.mp3
+53:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/09 - When I'm Sixty-Four.mp3
+54:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/10 - Lovely Rita.mp3
+55:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/11 - Good Morning Good Morning.mp3
+56:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/12 - Sgt. Pepper's Lonley Hearts Club Band (Reprise).mp3
+57:Music/The Beatles/The Beatles - Sgt. Peppers Lonely Hearts Club Band/13 - A Day In The Life.mp3
+58:Music/The Beatles/The Beatles - The White Album/CD 1/01 - Back in the U.S.S.R..mp3
+59:Music/The Beatles/The Beatles - The White Album/CD 1/02 - Dear Prudence.mp3
+60:Music/The Beatles/The Beatles - The White Album/CD 1/03 - Glass Onion.mp3
+61:Music/The Beatles/The Beatles - The White Album/CD 1/04 - Ob-La-Di, Ob-La-Da.mp3
+62:Music/The Beatles/The Beatles - The White Album/CD 1/05 - Wild Honey Pie.mp3
+63:Music/The Beatles/The Beatles - The White Album/CD 1/06 - The Continuing Story of Bungalow Bill.mp3
+64:Music/The Beatles/The Beatles - The White Album/CD 1/07 - While My Guitar Gently Weeps.mp3
+65:Music/The Beatles/The Beatles - The White Album/CD 1/08 - Happiness Is a Warm Gun.mp3
+66:Music/The Beatles/The Beatles - The White Album/CD 1/09 - Martha My Dear.mp3
+67:Music/The Beatles/The Beatles - The White Album/CD 1/10 - I'm So Tired.mp3
+68:Music/The Beatles/The Beatles - The White Album/CD 1/11 - Blackbird.mp3
+69:Music/The Beatles/The Beatles - The White Album/CD 1/12 - Piggies.mp3
+70:Music/The Beatles/The Beatles - The White Album/CD 1/13 - Rocky Raccoon.mp3
+71:Music/The Beatles/The Beatles - The White Album/CD 1/14 - Don't Pass Me By.mp3
+72:Music/The Beatles/The Beatles - The White Album/CD 1/15 - Why Don't We Do It in the Road .mp3
+73:Music/The Beatles/The Beatles - The White Album/CD 1/16 - I Will.mp3
+74:Music/The Beatles/The Beatles - The White Album/CD 1/17 - Julia.mp3
+75:Music/The Beatles/The Beatles - The White Album/CD 2/01 - Birthday.mp3
+76:Music/The Beatles/The Beatles - The White Album/CD 2/02 - Yer Blues.mp3
+77:Music/The Beatles/The Beatles - The White Album/CD 2/03 - Mother Nature's Son.mp3
+78:Music/The Beatles/The Beatles - The White Album/CD 2/04 - Everybody's Got Something to Hide Except Me and My Monkey.mp3
+79:Music/The Beatles/The Beatles - The White Album/CD 2/05 - Sexy Sadie.mp3
+80:Music/The Beatles/The Beatles - The White Album/CD 2/06 - Helter Skelter.mp3
+81:Music/The Beatles/The Beatles - The White Album/CD 2/07 - Long, Long, Long.mp3
+82:Music/The Beatles/The Beatles - The White Album/CD 2/08 - Revolution 1.mp3
+83:Music/The Beatles/The Beatles - The White Album/CD 2/09 - Honey Pie.mp3
+84:Music/The Beatles/The Beatles - The White Album/CD 2/10 - Savoy Truffle.mp3
+85:Music/The Beatles/The Beatles - The White Album/CD 2/11 - Cry Baby Cry.mp3
+86:Music/The Beatles/The Beatles - The White Album/CD 2/12 - Revolution 9.mp3
+87:Music/The Beatles/The Beatles - The White Album/CD 2/13 - Good Night.mp3
 playlist_end

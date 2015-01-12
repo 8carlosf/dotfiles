@@ -12,7 +12,8 @@ export PATH="$PATH:/home/carlosf/.config/bspwm"
 export PANEL_HEIGHT=18
 
 # MPD daemon start (if no other user instance exists)
-[ ! -s ~/.config/mpd/pid ] && mpd
+#[ ! -s ~/.config/mpd/pid ] && mpd
+mpd
 
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
 	exec startx
