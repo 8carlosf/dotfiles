@@ -37,6 +37,7 @@ follow_now_playing_lyrics = "yes"
 ignore_leading_the = "yes"
 use_console_editor = "yes"
 #user_interface = (classic/alternative)
+user_interface = "alternative"
 browser_playlist_prefix = "$9Playlist $3"
 song_window_title_format = "MPD: {%a > }{%t}{ [%b{ Disc %d}]}|{%f}"
 

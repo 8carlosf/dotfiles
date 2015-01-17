@@ -17,8 +17,8 @@ super + t
 super + b
     bspc desktop -B
 
-super + {s,f}
-    bspc window -t {floating,fullscreen}
+super + {s,f,p}
+    bspc window -t {floating,fullscreen,pseudo_tiled}
 
 super + {grave,Tab}
     bspc {window,desktop} -f last
@@ -81,6 +81,9 @@ XF86AudioMute
 
 {XF86AudioPrev,XF86AudioNext,XF86AudioPlay}
 	mpc {prev,next,toggle}
+
+{XF86MonBrightnessUp,XF86MonBrightnessDown}
+	xbacklight {+,-} 10
 
 ~button1
     bspc pointer -g focus

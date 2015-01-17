@@ -25,6 +25,7 @@ sxhkd &
 2> ~/.bspwm.log &
 
 #wicd-client -t &
+redshift-gtk -l 40.2:-8.4 &
 nm-applet &
 dropboxd &
 #caffeine &
