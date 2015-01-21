@@ -10,9 +10,9 @@ bspc config gapless_monocle     true
 
 bspc rule -a Gimp desktop=^6 follow=on floating=on
 bspc rule -a Chromium desktop=^2
-#bspc rule -a Spotify floating=on
 bspc rule -a Pidgin desktop=^9 floating=on
 bspc rule -a Deluge desktop=^10 follow=on
+bspc rule -a Sonata floating=on
 
 wmname LG3D
 panel &
