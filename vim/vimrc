@@ -40,6 +40,7 @@ colorscheme jellybeans
 set laststatus=2
 set timeoutlen=50
 "let g:airline#extensions#tabline#enabled = 1
+let g:airline_detect_whitespace = 0
 if !exists('g:airline_symbols')
 	let g:airline_symbols = {}
 endif
