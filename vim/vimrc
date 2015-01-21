@@ -29,6 +29,8 @@ filetype indent on
 set wildmenu " cool tab completion
 set incsearch " incremental searching /
 set mouse=a " enable mouse support in console
+set ttymouse=xterm2 " makes it work in everything
+set backspace=indent,eol,start " make backspace a more flexible
 
 set background=dark
 colorscheme jellybeans
