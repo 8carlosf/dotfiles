@@ -5,7 +5,10 @@ SB="#336699"
 SF="#ccc"
 NB="#111"
 NF="#ccc"
-FN="-*-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-*"
+#FN="-*-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-*"
+#FN="xft:Monospace:size=10:style=bold"
+FN="xft:Monospace:size=10"
+
 OPTIONS="-fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
 
 DMENU="dmenu -i $OPTIONS"
