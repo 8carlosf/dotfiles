@@ -1,5 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 # end a command with ; to run in a terminal
+# end a command with ! to run in a terminal and hold
 
 SB="#336699"
 SF="#ccc"
@@ -13,18 +14,34 @@ OPTIONS="-fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
 
 DMENU="dmenu -i $OPTIONS"
 TERMI="urxvt -e "
+TERMI_HOLD="urxvt -hold -e "
 CACHE="$HOME/.dmenu_cache_recent"
+ALIASES="$HOME/.bashrc"
+source $ALIASES
 
-DMENU_PATH=`echo $PATH | tr ':' '\n' | uniq | sed 's#$#/#' | xargs ls -lu --time-style=+%s | awk '/^(-|l)/ { print $6, $7 }' | sort -rn | cut -d' ' -f 2`
+CMD_LIST=`compgen -a; compgen -c`
 
 touch $CACHE
 MOST_USED=`sort $CACHE | uniq -c | sort -r | colrm 1 8`
-RUN=`(echo "$MOST_USED"; echo "$DMENU_PATH" | grep -vxF "$MOST_USED") | $DMENU $@` &&
-(echo $RUN; head -n 99 $CACHE) > $CACHE.$$ &&
+RUN_TMP=`(echo "$MOST_USED"; echo "$CMD_LIST" | grep -vxF "$MOST_USED") | $DMENU $@` &&
+(echo $RUN_TMP; head -n 99 $CACHE) > $CACHE.$$ &&
 mv $CACHE.$$ $CACHE
 
-case $RUN in
-    *\;) exec `echo $TERMI $RUN | sed -e 's/;$//'`;;
-    *)   exec $RUN;;
+if [ ! -z "$RUN_TMP" ]; then
+	RUN=$(alias | grep "${RUN_TMP/[\!;]/}=" | cut -f2 -d "'" | tr -d "'")
+
+	if [ -z "$RUN" ]; then
+		RUN=${RUN_TMP/[\!;]/}
+	fi
+
+fi
+
+case $RUN_TMP in
+	*\!)
+		exec $TERMI_HOLD $RUN;;
+	*\;)
+		exec $TERMI $RUN;;
+    *)
+		compgen -F $RUN || exec $RUN;;
 esac
 
