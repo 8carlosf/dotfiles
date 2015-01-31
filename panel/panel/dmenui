@@ -38,10 +38,10 @@ fi
 
 case $RUN_TMP in
 	*\!)
-		exec $TERMI_HOLD $RUN;;
+		echo "$TERMI_HOLD $RUN" | bash;;
 	*\;)
-		exec $TERMI $RUN;;
+		echo "$TERMI $RUN" | bash;;
     *)
-		compgen -F $RUN || exec $RUN;;
+		compgen -F "$RUN" || (echo "$RUN" | bash);;
 esac
 
