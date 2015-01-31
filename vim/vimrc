@@ -8,6 +8,7 @@
 " 	vim-syntastic
 " 	vim-nerdtree
 " 	vim-fugitive
+"   vim-multiple-cursors
 " 	rubber
 
 set nocompatible
@@ -65,9 +66,11 @@ command! W  write
 command! Q  quit
 command! WL  w | !rubber -d %; rubber --clean %
 command! SW w !sudo tee %
-nmap <C-V> "+gP
-imap <C-V> <ESC><C-V>i
-vmap <C-C> "+y
+
+" clipboard
+"nmap <C-V> "+gP
+"imap <C-V> <ESC><C-V>i
+"vmap <C-C> "+y
 
 set t_Co=256
 

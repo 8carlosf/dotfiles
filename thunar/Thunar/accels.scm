@@ -71,6 +71,7 @@
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-by-type" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/delete" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-ascending" "")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/bd5e9e665ad4135b378023b892304a30" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/empty-trash" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-location-selector-menu" "")
 ; (gtk_accel_path "<Actions>/ThunarLocationButtons/location-buttons-create-folder" "")

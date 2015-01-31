@@ -105,7 +105,7 @@ super + Return
     urxvt
 
 super + space
-    dmenu_run -i -hist ~/.dmenu.history
+    dmenui
 
 # make sxhkd reload its configuration files:
 super + Escape

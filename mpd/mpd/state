@@ -1,8 +1,6 @@
 sw_volume: 100
-audio_device_state:1:mpd_fifo
-state: pause
-current: 5
-time: 305.007000
+audio_device_state:1:default detected output
+state: stop
 random: 0
 repeat: 0
 single: 0
@@ -11,94 +9,16 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 01/01 - Rock and Roll.mp3
-1:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 01/02 - Celebration Day.mp3
-2:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 01/03 - The Song Remains the Same.mp3
-3:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 01/04 - Rain Song.mp3
-4:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 01/05 - Dazed and Confused.mp3
-5:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 02/01 - No Quarter.mp3
-6:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 02/02 - Stairway to Heaven.mp3
-7:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 02/03 - Moby Dick.mp3
-8:Music/Led Zeppelin/Led Zeppelin - The Song Remains The Same (1976)/Disc 02/04 - Whole Lotta Love.mp3
-9:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/01 - Good Times Bad Times.mp3
-10:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/02 - Babe I'm Gonna Leave You.mp3
-11:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/03 - You Shook Me.mp3
-12:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/04 - Dazed And Confused.mp3
-13:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/05 - Your Time Is Gonna Come.mp3
-14:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/06 - Black Mountain Side.mp3
-15:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/07 - Communication Breakdown.mp3
-16:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/08 - I Can't Quit You Baby.mp3
-17:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin I (1969)/09 - How Many More Times.mp3
-18:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/01 - Whole Lotta Love.mp3
-19:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/02 - What Is And What Should Never Be.mp3
-20:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/03 - The Lemon Song.mp3
-21:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/04 - Thank You.mp3
-22:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/05 - Heartbreaker.mp3
-23:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/06 - Living Loving Maid (She's Just A Woman).mp3
-24:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/07 - Ramble On.mp3
-25:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/08 - Moby Dick.mp3
-26:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin II (1969)/09 - Bring It On Home.mp3
-27:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/01 - Immigrant Song.mp3
-28:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/02 - Friends.mp3
-29:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/03 - Celebration Day.mp3
-30:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/04 - Since I've Been Loving You.mp3
-31:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/05 - Out On The Tiles.mp3
-32:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/06 - Gallows Pole.mp3
-33:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/07 - Tangerine.mp3
-34:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/08 - That's The Way.mp3
-35:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/09 - Bron-Y-Aur Stomp.mp3
-36:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin III (1970)/10 - Hats Off To (Roy) Harper.mp3
-37:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin IV (1971)/01 - Black Dog.mp3
-38:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin IV (1971)/02 - Rock And Roll.mp3
-39:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin IV (1971)/03 - The Battle Of Evermore.mp3
-40:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin IV (1971)/04 - Stairway To Heaven.mp3
-41:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin IV (1971)/05 - Misty Mountain Hop.mp3
-42:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin IV (1971)/06 - Four Sticks.mp3
-43:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin IV (1971)/07 - Going To California.mp3
-44:Music/Led Zeppelin/Led Zeppelin - Led Zeppelin IV (1971)/08 - When The Levee Breaks.mp3
-45:Music/Led Zeppelin/Led Zeppelin - Coda (1982)/01 - We're Gonna Groove.mp3
-46:Music/Led Zeppelin/Led Zeppelin - Coda (1982)/02 - Poor Tom.mp3
-47:Music/Led Zeppelin/Led Zeppelin - Coda (1982)/03 - I Can't Quit You Baby.mp3
-48:Music/Led Zeppelin/Led Zeppelin - Coda (1982)/04 - Walter's Walk.mp3
-49:Music/Led Zeppelin/Led Zeppelin - Coda (1982)/05 - Ozone Baby.mp3
-50:Music/Led Zeppelin/Led Zeppelin - Coda (1982)/06 - Darlene.mp3
-51:Music/Led Zeppelin/Led Zeppelin - Coda (1982)/07 - Bonzo's Montreux.mp3
-52:Music/Led Zeppelin/Led Zeppelin - Coda (1982)/08 - Wearing and Tearing.mp3
-53:Music/Led Zeppelin/Led Zeppelin - Houses Of The Holy (1973)/01 - The Song Remains The Same.mp3
-54:Music/Led Zeppelin/Led Zeppelin - Houses Of The Holy (1973)/02 - The Rain Song.mp3
-55:Music/Led Zeppelin/Led Zeppelin - Houses Of The Holy (1973)/03 - Over The Hills And Far Away.mp3
-56:Music/Led Zeppelin/Led Zeppelin - Houses Of The Holy (1973)/04 - The Crunge.mp3
-57:Music/Led Zeppelin/Led Zeppelin - Houses Of The Holy (1973)/05 - Dancing Days.mp3
-58:Music/Led Zeppelin/Led Zeppelin - Houses Of The Holy (1973)/06 - D'yer Mak'er.mp3
-59:Music/Led Zeppelin/Led Zeppelin - Houses Of The Holy (1973)/07 - No Quarter.mp3
-60:Music/Led Zeppelin/Led Zeppelin - Houses Of The Holy (1973)/08 - The Ocean.mp3
-61:Music/Led Zeppelin/Led Zeppelin - In Through The Out Door (1979)/01 - In The Evening.mp3
-62:Music/Led Zeppelin/Led Zeppelin - In Through The Out Door (1979)/02 - South Bound Saurez.mp3
-63:Music/Led Zeppelin/Led Zeppelin - In Through The Out Door (1979)/03 - Fool In The Rain.mp3
-64:Music/Led Zeppelin/Led Zeppelin - In Through The Out Door (1979)/04 - Hot Dog.mp3
-65:Music/Led Zeppelin/Led Zeppelin - In Through The Out Door (1979)/05 - Carouselambra.mp3
-66:Music/Led Zeppelin/Led Zeppelin - In Through The Out Door (1979)/06 - All My Love.mp3
-67:Music/Led Zeppelin/Led Zeppelin - In Through The Out Door (1979)/07 - I'm Gonna Crawl.mp3
-68:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 01/01 - Custard Pie.mp3
-69:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 01/02 - The Rover.mp3
-70:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 01/03 - In My Time Of Dying.mp3
-71:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 01/04 - Houses Of The Holy.mp3
-72:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 01/05 - Trampled Under Foot.mp3
-73:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 01/06 - Kashmir.mp3
-74:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/01 - In The Light.mp3
-75:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/02 - Bron-Yr-Aur.mp3
-76:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/03 - Down By The Seaside.mp3
-77:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/04 - Ten Years Gone.mp3
-78:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/05 - Night Flight.mp3
-79:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/06 - The Wanton Song.mp3
-80:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/07 - Boogie With Stu.mp3
-81:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/08 - Black Country Woman.mp3
-82:Music/Led Zeppelin/Led Zeppelin - Physical Graffiti (1975)/Disc 02/09 - Sick Again.mp3
-83:Music/Led Zeppelin/Led Zeppelin - Presence (1976)/01 - Achilles Last Stand.mp3
-84:Music/Led Zeppelin/Led Zeppelin - Presence (1976)/02 - For Your Life.mp3
-85:Music/Led Zeppelin/Led Zeppelin - Presence (1976)/03 - Royal Orleans.mp3
-86:Music/Led Zeppelin/Led Zeppelin - Presence (1976)/04 - Nobody's Fault But Mine.mp3
-87:Music/Led Zeppelin/Led Zeppelin - Presence (1976)/05 - Candy Store Rock.mp3
-88:Music/Led Zeppelin/Led Zeppelin - Presence (1976)/06 - Hots On For Nowhere.mp3
-89:Music/Led Zeppelin/Led Zeppelin - Presence (1976)/07 - Tea For One.mp3
+0:Guardians of the Galaxy - Awesome Mix Vol1/Blue Swede - Hooked On A Feeling.mp3
+1:Guardians of the Galaxy - Awesome Mix Vol1/The Raspberries - Go All the Way.mp3
+2:Guardians of the Galaxy - Awesome Mix Vol1/Norman Greenbaum - Spirit in the Sky.mp3
+3:Guardians of the Galaxy - Awesome Mix Vol1/David Bowie - Moonage Daydream.mp3
+4:Guardians of the Galaxy - Awesome Mix Vol1/Elvin Bishop - Fooled Around and Fell In Love.mp3
+5:Guardians of the Galaxy - Awesome Mix Vol1/10cc - I'm Not in Love.mp3
+6:Guardians of the Galaxy - Awesome Mix Vol1/The Jackson 5 - I Want You Back.mp3
+7:Guardians of the Galaxy - Awesome Mix Vol1/Redbone - Come and Get Your Love.mp3
+8:Guardians of the Galaxy - Awesome Mix Vol1/The Runaways - Cherry Bomb.mp3
+9:Guardians of the Galaxy - Awesome Mix Vol1/Rupert Holmes - Escape (The Piña Colada Song).mp3
+10:Guardians of the Galaxy - Awesome Mix Vol1/The Five Stairsteps - O-o-h Child.mp3
+11:Guardians of the Galaxy - Awesome Mix Vol1/Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough.mp3
 playlist_end

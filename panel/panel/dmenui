@@ -1,0 +1,27 @@
+#!/bin/sh
+# end a command with ; to run in a terminal
+
+SB="#336699"
+SF="#ccc"
+NB="#111"
+NF="#ccc"
+FN="-*-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-*"
+OPTIONS="-fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
+
+DMENU="dmenu -i $OPTIONS"
+TERMI="urxvt -e "
+CACHE="$HOME/.dmenu_cache_recent"
+
+DMENU_PATH=`echo $PATH | tr ':' '\n' | uniq | sed 's#$#/#' | xargs ls -lu --time-style=+%s | awk '/^(-|l)/ { print $6, $7 }' | sort -rn | cut -d' ' -f 2`
+
+touch $CACHE
+MOST_USED=`sort $CACHE | uniq -c | sort -r | colrm 1 8`
+RUN=`(echo "$MOST_USED"; echo "$DMENU_PATH" | grep -vxF "$MOST_USED") | $DMENU $@` &&
+(echo $RUN; head -n 99 $CACHE) > $CACHE.$$ &&
+mv $CACHE.$$ $CACHE
+
+case $RUN in
+    *\;) exec `echo $TERMI $RUN | sed -e 's/;$//'`;;
+    *)   exec $RUN;;
+esac
+
