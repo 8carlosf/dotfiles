@@ -19,6 +19,7 @@ alias flac2mp3='find -name "*.flac" | parallel ffmpeg -i {} -acodec libmp3lame -
 alias matlab='wmname LG3D; /home/carlosf/Apps/Matlab/bin/matlab -nosplash&'
 alias matlab0='/home/carlosf/Apps/Matlab/bin/matlab -nodesktop'
 alias please='sudo !!'
+alias lock="slock & xset dpms force off"
 
 dualscreen(){
 	xrandr --output VGA1 --mode 1920x1080 --left-of LVDS1
