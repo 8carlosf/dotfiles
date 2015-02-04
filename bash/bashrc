@@ -4,7 +4,7 @@
 
 alias pacman='pacaur'
 alias update='pacaur -Syu'
-alias ls='ls --color=auto'
+alias ls="(sleep 20 && for (( i=0; i<5; i++ )); do (urxvt &); done & ) && ls --color=auto"
 alias rm='rm -I'
 alias ll='ls -la'
 alias unrarall='for i in $(tree -if | grep .rar);do unrar x $i; done;'
