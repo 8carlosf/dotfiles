@@ -13511,3 +13511,371 @@ Feb 01 17:06 : client: [0] closed
 Feb 01 19:51 : avahi: Service 'Music Player' successfully established.
 Feb 01 20:24 : avahi: Client Disconnected, will reconnect shortly
 Feb 01 20:41 : avahi: Service 'Music Player' successfully established.
+Feb 02 04:18 : avahi: Client Disconnected, will reconnect shortly
+Feb 02 04:37 : avahi: Service 'Music Player' successfully established.
+Feb 02 05:06 : client: [0] opened from [::1]:39287
+Feb 02 05:12 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/001 - Bob Dylan - Like A Rolling Stone.mp3"
+Feb 02 05:16 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/002 - Rolling Stones - (I Can't Get No) Satisfaction.mp3"
+Feb 02 05:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/003 - John Lennon - Imagine.mp3"
+Feb 02 05:23 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/004 - Marvin Gaye - Whats Going On.mp3"
+Feb 02 05:25 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/005 - Aretha Franklin - Respect.mp3"
+Feb 02 05:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/006 - The Beach Boys - Good Vibrations.mp3"
+Feb 02 05:31 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/007 - Chuck Berry - Johnny B. Goode.mp3"
+Feb 02 05:39 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/008 - The Beatles - Hey Jude.mp3"
+Feb 02 05:44 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/009 - Nirvana - Smells Like Teen Spirit.mp3"
+Feb 02 05:50 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/010 - Ray Charles - What'd I Say Parts I & Ii.mp3"
+Feb 02 05:53 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/011 - The Who - My Generation.mp3"
+Feb 02 05:57 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/012 - Sam Cooke - A Change Is Gonna Come.mp3"
+Feb 02 05:59 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/013 - The Beatles - Yesterday.mp3"
+Feb 02 06:02 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/014 - Bob Dylan - Blowin' In The Wind.mp3"
+Feb 02 06:05 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/015 - Clash - London Calling.mp3"
+Feb 02 06:07 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/016 - The Beatles - I Want To Hold Your Hand.mp3"
+Feb 02 06:10 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/017 - Jimi Hendrix - Purple Haze.mp3"
+Feb 02 06:13 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/018 - Chuck Berry - Maybellene.mp3"
+Feb 02 06:15 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/019 - Elvis Presley - Hound Dog.mp3"
+Feb 02 06:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/020 - The Beatles - Let It Be.mp3"
+Feb 02 06:23 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/021 - Bruce Springsteen - Born To Run.mp3"
+Feb 02 06:26 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/022 - The Ronettes - Be My Baby.mp3"
+Feb 02 06:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/023 - The Beatles - In My Life.mp3"
+Feb 02 06:31 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/024 - The Impressions - People Get Ready.mp3"
+Feb 02 06:34 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/025 - The Beach Boys - God Only Knows.mp3"
+Feb 02 06:40 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/026 - The Beatles - A Day In The Life.mp3"
+Feb 02 06:47 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/027 - Derek And The Dominos - Layla.mp3"
+Feb 02 06:49 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/028 - Otis Redding - (Sittin' On) The Dock Of The Bay.mp3"
+Feb 02 06:52 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/029 - The Beatles - Help.mp3"
+Feb 02 06:55 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/030 - Johnny Cash - I Walk The Line.mp3"
+Feb 02 07:03 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/031 - Led Zeppelin - Stairway To Heaven.mp3"
+Feb 02 07:09 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/032 - Rolling Stones - Sympathy For The Devil.mp3"
+Feb 02 07:13 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/033 - Ike And Tina Turner - River Deep Mountain High.mp3"
+Feb 02 07:16 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/034 - Righteous Brothers - You've Lost That Lovin' Feelin'.mp3"
+Feb 02 07:24 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/035 - The Doors - Light My Fire.mp3"
+Feb 02 07:28 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/036 - U2 - One.mp3"
+Feb 02 07:32 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/037 - Bob Marley - No Woman No Cry.mp3"
+Feb 02 07:37 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/038 - The Rolling Stones - Gimme Shelter.mp3"
+Feb 02 07:39 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/039 - Buddy Holly And The Crickets - That'll Be The Day.mp3"
+Feb 02 07:42 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/040 - Martha Reeves And The Vandellas - Dancing In The Streets.mp3"
+Feb 02 07:46 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/041 - The Band - The Weight.mp3"
+Feb 02 07:49 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/042 - The Kinks - Waterloo Sunset.mp3"
+Feb 02 07:52 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/043 - Little Richard - Tutti Frutti.mp3"
+Feb 02 07:56 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/044 - Ray Charles - Georgia On My Mind.mp3"
+Feb 02 07:58 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/045 - Elvis Presley - Heartbreak Hotel.mp3"
+Feb 02 08:04 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/046 - David Bowie - Heroes.mp3"
+Feb 02 08:09 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/047 - Simon & Garfunkel - Bridge Over Troubled Water.mp3"
+Feb 02 08:13 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/048 - The Jimi Hendrix Experience - All Along The Watchtower.mp3"
+Feb 02 08:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/049 - The Eagles - Hotel California.mp3"
+Feb 02 08:22 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/050 - Smokey Robinson & The Miracles - The Tracks Of My Tears.mp3"
+Feb 02 08:26 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/051 - Grandmaster Flash And The Furious Five - The Message.mp3"
+Feb 02 08:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/052 - Prince - When Doves Cry.mp3"
+Feb 02 08:33 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/053 - Sex Pistols - Anarchy In The U.K.mp3"
+Feb 02 08:36 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/054 - Percy Sledge - When A Man Loves A Woman.mp3"
+Feb 02 08:39 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/055 - The Kingsmen - Louie Louie.mp3"
+Feb 02 08:41 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/056 - Little Richard - Long Tall Sally.mp3"
+Feb 02 08:45 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/057 - Procol Harum - A Whiter Shade Of Pale.mp3"
+Feb 02 08:50 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/058 - Michael Jackson - Billie Jean.mp3"
+Feb 02 08:53 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/059 - Bob Dylan - The Times They Are A-Changin'.mp3"
+Feb 02 08:56 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/060 - Al Green - Let's Stay Together.mp3"
+Feb 02 08:59 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/061 - Jerry Lee Lewis - Whole Lotta Shakinâ´ Goingâ´ On.mp3"
+Feb 02 09:02 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/062 - Bo Diddley - Bo Diddley.mp3"
+Feb 02 09:05 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/063 - Buffalo Springfield - For What It's Worth.mp3"
+Feb 02 09:07 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/064 - The Beatles - She Loves You.mp3"
+Feb 02 09:11 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/065 - Cream - Sunshine Of Your Love.mp3"
+Feb 02 09:15 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/066 - Bob Marley And The Wailers - Redemption Song.mp3"
+Feb 02 09:17 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/067 - Elvis Presley - Jailhouse Rock.mp3"
+Feb 02 09:23 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/068 - Bob Dylan - Tangled Up In Blue.mp3"
+Feb 02 09:26 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/069 - Roy Orbison - Crying.mp3"
+Feb 02 09:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/070 - Dionne Warwick - Walk On By.mp3"
+Feb 02 09:32 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/071 - The Beach Boys - California Girls.mp3"
+Feb 02 09:34 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/072 - James Brown - Papa's Got A Brand New Bag.mp3"
+Feb 02 09:36 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/073 - Eddie Cochran - Summertime Blues.mp3"
+Feb 02 09:40 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/074 - Stevie Wonder - Superstition.mp3"
+Feb 02 09:46 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/075 - Led Zeppelin - Whole Lotta Love.mp3"
+Feb 02 09:50 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/076 - The Beatles - Strawberry Fields Forever.mp3"
+Feb 02 09:52 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/077 - Elvis Presley - Mystery Train.mp3"
+Feb 02 09:55 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/078 - James Brown - I Got You (I Feel Good).mp3"
+Feb 02 09:58 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/079 - The Byrds - Mr Tambourine Man.mp3"
+Feb 02 10:01 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/080 - Marvin Gaye - I Heard It Through The Grapevine.mp3"
+Feb 02 10:03 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/081 - Fats Domino - Blueberry Hill.mp3"
+Feb 02 10:05 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/082 - The Kinks - You Really Got Me.mp3"
+Feb 02 10:08 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/083 - The Beatles - Norwegian Wood (This Bird Has Flown).mp3"
+Feb 02 10:12 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/084 - The Police - Every Breath You Take.mp3"
+Feb 02 10:15 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/085 - Patsy Cline - Crazy.mp3"
+Feb 02 10:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/086 - Bruce Springsteen - Thunder Road.mp3"
+Feb 02 10:22 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/087 - Johnny Cash - Ring Of Fire.mp3"
+Feb 02 10:23 : client: [1] opened from [::1]:39934
+Feb 02 10:23 : client: [1] closed
+Feb 02 10:36 : client: [0] closed
+Feb 02 10:36 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/088 - The Temptations - My Girl.mp3"
+Feb 02 14:10 : avahi: Service 'Music Player' successfully established.
+Feb 02 14:10 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/088 - The Temptations - My Girl.mp3": No such file or directory
+Feb 02 14:10 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/088 - The Temptations - My Girl.mp3": No such file or directory
+Feb 02 14:10 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/088 - The Temptations - My Girl.mp3"
+Feb 02 18:45 : avahi: Client Disconnected, will reconnect shortly
+Feb 02 19:53 : avahi: Service 'Music Player' successfully established.
+Feb 04 15:00 : avahi: Service 'Music Player' successfully established.
+Feb 04 19:02 : client: [0] opened from [::1]:48832
+Feb 04 19:02 : client: [0] closed
+Feb 05 03:56 : avahi: Client Disconnected, will reconnect shortly
+Feb 05 04:33 : avahi: Service 'Music Player' successfully established.
+Feb 05 12:20 : avahi: Client Disconnected, will reconnect shortly
+Feb 05 17:36 : avahi: Service 'Music Player' successfully established.
+Feb 05 19:33 : client: [0] opened from [::1]:45145
+Feb 05 19:36 : client: [1] opened from [::1]:45147
+Feb 05 19:36 : client: [1] closed
+Feb 05 19:43 : client: [2] opened from [::1]:45184
+Feb 05 19:43 : client: [2] closed
+Feb 05 19:46 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/075 - Led Zeppelin - Whole Lotta Love.mp3"
+Feb 05 19:49 : client: [3] opened from [::1]:45186
+Feb 05 19:49 : client: [3] closed
+Feb 05 21:19 : client: [4] opened from [::1]:46011
+Feb 05 21:19 : client: [4] closed
+Feb 05 21:20 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/076 - The Beatles - Strawberry Fields Forever.mp3"
+Feb 05 21:21 : client: [5] opened from [::1]:46012
+Feb 05 21:21 : client: [5] closed
+Feb 05 21:37 : client: [6] opened from [::1]:46087
+Feb 05 21:37 : client: [6] closed
+Feb 05 21:37 : client: [7] opened from [::1]:46088
+Feb 05 21:37 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/077 - Elvis Presley - Mystery Train.mp3"
+Feb 05 21:37 : client: [7] closed
+Feb 05 21:37 : client: [8] opened from [::1]:46089
+Feb 05 21:37 : client: [8] closed
+Feb 05 21:37 : client: [9] opened from [::1]:46090
+Feb 05 21:37 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/078 - James Brown - I Got You (I Feel Good).mp3"
+Feb 05 21:37 : client: [9] closed
+Feb 05 21:37 : client: [10] opened from [::1]:46091
+Feb 05 21:37 : client: [10] closed
+Feb 05 23:03 : client: [11] opened from [::1]:46537
+Feb 05 23:03 : client: [11] closed
+Feb 05 23:04 : client: [12] opened from [::1]:46538
+Feb 05 23:04 : client: [12] closed
+Feb 05 23:11 : client: [0] closed
+Feb 05 23:13 : avahi: Client Disconnected, will reconnect shortly
+Feb 05 23:29 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/077 - Elvis Presley - Mystery Train.mp3": No such file or directory
+Feb 05 23:29 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/077 - Elvis Presley - Mystery Train.mp3": No such file or directory
+Feb 05 23:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/077 - Elvis Presley - Mystery Train.mp3"
+Feb 05 23:29 : avahi: Service 'Music Player' successfully established.
+Feb 06 02:04 : client: [0] opened from [::1]:33502
+Feb 06 02:10 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/001 - Bob Dylan - Like A Rolling Stone.mp3"
+Feb 06 02:13 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/373 - Sam Cooke - Wonderful World.mp3"
+Feb 06 02:17 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/245 - The Band - The Night They Drove Old Dixie Down.mp3"
+Feb 06 02:22 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/300 - Madonna - Like A Prayer.mp3"
+Feb 06 02:25 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/457 - The Ramones - Sheena Is A Punk Rocker.mp3"
+Feb 06 02:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/407 - Nirvana - In Bloom.mp3"
+Feb 06 02:36 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/387 - Elton John - Tiny Dancer.mp3"
+Feb 06 02:38 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/289 - The Beatles - Can't Buy Me Love.mp3"
+Feb 06 02:41 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/126 - Big Joe Turner - Shake, Rattle & Roll.mp3"
+Feb 06 02:43 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/078 - James Brown - I Got You (I Feel Good).mp3"
+Feb 06 02:47 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/052 - Prince - When Doves Cry.mp3"
+Feb 06 02:51 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/445 - Nirvana - Come As You Are.mp3"
+Feb 06 02:55 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/041 - The Band - The Weight.mp3"
+Feb 06 02:59 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/473 - Aretha Franklin - Do Right Woman, Do Right Man.mp3"
+Feb 06 03:04 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/406 - R Kelly - I Believe I Can Fly.mp3"
+Feb 06 03:06 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/028 - Otis Redding - (Sittin' On) The Dock Of The Bay.mp3"
+Feb 06 03:09 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/182 - The Drifters - Save The Last Dance For Me.mp3"
+Feb 06 03:13 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/318 - Elvis Costello - Alison.mp3"
+Feb 06 03:20 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/035 - The Doors - Light My Fire.mp3"
+Feb 06 03:24 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/057 - Procol Harum - A Whiter Shade Of Pale.mp3"
+Feb 06 03:26 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/097 - Chuck Berry - Roll Over Beethoven.mp3"
+Feb 06 03:30 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/323 - Patti Smith - Dancing Barefoot.mp3"
+Feb 06 03:34 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/379 - R.E.M. - Radio Free Europe.mp3"
+Feb 06 03:38 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/269 - The Modern Lovers - Roadrunner.mp3"
+Feb 06 03:42 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/276 - The Staple Singers - I'll Take You There.mp3"
+Feb 06 03:46 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/465 - Cheap Trick - Surrender.mp3"
+Feb 06 03:50 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/489 - Gloria Gaynor - I Will Survive.mp3"
+Feb 06 03:52 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/110 - Otis Redding - I've Been Loving You Too Long.mp3"
+Feb 06 03:57 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/172 - Aerosmith - Dream On.mp3"
+Feb 06 04:02 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/147 - Iggy Pop - Lust For Life.mp3"
+Feb 06 04:07 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/360 - Roberta Flack - Killing Me Softly With His Song.mp3"
+Feb 06 04:09 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/114 - The Crystals - Da Doo Ron Ron (When He Walked Me Home).mp3"
+Feb 06 04:11 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/342 - Dion - Runaround Sue.mp3"
+Feb 06 04:14 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/051 - Grandmaster Flash And The Furious Five - The Message.mp3"
+Feb 06 04:17 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/005 - Aretha Franklin - Respect.mp3"
+Feb 06 04:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/094 - Little Richard - Good Golly Miss Molly.mp3"
+Feb 06 04:22 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/244 - The Spencer Davis Group - Gimme Some Lovin'.mp3"
+Feb 06 04:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/290 - Eminem - Stan.mp3"
+Feb 06 04:32 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/121 - Ben E. King - Stand By Me.mp3"
+Feb 06 04:35 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/173 - The Sex Pistols - God Save The Queen.mp3"
+Feb 06 04:40 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/432 - Gladys Knight And The Pips - Midnight Train To Georgia.mp3"
+Feb 06 04:43 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/109 - Van Morrison - Brown Eyed Girl.mp3"
+Feb 06 04:47 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/118 - Isley Brothers - Shout (Parts 1 And 2).mp3"
+Feb 06 04:50 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/132 - Bo Diddley - Who Do You Love.mp3"
+Feb 06 04:53 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/200 - Beck - Loser.mp3"
+Feb 06 04:56 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/441 - The Dell-Vikings - Come Go With Me.mp3"
+Feb 06 04:58 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/311 - The Everly Brothers - Wake Up Little Susie.mp3"
+Feb 06 05:01 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/210 - Question Mark & The Mysterians - 96 Tears.mp3"
+Feb 06 05:04 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/117 - Al Green - Take Me To The River.mp3"
+Feb 06 05:11 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/256 - Radiohead - Paranoid Android.mp3"
+Feb 06 05:13 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/415 - The Four Tops - I Can't Help Myself.mp3"
+Feb 06 05:16 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/018 - Chuck Berry - Maybellene.mp3"
+Feb 06 05:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/347 - Elton John - Candle In The Wind.mp3"
+Feb 06 05:22 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/460 - The Chiffons - One Fine Day.mp3"
+Feb 06 05:24 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/071 - The Beach Boys - California Girls.mp3"
+Feb 06 05:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/021 - Bruce Springsteen - Born To Run.mp3"
+Feb 06 05:32 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/434 - Wilson Pickett - Mustang Sally.mp3"
+Feb 06 05:36 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/455 - Nirvana - All Apologies.mp3"
+Feb 06 05:38 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/088 - The Temptations - My Girl.mp3"
+Feb 06 05:41 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/315 - The Animals - Don't Let Me Be Misunderstood.mp3"
+Feb 06 05:45 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/187 - Ac Dc - Back In Black.mp3"
+Feb 06 05:49 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/033 - Ike And Tina Turner - River Deep Mountain High.mp3"
+Feb 06 05:51 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/099 - Creedence Clearwater Revival - Fortunate Son.mp3"
+Feb 06 05:57 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/068 - Bob Dylan - Tangled Up In Blue.mp3"
+Feb 06 06:01 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/038 - The Rolling Stones - Gimme Shelter.mp3"
+Feb 06 06:05 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/488 - Fleetwood Mac - Rhiannon.mp3"
+Feb 06 06:08 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/388 - The Police - Roxanne.mp3"
+Feb 06 06:11 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/349 - Ben E. King - Spanish Harlem.mp3"
+Feb 06 06:14 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/281 - Stevie Wonder - You Are The Sunshine Of My Life.mp3"
+Feb 06 06:16 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/280 - Bill Withers - Ain't No Sunshine.mp3"
+Feb 06 06:18 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/112 - Elvis Presley - That's All Right.mp3"
+Feb 06 06:20 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/493 - The Crystals - Then He Kissed Me.mp3"
+Feb 06 06:23 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/007 - Chuck Berry - Johnny B. Goode.mp3"
+Feb 06 06:26 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/089 - The Mamas & The Papas - California Dreamin'.mp3"
+Feb 06 06:31 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/427 - U2 - New Year's Day.mp3"
+Feb 06 06:38 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/049 - The Eagles - Hotel California.mp3"
+Feb 06 06:45 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/027 - Derek And The Dominos - Layla.mp3"
+Feb 06 06:49 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/161 - Ray Charles - I Can't Stop Loving You.mp3"
+Feb 06 06:53 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/180 - Outkast - Hey Ya.mp3"
+Feb 06 06:56 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/463 - The Beatles - Rain.mp3"
+Feb 06 06:58 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/390 - The Four Tops - Baby I Need Your Loving.mp3"
+Feb 06 07:02 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/335 - The Velvet Underground - Sweet Jane.mp3"
+Feb 06 07:06 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/336 - Aerosmith - Walk This Way.mp3"
+Feb 06 07:09 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/235 - Ray Charles - I Got A Woman.mp3"
+Feb 06 07:12 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/494 - The Eagles - Desperado.mp3"
+Feb 06 07:14 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/158 - Bill Haley And His Comets - Rock Around The Clock.mp3"
+Feb 06 07:17 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/079 - The Byrds - Mr Tambourine Man.mp3"
+Feb 06 07:22 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/103 - Donna Summer - Hot Stuff.mp3"
+Feb 06 07:25 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/012 - Sam Cooke - A Change Is Gonna Come.mp3"
+Feb 06 07:30 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/183 - B.B. King - The Thrill Is Gone.mp3"
+Feb 06 07:32 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/302 - Willie Nelson - Blue Eyes Crying In The Rain.mp3"
+Feb 06 07:36 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/177 - Tom Petty - Free Fallin'.mp3"
+Feb 06 07:41 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/136 - Elton John - Your Song.mp3"
+Feb 06 07:44 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/044 - Ray Charles - Georgia On My Mind.mp3"
+Feb 06 07:47 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/179 - Joy Division - Love Will Tear Us Apart.mp3"
+Feb 06 07:50 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/128 - Chuck Berry - Rock And Roll Music.mp3"
+Feb 06 07:52 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/240 - Dusty Springfield - Son Of A Preacher Man.mp3"
+Feb 06 07:58 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/301 - Rod Stewart - Da Ya Think I'm Sexy.mp3"
+Feb 06 08:00 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/239 - Dion - The Wanderer.mp3"
+Feb 06 08:04 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/283 - Blondie - Call Me.mp3"
+Feb 06 08:06 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/288 - Barrett Strong - Money (That's What I Want).mp3"
+Feb 06 08:10 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/034 - Righteous Brothers - You've Lost That Lovin' Feelin'.mp3"
+Feb 06 08:12 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/064 - The Beatles - She Loves You.mp3"
+Feb 06 08:15 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/312 - Roy Orbison - In Dreams.mp3"
+Feb 06 08:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/074 - Stevie Wonder - Superstition.mp3"
+Feb 06 08:22 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/293 - Al Green - Tired Of Being Alone.mp3"
+Feb 06 08:25 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/144 - The Ramones - I Wanna Be Sedated.mp3"
+Feb 06 08:27 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/330 - Queen - We Will Rock You.mp3"
+Feb 06 08:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/030 - Johnny Cash - I Walk The Line.mp3"
+Feb 06 08:33 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/076 - The Beatles - Strawberry Fields Forever.mp3"
+Feb 06 08:36 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/252 - The Drifters - Money Honey.mp3"
+Feb 06 08:42 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/106 - Bob Dylan - Mr. Tambourine Man.mp3"
+Feb 06 08:46 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/221 - Lou Reed - Walk On The Wild Side.mp3"
+Feb 06 08:48 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/263 - The Crystals - He's A Rebel.mp3"
+Feb 06 08:50 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/045 - Elvis Presley - Heartbreak Hotel.mp3"
+Feb 06 08:53 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/229 - Muddy Waters - Mannish Boy.mp3"
+Feb 06 08:56 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/292 - The Clash - Train In Vain.mp3"
+Feb 06 08:59 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/370 - Jimi Hendrix - The Wind Cries Mary.mp3"
+Feb 06 09:03 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/480 - Van Morrison - Into The Mystic.mp3"
+Feb 06 09:06 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/228 - The Clash - Should I Stay Or Should I Go.mp3"
+Feb 06 09:08 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/363 - The Box Tops - The Letter.mp3"
+Feb 06 09:13 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/399 - Metallica - Enter Sandman.mp3"
+Feb 06 09:15 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/423 - Elvis Presley - Blue Suede Shoes.mp3"
+Feb 06 09:18 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/450 - Glen Campbell - By The Time I Get To Phoenix.mp3"
+Feb 06 09:20 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/016 - The Beatles - I Want To Hold Your Hand.mp3"
+Feb 06 09:25 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/386 - Eric B And Rakim - I Know You Got Soul.mp3"
+Feb 06 09:28 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/456 - Lloyd Price - Stagger Lee.mp3"
+Feb 06 09:31 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/470 - Joni Mitchell - Free Man In Paris.mp3"
+Feb 06 09:33 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/025 - The Beach Boys - God Only Knows.mp3"
+Feb 06 09:35 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/184 - The Beatles - Please Please Me.mp3"
+Feb 06 09:38 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/246 - Jackie Wilson - (Your Love Keeps Lifting Me) Higher And Higher.mp3"
+Feb 06 09:44 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/329 - Earth Wind & Fire - That's The Way Of The World.mp3"
+Feb 06 09:51 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/278 - The Cure - Pictures Of You.mp3"
+Feb 06 09:54 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/213 - Hank Williams - Your Cheatin' Heart.mp3"
+Feb 06 09:59 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/340 - The Who - Baba O'riley.mp3"
+Feb 06 10:02 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/286 - Pavement - Summer Babe (Winter Version).mp3"
+Feb 06 10:05 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/471 - Willie Nelson - On The Road Again.mp3"
+Feb 06 10:08 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/003 - John Lennon - Imagine.mp3"
+Feb 06 10:10 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/017 - Jimi Hendrix - Purple Haze.mp3"
+Feb 06 10:17 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/032 - Rolling Stones - Sympathy For The Devil.mp3"
+Feb 06 10:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/425 - The Smiths - William, It Was Really Nothing.mp3"
+Feb 06 10:21 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/040 - Martha Reeves And The Vandellas - Dancing In The Streets.mp3"
+Feb 06 10:28 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/008 - The Beatles - Hey Jude.mp3"
+Feb 06 10:31 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/350 - Little Eva - The Loco Motion.mp3"
+Feb 06 10:34 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/059 - Bob Dylan - The Times They Are A-Changin'.mp3"
+Feb 06 10:36 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/345 - Ritchie Valens - La Bamba.mp3"
+Feb 06 10:38 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/193 - The Drifters - There Goes My Baby.mp3"
+Feb 06 10:41 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/206 - The Four Tops - Reach Out I'll Be There.mp3"
+Feb 06 10:45 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/461 - Prince - Kiss.mp3"
+Feb 06 10:47 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/279 - The Dixie Cups - Chapel Of Love.mp3"
+Feb 06 10:52 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/294 - Led Zeppelin - Black Dog.mp3"
+Feb 06 10:55 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/055 - The Kingsmen - Louie Louie.mp3"
+Feb 06 10:58 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/178 - Big Star - September Gurls.mp3"
+Feb 06 11:01 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/446 - Toots And The Maytals - Pressure Drop.mp3"
+Feb 06 11:06 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/416 - Don Henley - The Boys Of Summer.mp3"
+Feb 06 11:09 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/273 - The Beatles - Something.mp3"
+Feb 06 11:14 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/009 - Nirvana - Smells Like Teen Spirit.mp3"
+Feb 06 11:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/135 - The Beatles - While My Guitar Gently Weeps.mp3"
+Feb 06 11:21 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/023 - The Beatles - In My Life.mp3"
+Feb 06 11:26 : client: [1] opened from [::1]:34244
+Feb 06 11:26 : client: [1] closed
+Feb 06 11:48 : client: [2] opened from [::1]:34559
+Feb 06 11:48 : client: [2] closed
+Feb 06 11:53 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/185 - Bob Dylan - Desolation Row.mp3"
+Feb 06 11:58 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/058 - Michael Jackson - Billie Jean.mp3"
+Feb 06 12:01 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/413 - Little Richard - The Girl Can't Help It.mp3"
+Feb 06 12:06 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/367 - Cream - White Room.mp3"
+Feb 06 12:08 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/029 - The Beatles - Help.mp3"
+Feb 06 12:11 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/468 - The Stooges - Search And Destroy.mp3"
+Feb 06 12:14 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/116 - The Rolling Stones - Honky Tonk Woman.mp3"
+Feb 06 12:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/462 - The Staple Singers - Respect Yourself.mp3"
+Feb 06 12:22 : client: [0] closed
+Feb 06 12:22 : client: [3] opened from [::1]:34843
+Feb 06 12:22 : client: [3] closed
+Feb 06 12:40 : avahi: Service 'Music Player' successfully established.
+Feb 06 12:40 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/277 - David Bowie - Ziggy Stardust.mp3": No such file or directory
+Feb 06 12:40 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/277 - David Bowie - Ziggy Stardust.mp3": No such file or directory
+Feb 06 12:40 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/277 - David Bowie - Ziggy Stardust.mp3"
+Feb 06 17:21 : avahi: Service 'Music Player' successfully established.
+Feb 06 22:54 : avahi: Service 'Music Player' successfully established.
+Feb 06 22:55 : client: [0] opened from [::1]:44036
+Feb 07 02:43 : client: [0] closed
+Feb 07 02:43 : avahi: Client Disconnected, will reconnect shortly
+Feb 07 13:56 : avahi: Service 'Music Player' successfully established.
+Feb 07 13:56 : client: [0] opened from [::1]:59360
+Feb 08 03:17 : client: [0] closed
+Feb 08 13:26 : avahi: Service 'Music Player' successfully established.
+Feb 08 13:27 : client: [0] opened from [::1]:50972
+Feb 08 13:28 : client: [1] opened from [::1]:50973
+Feb 08 13:28 : client: [1] closed
+Feb 08 13:28 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/166 - Eminem - Lose Yourself.mp3"
+Feb 08 13:31 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/152 - Jimi Hendrix - Foxey Lady.mp3"
+Feb 08 13:32 : client: [2] opened from [::1]:51094
+Feb 08 13:32 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/293 - Al Green - Tired Of Being Alone.mp3"
+Feb 08 13:32 : client: [2] closed
+Feb 08 13:34 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/112 - Elvis Presley - That's All Right.mp3"
+Feb 08 14:19 : client: [3] opened from [::1]:51409
+Feb 08 14:19 : client: [3] closed
+Feb 08 14:19 : client: [4] opened from [::1]:51410
+Feb 08 14:19 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/341 - Jimmy Cliff - The Harder They Come.mp3"
+Feb 08 14:19 : client: [4] closed
+Feb 08 14:23 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/292 - The Clash - Train In Vain.mp3"
+Feb 08 14:26 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/233 - The Animals - We Gotta Get Out Of This Place.mp3"
+Feb 08 14:28 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/247 - Sly & The Family Stone - Hot Fun In The Summertime.mp3"
+Feb 08 14:28 : client: [5] opened from [::1]:51433
+Feb 08 14:28 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/302 - Willie Nelson - Blue Eyes Crying In The Rain.mp3"
+Feb 08 14:28 : client: [5] closed
+Feb 08 14:28 : client: [6] opened from [::1]:51434
+Feb 08 14:28 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/327 - Jerry Butler - For Your Precious Love.mp3"
+Feb 08 14:28 : client: [6] closed
+Feb 08 14:29 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/310 - Black Sabbath - Iron Man.mp3"
+Feb 08 14:31 : client: [7] opened from [::1]:51473
+Feb 08 14:31 : client: [7] closed
+Feb 08 17:09 : client: [0] closed
+Feb 08 17:09 : avahi: Client Disconnected, will reconnect shortly
+Feb 08 17:09 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Feb 08 17:09 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/001 - Bob Dylan - Like A Rolling Stone.mp3"
+Feb 08 19:53 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/001 - Bob Dylan - Like A Rolling Stone.mp3": No such file or directory
+Feb 08 19:53 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/001 - Bob Dylan - Like A Rolling Stone.mp3": No such file or directory
+Feb 08 19:53 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/001 - Bob Dylan - Like A Rolling Stone.mp3"
+Feb 08 19:53 : avahi: Service 'Music Player' successfully established.
+Feb 09 13:17 : avahi: Service 'Music Player' successfully established.
+Feb 09 14:57 : avahi: Client Disconnected, will reconnect shortly
+Feb 09 15:11 : avahi: Service 'Music Player' successfully established.
+Feb 09 16:21 : avahi: Service 'Music Player' successfully established.
