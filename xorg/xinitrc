@@ -28,7 +28,7 @@ sxhkd &
 numlockx &
 redshift-gtk -l 40.2:-8.4 &
 nm-applet &
-dropboxd &
+dropbox &
 #caffeine &
 
 exec dbus-launch bspwm -s "$PANEL_FIFO" -p W

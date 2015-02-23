@@ -22,9 +22,9 @@ source $ALIASES
 CMD_LIST=`compgen -a; compgen -c`
 
 touch $CACHE
-MOST_USED=`sort $CACHE | uniq -c | sort -r | colrm 1 8`
+MOST_USED=`sort $CACHE | uniq -c | sort -nr | colrm 1 8`
 RUN_TMP=`(echo "$MOST_USED"; echo "$CMD_LIST" | grep -vxF "$MOST_USED") | $DMENU $@` &&
-(echo $RUN_TMP; head -n 99 $CACHE) > $CACHE.$$ &&
+(echo $RUN_TMP; head -n 999 $CACHE) > $CACHE.$$ &&
 mv $CACHE.$$ $CACHE
 
 if [ ! -z "$RUN_TMP" ]; then

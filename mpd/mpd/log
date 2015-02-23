@@ -13879,3 +13879,132 @@ Feb 09 13:17 : avahi: Service 'Music Player' successfully established.
 Feb 09 14:57 : avahi: Client Disconnected, will reconnect shortly
 Feb 09 15:11 : avahi: Service 'Music Player' successfully established.
 Feb 09 16:21 : avahi: Service 'Music Player' successfully established.
+Feb 09 18:07 : avahi: Service 'Music Player' successfully established.
+Feb 09 19:43 : avahi: Service 'Music Player' successfully established.
+Feb 10 10:19 : avahi: Service 'Music Player' successfully established.
+Feb 10 13:33 : avahi: Service 'Music Player' successfully established.
+Feb 10 14:49 : avahi: Client Disconnected, will reconnect shortly
+Feb 10 14:55 : avahi: Service 'Music Player' successfully established.
+Feb 10 15:49 : avahi: Service 'Music Player' successfully established.
+Feb 12 09:07 : avahi: Service 'Music Player' successfully established.
+Feb 12 09:14 : avahi: Client Disconnected, will reconnect shortly
+Feb 12 14:05 : avahi: Service 'Music Player' successfully established.
+Feb 12 15:33 : avahi: Service 'Music Player' successfully established.
+Feb 12 17:05 : avahi: Service 'Music Player' successfully established.
+Feb 12 18:18 : avahi: Service 'Music Player' successfully established.
+Feb 12 22:17 : client: [0] opened from [::1]:38107
+Feb 12 22:17 : client: [0] closed
+Feb 12 22:17 : client: [1] opened from [::1]:38108
+Feb 12 22:17 : client: [1] closed
+Feb 12 22:17 : client: [2] opened from [::1]:38109
+Feb 12 22:20 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Blue Swede - Hooked On A Feeling.mp3"
+Feb 12 22:24 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Raspberries - Go All the Way.mp3"
+Feb 12 22:28 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Norman Greenbaum - Spirit in the Sky.mp3"
+Feb 12 22:33 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/David Bowie - Moonage Daydream.mp3"
+Feb 12 22:37 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Elvin Bishop - Fooled Around and Fell In Love.mp3"
+Feb 12 22:43 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/10cc - I'm Not in Love.mp3"
+Feb 12 22:46 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Jackson 5 - I Want You Back.mp3"
+Feb 12 22:50 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Redbone - Come and Get Your Love.mp3"
+Feb 12 22:52 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Runaways - Cherry Bomb.mp3"
+Feb 12 22:57 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Rupert Holmes - Escape (The Piña Colada Song).mp3"
+Feb 12 23:00 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Five Stairsteps - O-o-h Child.mp3"
+Feb 12 23:03 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough.mp3"
+Feb 12 23:51 : client: [3] opened from [::1]:38409
+Feb 12 23:51 : client: [3] closed
+Feb 12 23:54 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Blue Swede - Hooked On A Feeling.mp3"
+Feb 12 23:58 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Raspberries - Go All the Way.mp3"
+Feb 13 00:02 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Norman Greenbaum - Spirit in the Sky.mp3"
+Feb 13 00:07 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/David Bowie - Moonage Daydream.mp3"
+Feb 13 00:11 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Elvin Bishop - Fooled Around and Fell In Love.mp3"
+Feb 13 00:17 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/10cc - I'm Not in Love.mp3"
+Feb 13 00:20 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Jackson 5 - I Want You Back.mp3"
+Feb 13 00:24 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Redbone - Come and Get Your Love.mp3"
+Feb 13 00:26 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Runaways - Cherry Bomb.mp3"
+Feb 13 00:31 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Rupert Holmes - Escape (The Piña Colada Song).mp3"
+Feb 13 00:34 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Five Stairsteps - O-o-h Child.mp3"
+Feb 13 00:36 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough.mp3"
+Feb 13 01:12 : client: [2] closed
+Feb 13 09:29 : avahi: Service 'Music Player' successfully established.
+Feb 13 11:07 : avahi: Service 'Music Player' successfully established.
+Feb 13 11:50 : avahi: Service 'Music Player' successfully established.
+Feb 13 14:25 : avahi: Client Disconnected, will reconnect shortly
+Feb 13 14:25 : avahi: Client Disconnected, will reconnect shortly
+Feb 13 15:01 : avahi: Service 'Music Player' successfully established.
+Feb 13 15:43 : avahi: Client Disconnected, will reconnect shortly
+Feb 13 15:43 : avahi: Client Disconnected, will reconnect shortly
+Feb 13 19:30 : avahi: Service 'Music Player' successfully established.
+Feb 13 19:58 : client: [0] opened from [::1]:53876
+Feb 14 03:25 : client: [0] closed
+Feb 14 03:25 : avahi: Client Disconnected, will reconnect shortly
+Feb 14 11:22 : avahi: Service 'Music Player' successfully established.
+Feb 14 11:24 : client: [0] opened from [::1]:47607
+Feb 15 01:45 : client: [0] closed
+Feb 15 01:46 : avahi: Client Disconnected, will reconnect shortly
+Feb 15 13:21 : avahi: Service 'Music Player' successfully established.
+Feb 15 13:50 : client: [0] opened from [::1]:45942
+Feb 15 16:57 : client: [0] closed
+Feb 15 19:55 : avahi: Service 'Music Player' successfully established.
+Feb 16 11:01 : avahi: Service 'Music Player' successfully established.
+Feb 16 16:01 : avahi: Client Disconnected, will reconnect shortly
+Feb 16 16:01 : avahi: Could not reconnect: Daemon connection failed
+Feb 16 16:09 : avahi: Service 'Music Player' successfully established.
+Feb 16 17:53 : avahi: Client Disconnected, will reconnect shortly
+Feb 16 18:12 : avahi: Service 'Music Player' successfully established.
+Feb 16 19:33 : avahi: Client Disconnected, will reconnect shortly
+Feb 16 19:47 : avahi: Service 'Music Player' successfully established.
+Feb 17 02:05 : client: [0] opened from [::1]:56963
+Feb 17 02:05 : client: [0] closed
+Feb 17 11:10 : avahi: Service 'Music Player' successfully established.
+Feb 17 14:01 : avahi: Service 'Music Player' successfully established.
+Feb 17 17:22 : avahi: Service 'Music Player' successfully established.
+Feb 18 08:54 : avahi: Client Disconnected, will reconnect shortly
+Feb 18 11:05 : avahi: Service 'Music Player' successfully established.
+Feb 18 13:58 : avahi: Service 'Music Player' successfully established.
+Feb 18 18:14 : avahi: Client Disconnected, will reconnect shortly
+Feb 18 18:14 : avahi: Client Disconnected, will reconnect shortly
+Feb 18 19:00 : avahi: Service 'Music Player' successfully established.
+Feb 19 08:57 : avahi: Client Disconnected, will reconnect shortly
+Feb 19 11:13 : avahi: Service 'Music Player' successfully established.
+Feb 19 12:59 : avahi: Client Disconnected, will reconnect shortly
+Feb 19 14:12 : avahi: Service 'Music Player' successfully established.
+Feb 19 14:23 : avahi: Service name collision, renaming service to 'Music Player #2'
+Feb 19 14:23 : avahi: Service 'Music Player #2' successfully established.
+Feb 19 15:47 : avahi: Client Disconnected, will reconnect shortly
+Feb 19 15:53 : avahi: Service 'Music Player' successfully established.
+Feb 19 17:19 : avahi: Service 'Music Player' successfully established.
+Feb 20 10:44 : avahi: Service 'Music Player' successfully established.
+Feb 20 16:57 : avahi: Service 'Music Player' successfully established.
+Feb 20 17:11 : client: [0] opened from [::1]:55791
+Feb 20 19:29 : client: [1] opened from [::1]:56535
+Feb 20 19:29 : client: [1] closed
+Feb 20 19:32 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Blue Swede - Hooked On A Feeling.mp3"
+Feb 20 19:32 : client: [2] opened from [::1]:56647
+Feb 20 19:32 : client: [2] closed
+Feb 20 19:32 : client: [3] opened from [::1]:56648
+Feb 20 19:32 : client: [3] closed
+Feb 20 19:33 : client: [4] opened from [::1]:56649
+Feb 20 19:33 : client: [4] closed
+Feb 20 19:34 : client: [5] opened from [::1]:56650
+Feb 20 19:34 : client: [5] closed
+Feb 20 19:37 : client: [6] opened from [::1]:56675
+Feb 20 19:37 : client: [6] closed
+Feb 21 02:00 : client: [0] closed
+Feb 21 02:01 : avahi: Client Disconnected, will reconnect shortly
+Feb 21 12:44 : avahi: Service 'Music Player' successfully established.
+Feb 21 12:50 : client: [0] opened from [::1]:56173
+Feb 22 01:49 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 12:54 : avahi: Service 'Music Player' successfully established.
+Feb 22 12:57 : client: [0] opened from [::1]:57396
+Feb 22 13:04 : client: [1] opened from [::1]:57577
+Feb 22 13:04 : client: [1] closed
+Feb 22 13:04 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/The Raspberries - Go All the Way.mp3"
+Feb 22 13:07 : client: [2] opened from [::1]:57670
+Feb 22 13:07 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/Norman Greenbaum - Spirit in the Sky.mp3"
+Feb 22 13:07 : client: [2] closed
+Feb 22 13:12 : client: [3] opened from [::1]:57685
+Feb 22 13:12 : client: [3] closed
+Feb 22 17:03 : client: [0] closed
+Feb 22 17:03 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 19:57 : avahi: Service 'Music Player' successfully established.
+Feb 23 08:38 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/David Bowie - Moonage Daydream.mp3"
+Feb 23 11:10 : avahi: Service 'Music Player' successfully established.
