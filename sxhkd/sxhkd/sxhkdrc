@@ -101,6 +101,9 @@ super + @button{1-3}
 # wm independent hotkeys
 #
 
+super + e
+	thunar
+
 super + Return
     urxvt
 

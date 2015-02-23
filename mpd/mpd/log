@@ -14008,3 +14008,13 @@ Feb 22 17:03 : avahi: Client Disconnected, will reconnect shortly
 Feb 22 19:57 : avahi: Service 'Music Player' successfully established.
 Feb 23 08:38 : player: played "Guardians of the Galaxy - Awesome Mix Vol1/David Bowie - Moonage Daydream.mp3"
 Feb 23 11:10 : avahi: Service 'Music Player' successfully established.
+Feb 23 14:43 : client: [0] opened from [::1]:57406
+Feb 23 14:43 : client: [0] closed
+Feb 23 14:44 : client: [1] opened from [::1]:57413
+Feb 23 14:44 : client: [1] closed
+Feb 23 16:01 : avahi: Client Disconnected, will reconnect shortly
+Feb 23 16:06 : avahi: Service 'Music Player' successfully established.
+Feb 23 17:45 : avahi: Client Disconnected, will reconnect shortly
+Feb 23 18:06 : avahi: Service 'Music Player' successfully established.
+Feb 23 19:27 : avahi: Client Disconnected, will reconnect shortly
+Feb 23 19:40 : avahi: Service 'Music Player' successfully established.
