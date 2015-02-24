@@ -7,7 +7,6 @@ SF="#ccc"
 NB="#111"
 NF="#ccc"
 #FN="-*-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-*"
-#FN="xft:Monospace:size=10:style=bold"
 FN="xft:Monospace:size=10"
 
 OPTIONS="-fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
@@ -19,11 +18,11 @@ CACHE="$HOME/.dmenu_cache_recent"
 ALIASES="$HOME/.bashrc"
 source $ALIASES
 
-CMD_LIST=`compgen -a; compgen -c`
+CMD_LIST=$(compgen -c)
 
 touch $CACHE
-MOST_USED=`sort $CACHE | uniq -c | sort -nr | colrm 1 8`
-RUN_TMP=`(echo "$MOST_USED"; echo "$CMD_LIST" | grep -vxF "$MOST_USED") | $DMENU $@` &&
+MOST_USED=$(sort $CACHE | uniq -c | sort -nr | colrm 1 8)
+RUN_TMP=$((echo "$MOST_USED"; echo "$CMD_LIST" | grep -vxF "$MOST_USED") | $DMENU $@) &&
 (echo $RUN_TMP; head -n 999 $CACHE) > $CACHE.$$ &&
 mv $CACHE.$$ $CACHE
 

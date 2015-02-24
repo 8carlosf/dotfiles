@@ -8,7 +8,6 @@
 " 	vim-syntastic
 " 	vim-nerdtree
 " 	vim-fugitive
-"   vim-multiple-cursors
 " 	rubber
 
 set nocompatible
