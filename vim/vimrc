@@ -31,6 +31,9 @@ set incsearch " incremental searching /
 set mouse=a " enable mouse support in console
 set ttymouse=xterm2 " makes it work in everything
 set backspace=indent,eol,start " make backspace a more flexible
+set foldenable " Turn on folding
+set foldmethod=indent " Fold on the indent (damn you python)
+set foldlevel=100 " Don't autofold anything (but I can still fold manually)
 
 set background=dark
 colorscheme jellybeans
