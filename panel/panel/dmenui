@@ -7,7 +7,7 @@ SF="#ccc"
 NB="#111"
 NF="#ccc"
 #FN="-*-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-*"
-FN="xft:Monospace:size=10"
+FN="xft:Monospace:size=10" #needs dmenu-xft patch
 
 OPTIONS="-fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
 
