@@ -41,7 +41,7 @@ PS1='\n\[\033[0;34m\][\[\033[0m\]\u\[\033[0;34m\]]\[\033[0m\] \W \[\033[0;32m\]\
 export EDITOR="vim"
 #export TERM="xterm"
 # ignorespace comandos comecados por espaco, e ignoredups comandos repetidos
-export HISTCONTROL=ignoreboth
+#export HISTCONTROL=ignoreboth
 HISTFILESIZE=1000000
 HISTSIZE=1000000
 # guardar logo, em vez de so no fim da sessao

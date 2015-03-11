@@ -1,11 +1,12 @@
 
 xterm*font: -*-terminus-medium-r-normal-*-12-*-*-*-c-*-*-1
+XTerm*termName: xterm-256color
 !-------------
 ! URxvt Config
 !-------------
 
-URxvt.termName: linux
-URxvt.background: #101010
+!URxvt.termName: linux
+URxvt*termName: rxvt-unicode
 URxvt.foreground: #FFFFFF
 URxvt.cursosColor: #373232
 URxvt.cursorBlink: true

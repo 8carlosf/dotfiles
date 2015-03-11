@@ -15618,3 +15618,65 @@ Mar 01 19:59 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Son
 Mar 01 19:59 : errno: Failed to open "/home/carlosf/Music/Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/032 - Rolling Stones - Sympathy For The Devil.mp3": No such file or directory
 Mar 01 19:59 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/032 - Rolling Stones - Sympathy For The Devil.mp3"
 Mar 01 19:59 : avahi: Service 'Music Player' successfully established.
+Mar 02 11:43 : avahi: Service name collision, renaming service to 'Music Player #2'
+Mar 02 11:43 : avahi: Service 'Music Player #2' successfully established.
+Mar 02 20:04 : avahi: Service 'Music Player' successfully established.
+Mar 03 11:00 : avahi: Client Disconnected, will reconnect shortly
+Mar 03 11:42 : avahi: Service 'Music Player' successfully established.
+Mar 03 12:24 : avahi: Client Disconnected, will reconnect shortly
+Mar 03 12:24 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Mar 03 12:27 : avahi: Service 'Music Player' successfully established.
+Mar 03 12:48 : avahi: Client Disconnected, will reconnect shortly
+Mar 03 12:54 : avahi: Service 'Music Player' successfully established.
+Mar 03 17:40 : avahi: Service 'Music Player' successfully established.
+Mar 04 11:06 : avahi: Service 'Music Player' successfully established.
+Mar 04 11:28 : avahi: Client Disconnected, will reconnect shortly
+Mar 04 11:28 : avahi: Client Disconnected, will reconnect shortly
+Mar 04 11:28 : avahi: Service 'Music Player' successfully established.
+Mar 04 14:11 : avahi: Service 'Music Player' successfully established.
+Mar 04 14:11 : avahi: Service name collision, renaming service to 'Music Player #2'
+Mar 04 14:11 : avahi: Service 'Music Player #2' successfully established.
+Mar 04 16:13 : playlist: 'playlist_end' not found in state file
+Mar 04 16:13 : avahi: Service 'Music Player' successfully established.
+Mar 04 17:41 : avahi: Client Disconnected, will reconnect shortly
+Mar 04 17:54 : playlist: 'playlist_end' not found in state file
+Mar 04 17:54 : avahi: Service 'Music Player' successfully established.
+Mar 04 18:43 : avahi: Service 'Music Player' successfully established.
+Mar 04 19:45 : avahi: Client Disconnected, will reconnect shortly
+Mar 04 20:41 : avahi: Service 'Music Player' successfully established.
+Mar 04 21:14 : client: [0] opened from [::1]:44046
+Mar 04 21:14 : client: [0] closed
+Mar 04 21:14 : client: [1] opened from [::1]:44048
+Mar 04 21:15 : client: [1] closed
+Mar 04 21:21 : player: played "Music/500 Greatest Songs Of All Time (The Rolling Stone Magazine) [MP3]/001 - Bob Dylan - Like A Rolling Stone.mp3"
+Mar 05 11:14 : avahi: Service 'Music Player' successfully established.
+Mar 05 12:42 : avahi: Client Disconnected, will reconnect shortly
+Mar 05 12:42 : avahi: Client Disconnected, will reconnect shortly
+Mar 05 13:45 : avahi: Service 'Music Player' successfully established.
+Mar 05 15:35 : avahi: Service 'Music Player' successfully established.
+Mar 06 10:57 : avahi: Service 'Music Player' successfully established.
+Mar 06 15:22 : avahi: Client Disconnected, will reconnect shortly
+Mar 06 19:12 : avahi: Service 'Music Player' successfully established.
+Mar 06 19:13 : client: [0] opened from [::1]:52351
+Mar 07 01:35 : client: [0] closed
+Mar 07 12:59 : avahi: Service 'Music Player' successfully established.
+Mar 07 13:00 : client: [0] opened from [::1]:52423
+Mar 08 00:22 : client: [0] closed
+Mar 08 00:22 : avahi: Client Disconnected, will reconnect shortly
+Mar 08 00:22 : avahi: Could not reconnect: Daemon connection failed
+Mar 08 13:22 : avahi: Service 'Music Player' successfully established.
+Mar 08 13:47 : client: [0] opened from [::1]:59788
+Mar 08 16:58 : client: [0] closed
+Mar 08 19:55 : avahi: Service 'Music Player' successfully established.
+Mar 09 10:49 : avahi: Service 'Music Player' successfully established.
+Mar 09 16:11 : avahi: Service 'Music Player' successfully established.
+Mar 09 17:22 : avahi: Service 'Music Player' successfully established.
+Mar 10 11:57 : avahi: Client Disconnected, will reconnect shortly
+Mar 10 13:02 : avahi: Service 'Music Player' successfully established.
+Mar 10 18:16 : avahi: Service 'Music Player' successfully established.
+Mar 11 09:00 : avahi: Client Disconnected, will reconnect shortly
+Mar 11 09:00 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Mar 11 11:05 : avahi: Service 'Music Player' successfully established.
+Mar 11 14:10 : avahi: Service 'Music Player' successfully established.
+Mar 11 15:58 : client: [0] opened from [::1]:42057
+Mar 11 15:58 : client: [0] closed
