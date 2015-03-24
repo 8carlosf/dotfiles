@@ -108,7 +108,7 @@ skip_taskbar true
 sticky true
 
 # tint_color <color>         # set tinting color
-tint_color white
+tint_color black
 
 # tint_level <level>         # set tinting level; level ranges from 0 (disabled)
                              # to 255

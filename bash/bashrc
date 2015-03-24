@@ -7,6 +7,7 @@ alias update='pacaur -Syu'
 alias ls="ls --color=auto"
 alias rm='rm -I'
 alias ll='ls -la'
+alias grep='grep --color=auto'
 alias unrarall='for i in $(tree -if | grep .rar);do unrar x $i; done;'
 alias unrarall2='find -name "*.rar" | parallel unrar x {}'
 alias unzipall='ls | grep .zip | parallel atool -x {}'
@@ -23,6 +24,7 @@ alias lock="slock & xset dpms force off"
 alias chess="GTK2_RC_FILES=/usr/share/themes/Numix-ArchBlue/gtk-2.0/gtkrc pychess"
 
 dualscreen(){
+	xrandr --output LVDS1 --primary
 	xrandr --output VGA1 --mode 1920x1080 --left-of LVDS1
 	bspc monitor VGA1 -d \ 1\  \ 2\  \ 3\  \ 4\  \ 5\  \ 6\ 
 	bspc monitor LVDS1 -d \ 7\  \ 8\  \ 9\  \ 0\ 
@@ -42,6 +44,7 @@ export EDITOR="vim"
 #export TERM="xterm"
 # ignorespace comandos comecados por espaco, e ignoredups comandos repetidos
 #export HISTCONTROL=ignoreboth
+export HISTCONTROL=ignoredups
 HISTFILESIZE=1000000
 HISTSIZE=1000000
 # guardar logo, em vez de so no fim da sessao
