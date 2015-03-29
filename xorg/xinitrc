@@ -11,7 +11,8 @@ fi
 
 xset +fp /usr/share/fonts/local
 xset fp rehash
-setxkbmap -layout pt
+#setxkbmap -layout pt
+setxkbmap -layout pt,us -variant ,intl -option grp:shifts_toggle
 xsetroot -cursor_name left_ptr
 #feh --bg-center ~/Images/wall_archlinux.png
 feh --bg-fill ~/Images/numix.png
@@ -19,10 +20,9 @@ feh --bg-fill ~/Images/numix.png
 
 #exec startxfce4
 
-#xcompmgr &
 compton &
-sxhkd &
-2> ~/.bspwm.log &
+#sxhkd &
+#2> ~/.bspwm.log &
 
 #wicd-client -t &
 numlockx &
@@ -31,5 +31,7 @@ nm-applet &
 QT_STYLE_OVERRIDE=gtk dropbox &
 #caffeine &
 
-exec dbus-launch bspwm -s "$PANEL_FIFO" -p W
+exec i3
+#exec dbus-launch bspwm -s "$PANEL_FIFO" -p W
+#exec openbox-session
 
