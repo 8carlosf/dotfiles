@@ -15,10 +15,23 @@ xset fp rehash
 setxkbmap -layout pt,us -variant ,intl -option grp:shifts_toggle
 xsetroot -cursor_name left_ptr
 #feh --bg-center ~/Images/wall_archlinux.png
+# Disable DPMS turning off the screen
+xset -dpms
+xset s off
+# Disable bell
+xset b off
+
 feh --bg-fill ~/Images/numix.png
 #wmname LG3D
 
+# Use XToolkit in java applications
+export AWT_TOOLKIT=XToolkit
+
+# Enable core dumps in case something goes wrong
+ulimit -c unlimited
+
 #exec startxfce4
+
 
 compton &
 #sxhkd &
