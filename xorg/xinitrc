@@ -20,6 +20,7 @@ xset -dpms
 xset s off
 # Disable bell
 xset b off
+unclutter -idle 2 & #needs unclutter, mouse disappears after 2 secs
 
 feh --bg-fill ~/Images/numix.png
 #wmname LG3D
@@ -31,7 +32,6 @@ export AWT_TOOLKIT=XToolkit
 ulimit -c unlimited
 
 #exec startxfce4
-
 
 compton &
 #sxhkd &
