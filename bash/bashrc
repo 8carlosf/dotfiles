@@ -20,7 +20,7 @@ alias flac2mp3='find -name "*.flac" | parallel ffmpeg -i {} -acodec libmp3lame -
 alias matlab='/home/carlosf/Apps/Matlab/bin/matlab -nosplash -desktop'
 alias matlab1='/home/carlosf/Apps/Matlab/bin/matlab -nodesktop'
 alias please='sudo !!'
-alias lock="slock & xset dpms force off"
+#alias lock="slock & xset dpms force off"
 alias chess="GTK2_RC_FILES=/usr/share/themes/Numix-ArchBlue/gtk-2.0/gtkrc pychess"
 
 dualscreen(){

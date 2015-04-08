@@ -156,8 +156,8 @@ bindsym $mod+Escape mode $sysmenu
 mode $sysmenu {
     bindsym r         restart
     bindsym o         exit
-	bindsym s         $exec ~/.i3/lock.sh && systemctl suspend, mode "default"
-    bindsym l         $exec ~/.i3/lock.sh, mode "default"
+	bindsym s         $exec lock && systemctl suspend, mode "default"
+    bindsym l         $exec lock, mode "default"
     bindsym p         exec poweroff
     bindsym b         exec reboot
     bindsym Return    mode "default"

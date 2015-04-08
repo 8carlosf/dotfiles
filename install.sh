@@ -43,3 +43,5 @@ homerepo="$HOME/dotfiles"
 # [mpd]
 #ln -sf $homerepo/mpd/mpd $HOME/.config/mpd
 
+# [i3]
+#ln -sf $homerepo/i3 $HOME/.i3
