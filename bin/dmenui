@@ -1,0 +1,49 @@
+#!/bin/bash
+# end a command with ; to run in a terminal
+# end a command with ! to run in a terminal and hold
+
+NB="#222222"
+NF="#888888"
+SB="#0088CC"
+SF="#ffffff"
+
+#FN="-*-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-*"
+FN="xft:Monospace:size=10" #needs dmenu-xft patch ≡ ×
+
+OPTIONS="-p × -fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
+
+DMENU="dmenu -i $OPTIONS"
+TERMI="urxvt" #must have -e and -name flags
+TERMI_HOLD="urxvt -hold -e "
+CACHE="$HOME/.dmenu_cache_recent"
+ALIASES="$HOME/.bashrc"
+source $ALIASES
+
+CMD_LIST=$(compgen -c)
+
+touch $CACHE
+MOST_USED=$(sort $CACHE | uniq -c | sort -nr | colrm 1 8)
+RUN_TMP=$((echo "$MOST_USED"; echo "$CMD_LIST" | grep -vxF "$MOST_USED") | $DMENU $@) &&
+(echo $RUN_TMP; head -n 999 $CACHE) > $CACHE.$$ &&
+mv $CACHE.$$ $CACHE
+
+if [ ! -z "$RUN_TMP" ]; then
+	RUN=$(alias | grep "${RUN_TMP/[\!\;\?]/}=" | cut -f2 -d "'" | tr -d "'")
+
+	if [ -z "$RUN" ]; then
+		RUN=${RUN_TMP/[\!\;\?]/}
+	fi
+
+fi
+
+case $RUN_TMP in
+	*\!)
+		echo "$TERMI_HOLD $RUN" | bash;;
+	*\;)
+		echo "$TERMI -e $RUN" | bash;;
+	*\?)
+		echo "$TERMI -name $RUN -e $RUN" | bash;;
+    *)
+		compgen -F "$RUN" || (echo "$RUN" | bash);;
+esac
+

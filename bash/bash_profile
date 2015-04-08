@@ -5,11 +5,11 @@
 [[ -f ~/.bashrc ]] && . ~/.bashrc
 
 export XDG_CONFIG_HOME="/home/carlosf/.config"
-export BSPWM_SOCKET="/tmp/bspwm-socket"
-export PANEL_FIFO="/tmp/panel-fifo"
-export PATH="$PATH:/home/carlosf/.config/panel"
-export PATH="$PATH:/home/carlosf/.config/bspwm"
-export PANEL_HEIGHT=18
+#export BSPWM_SOCKET="/tmp/bspwm-socket"
+#export PANEL_FIFO="/tmp/panel-fifo"
+export PATH="$PATH:$HOME/dotfiles/bin"
+#export PATH="$PATH:/home/carlosf/.config/bspwm"
+#export PANEL_HEIGHT=18
 
 # MPD daemon start (if no other user instance exists)
 #[ ! -s ~/.config/mpd/pid ] && mpd
