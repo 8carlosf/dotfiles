@@ -25,7 +25,7 @@ echo V$(amixer set Master 0%+ | grep -m 1 % | awk -F [ '{print $2}' | awk -F %] 
 case "$flavor" in
     bar)
 		FONT_FAMILY='-*-terminus-medium-r-normal-*-12-*-*-*-c-*-*-1'
-        cat "$PANEL_FIFO" | panel_bar | bar-aint-recursive -g x$PANEL_HEIGHT -f "$FONT_FAMILY" -F "$COLOR_FOREGROUND" -B "$COLOR_BACKGROUND" &
+        cat "$PANEL_FIFO" | panel_bar | lemonbar -g x$PANEL_HEIGHT -f "$FONT_FAMILY" -F "$COLOR_FOREGROUND" -B "$COLOR_BACKGROUND" &
         ;;
     dzen2)
         FONT_FAMILY='DejaVu Sans'

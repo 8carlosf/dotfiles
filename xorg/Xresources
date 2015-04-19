@@ -31,16 +31,23 @@ URxvt.urgentOnBell: true
 !!! gruvbox colors
 
 ! hard contrast: 
-*background: #1d2021
+!!*background: #1d2021
+*background: #151515
 ! normal contrast
 ! *background: #282828
 ! soft contrast: 
 ! *background: #32302f
-*foreground: #ebdbb2
+!!*foreground: #ebdbb2
+*foreground: #d0d0d0
+
+! black
+*.color0:       #151515
+*.color8:       #505050
 
 ! Black + DarkGrey
-*color0:  #282828
-*color8:  #928374
+!!*color0:  #282828
+!!*color8:  #928374
+
 ! DarkRed + Red
 *color1:  #cc241d
 *color9:  #fb4934
