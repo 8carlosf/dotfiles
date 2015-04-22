@@ -26,6 +26,7 @@ floating_modifier $mod
 
 # start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Shift+Return exec --no-startup-id termite
 
 # kill focused window
 bindsym $mod+q kill
@@ -226,6 +227,7 @@ bindsym $mod+Shift+Tab move container to workspace back_and_forth
 bindsym $mod+n workspace next_on_output
 bindsym $mod+Shift+n workspace prev_on_output
 bindsym $mod+p workspace prev_on_output
+bindsym $mod+m workspace prev_on_output
 
 bindsym $mod+x [urgent=latest] focus
 

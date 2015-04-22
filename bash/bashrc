@@ -52,4 +52,5 @@ PROMPT_COMMAND='history -a'
 bind '"\e[A":history-search-backward'
 bind '"\e[B":history-search-forward'
 shopt -s checkwinsize
+eval $(dircolors ~/.dircolors) #termite stuff
 
