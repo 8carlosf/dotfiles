@@ -37,9 +37,13 @@ dualscreen(){
 [[ $- != *i* ]] && return
 
 #PS1='[\u@\h \W]\$ '
-#PS1='\n\[\033[0;34m\][\[\033[0m\]\u\[\033[0;34m\]]\[\033[0m\] \W \[\033[0;34m\]\$\[\033[0m\] '
-#PS1='\n\e[104;30m\u\e[40;94m\e[40;93m \W\e[44;30m\e[44;97m \$\e[;34m\e[0m '
-PS1='\n\e[40;93m \W \e[44;30m\e[44;97m \$ \e[;34m\e[0m '
+if [ "${TERM%%-*}" = 'linux' ]; then
+	#PS1='\n\e[104;30m\u\e[40;94m\e[40;93m \W\e[44;30m\e[44;97m \$\e[;34m\e[0m '
+	PS1='\n\[\033[0;34m\][\[\033[0m\]\u\[\033[0;34m\]]\[\033[0m\] \W \[\033[0;34m\]\$\[\033[0m\] '
+else
+	PS1='\n\e[40;93m \W \e[44;30m\e[44;97m \$ \e[;34m\e[0m '
+fi
+
 # .inputrc #set completion-ignore-case on
 #set show-all-if-ambiguous on
 export EDITOR="vim"
