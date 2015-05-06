@@ -15,5 +15,5 @@ gm convert $fscrn -scale 10% -scale 1000% $fscrn
 i3lock -dui $fscrn
 rm $fscrn
 
-unclutter -grab -idle 2 -jitter 4
+unclutter -grab -idle 2 -jitter 4 &
 
