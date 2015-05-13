@@ -1,7 +1,5 @@
 #!/bin/bash
 
-pkill unclutter #unclutter -grab breaks i3lock
-
 fscrn=$(mktemp --tmpdir XXXX.png)
 
 # requires graphicsmagick for better performance (erase <gm> to use imagemagick) 
@@ -14,6 +12,4 @@ gm convert $fscrn -scale 10% -scale 1000% $fscrn
 
 i3lock -dui $fscrn
 rm $fscrn
-
-unclutter -grab -idle 2 -jitter 4 &
 

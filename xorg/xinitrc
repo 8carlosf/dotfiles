@@ -20,7 +20,7 @@ xset -dpms
 xset s off
 # Disable bell
 xset b off
-unclutter -grab -idle 2 -jitter 4 & #needs unclutter, mouse disappears after 2 secs -grab breaks i3lock
+hidcur 2 &
 
 feh --bg-fill ~/Images/numix.png
 #wmname LG3D
