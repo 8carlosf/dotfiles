@@ -4,6 +4,7 @@
 
 alias pacman='pacaur'
 alias update='pacaur -Syu'
+alias update-git='pacaur -Syua --devel --needed'
 alias ls="ls --color=auto"
 alias rm='rm -I'
 alias ll='ls -la'
