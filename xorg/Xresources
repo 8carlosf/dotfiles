@@ -16,7 +16,7 @@ URxvt.boldFont: xft:Monospace:size=9, xft:DejaVu Sans Mono Bold for Powerline:si
 URxvt.scrollBar: false
 URxvt.perl-ext-common: default,matcher
 URxvt.urlLauncher: chromium
-URxvt.colorUL: #e08175
+!URxvt.colorUL: #e08175
 URxvt.matcher.button: 1
 URxvt.urgentOnBell: true
 
@@ -70,3 +70,9 @@ URxvt.urgentOnBell: true
 ! LightGrey + White
 *.color7:  #a89984
 *.color15: #ebdbb2
+
+!! man colors
+URxvt.colorIT: #87af5f
+URxvt.colorBD: #d7d7d7
+URxvt.colorUL: #87afd7
+
