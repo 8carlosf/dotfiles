@@ -154,7 +154,8 @@ bindsym $mod+Escape mode $sysmenu
 mode $sysmenu {
     bindsym r         restart
     bindsym o         exit
-	bindsym s         exec --no-startup-id lock && systemctl suspend, mode "default"
+#	bindsym s         exec --no-startup-id lock && systemctl suspend, mode "default"
+	bindsym s         exec --no-startup-id systemctl suspend, mode "default"
     bindsym l         exec --no-startup-id lock, mode "default"
     bindsym p         exec poweroff
     bindsym b         exec reboot

@@ -23,6 +23,8 @@ alias matlab1='/home/carlosf/Apps/Matlab/bin/matlab -nodesktop'
 alias please='sudo !!'
 #alias lock="slock & xset dpms force off"
 alias chess="GTK2_RC_FILES=/usr/share/themes/Numix-ArchBlue/gtk-2.0/gtkrc pychess"
+alias mpvl="mpv --no-resume-playback"
+alias private_mode='unset HISTFILE'
 
 dualscreen(){
 	xrandr --output LVDS1 --primary

@@ -20,7 +20,7 @@ xset -dpms
 xset s off
 # Disable bell
 xset b off
-hidcur 2 &
+unclutter --timeout 2 -b #Airblader/unclutter-xfixes
 
 feh --bg-fill ~/Images/numix.png
 #wmname LG3D
@@ -33,7 +33,7 @@ ulimit -c unlimited
 
 #exec startxfce4
 
-compton &
+compton -b
 #sxhkd &
 #2> ~/.bspwm.log &
 
