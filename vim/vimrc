@@ -1,16 +1,24 @@
-" dependencies:
-" 	vim-supertab
-" 	vim-jellybeans
-" 	vim-colors-gruvbox-git
-" 	vim-airline
-" 		otf-powerline-symbols-git
-" 	vim-bufferline-git
-" 	vim-syntastic
-" 	vim-nerdtree
-" 	vim-fugitive
-" 	rubber
+
+call plug#begin('~/.vim/plugged')
+
+Plug 'ervandew/supertab'
+Plug 'nanotech/jellybeans.vim'
+"Plug 'morhetz/gruvbox'
+Plug 'bling/vim-airline'
+" aur/ttf-dejavu-sans-mono-powerline-git
+" ?aur/otf-powerline-symbols-git
+"Plug 'bling/vim-bufferline'
+"Plug 'scrooloose/syntastic'
+Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
+Plug 'tpope/vim-fugitive'
+" community/rubber
+Plug 'godlygeek/tabular', { 'on': 'Tabularize' }
+
+call plug#end()
+
 
 set nocompatible
+set encoding=utf-8
 syntax enable " enable syntax highlight
 set tabstop=4	" numbers of spaces of tab character
 set shiftwidth=4	" numbers of spaces to (auto)indent
@@ -44,8 +52,7 @@ colorscheme jellybeans
 set laststatus=2
 set timeoutlen=50
 "let g:airline#extensions#tabline#enabled = 1
-let g:airline_detect_whitespace = 0
-
+let g:airline#extensions#whitespace#enabled = 0
 let g:airline_powerline_fonts = 1 " needs powerline fonts
 
 "if !exists('g:airline_symbols')
