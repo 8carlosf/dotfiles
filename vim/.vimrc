@@ -80,6 +80,9 @@ command! Q  quit
 command! WL  w | !rubber -d %; rubber --clean %
 command! SW w !sudo tee %
 
+" toggle spellcheck
+command Spell :setlocal spell! spell?
+
 " clipboard
 "nmap <C-V> "+gP
 "imap <C-V> <ESC><C-V>i
