@@ -20,7 +20,7 @@ Examples:
 ```
 [~/dotfiles]$ cp -r --parents /etc/pacman.conf pacman/
 
-[~]$ cp -r --parents .config/compton.conf dotfiles/compton/
+[~]$ cp -r --parents .config/ncmpcpp/ dotfiles/ncmpcpp/
 ```
 
 If you don't know the meaning of the above command check `man cp`.
