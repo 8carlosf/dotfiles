@@ -1,0 +1,14 @@
+
+mpd/.config/mpd/log
+ncmpcpp/.ncmpcpp/error.log
+mpv/.config/mpv/watch_later/
+gtk/.config/gtk-3.0/bookmarks
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
