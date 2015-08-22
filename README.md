@@ -21,7 +21,6 @@ Examples:
 [~/dotfiles]$ cp -r --parents /etc/pacman.conf pacman/
 
 [~]$ cp -r --parents .config/compton.conf dotfiles/compton/
-
 ```
 
 If you don't know the meaning of the above command check `man cp`.
@@ -50,11 +49,13 @@ Or if you want to install a config in `/root`, you do:
 If you want to switch configs (for examples, if you have 2 vim configs, named **vim-min**, and **vim**):
 
 `stow -vD vim-min`
+
 `stow -v vim`
 
 To finish, if you added a file to group and want to upgrade the symlinks without manually removing the instalation with `-D` and then installing again, you can use:
 
 `stow -vR vim`
+
 
 
 Please report any issues and suggestions. Thank you
