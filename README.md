@@ -41,7 +41,7 @@ and this will create all symlinks, otherwise stow will tell you why it couldn't 
 
 To install a config that doesn't reside in the `~`, for example the **pacman** config, you do:
 
-`stow -vt / pacman'
+`stow -vt / pacman`
 
 Or if you want to install a config in `/root`, you do:
 
@@ -55,7 +55,6 @@ If you want to switch configs (for examples, if you have 2 vim configs, named **
 To finish, if you added a file to group and want to upgrade the symlinks without manually removing the instalation with `-D` and then installing again, you can use:
 
 `stow -vR vim`
-
 
 
 Please report any issues and suggestions. Thank you
