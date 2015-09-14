@@ -13,6 +13,7 @@ Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'tpope/vim-fugitive'
 " community/rubber
 Plug 'godlygeek/tabular', { 'on': 'Tabularize' }
+Plug 'PotatoesMaster/i3-vim-syntax'
 
 call plug#end()
 
@@ -81,7 +82,7 @@ command! WL  w | !rubber -d %; rubber --clean %
 command! SW w !sudo tee %
 
 " toggle spellcheck
-command Spell :setlocal spell! spell?
+command! Spell :setlocal spell! spell?
 
 " clipboard
 "nmap <C-V> "+gP
