@@ -191,13 +191,14 @@ client.urgent           #2f343a #900000 #ffffff #900000
 client.focused_inactive #444444 #444444 #AAAAAA #292d2e
 client.unfocused        #444444 #444444 #AAAAAA #292d2e
 
-new_window pixel 2
+new_window pixel 3
 new_float normal
 #workspace_auto_back_and_forth yes
 
 ####  RULES      ####
 for_window [class="Pidgin"] floating enable
 for_window [class="Sonata"] floating enable
+for_window [class="Connman-gtk"] floating enable
 
 for_window [class="URxvt" instance="ncmpcpp"] floating enable
 for_window [class="URxvt" instance="htop"] floating enable
