@@ -2,9 +2,10 @@
 	email = 8carlosf@gmail.com
 	name = carlosf
 [merge]
-	tool = meld
+	tool = gvimdiff
 [diff]
-	tool = meld
+	tool = gvimdiff
 [push]
 	default = simple
-
+[core]
+	editor = vim

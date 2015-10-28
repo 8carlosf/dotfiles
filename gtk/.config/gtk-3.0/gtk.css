@@ -1,5 +1,6 @@
-/*.window-frame {box-shadow: none; margin: 0}*/
+.window-frame {box-shadow: none; margin: 0}
 
+/*
 .window-frame, .window-frame:backdrop {
  box-shadow: 0 0 0 black;
  border-style: none;
@@ -19,6 +20,7 @@
   background-image: none;
   box-shadow: none;
 }
+*/
 
 /* You may want to use this if you don't like the double title.
 GtkLabel.title {

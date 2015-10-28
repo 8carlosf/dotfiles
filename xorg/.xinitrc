@@ -40,7 +40,7 @@ compton -b
 #wicd-client -t &
 numlockx &
 redshift-gtk -l 40.2:-8.4 &
-#nm-applet &
+nm-applet &
 QT_STYLE_OVERRIDE=gtk dropbox &
 #caffeine &
 

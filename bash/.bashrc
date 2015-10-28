@@ -22,8 +22,9 @@ alias matlab='/home/carlosf/Apps/Matlab/bin/matlab -nosplash -desktop'
 alias matlab1='/home/carlosf/Apps/Matlab/bin/matlab -nodesktop'
 alias please='sudo !!'
 #alias lock="slock & xset dpms force off"
-alias chess="GTK2_RC_FILES=/usr/share/themes/Numix-ArchBlue/gtk-2.0/gtkrc pychess"
-alias mpvl="mpv --no-resume-playback"
+alias chess='GTK2_RC_FILES=/usr/share/themes/Numix-ArchBlue/gtk-2.0/gtkrc pychess'
+alias mpvl='mpv --no-resume-playback'
+alias calc='python3 -ic "from math import *"'
 alias private_mode='unset HISTFILE'
 
 dualscreen(){
@@ -62,8 +63,8 @@ fi
 
 # .inputrc #set completion-ignore-case on
 #set show-all-if-ambiguous on
-export EDITOR="vim"
-#export TERM="xterm"
+export EDITOR='vim'
+#export TERM='xterm
 # ignorespace comandos comecados por espaco, e ignoredups comandos repetidos
 #export HISTCONTROL=ignoreboth
 export HISTCONTROL=ignoredups
