@@ -14,7 +14,7 @@ OPTIONS="-p × -fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
 
 DMENU="dmenu -i $OPTIONS"
 TERMI="urxvt" #must have -e and -name flags
-TERMI_HOLD="urxvt -hold -e "
+TERMI_HOLD="urxvt -hold"
 CACHE="$HOME/.dmenu_cache_recent"
 ALIASES="$HOME/.bashrc"
 source "$ALIASES"
@@ -38,11 +38,11 @@ fi
 
 case $RUN_TMP in
 	*\!)
-		echo "$TERMI_HOLD $RUN" | bash;;
+		echo "$TERMI_HOLD -e bash -c '$RUN'" | bash;;
 	*\;)
-		echo "$TERMI -e $RUN" | bash;;
+		echo "$TERMI -e bash -c '$RUN'" | bash;;
 	*\?)
-		echo "$TERMI -name $RUN -e $RUN" | bash;;
+		echo "$TERMI -name '$RUN' -e bash -c '$RUN'" | bash;;
     *)
 		compgen -F "$RUN" || (echo "$RUN" | bash);;
 esac
