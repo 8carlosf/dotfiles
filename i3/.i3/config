@@ -171,7 +171,7 @@ bar {
 	status_command i3blocks -c ~/.i3/i3blocks.conf
 	position       top
 	tray_output    LVDS1
-	
+
 	separator_symbol ""
 	colors {
 		separator  #666666
@@ -203,7 +203,7 @@ for_window [class="Connman-gtk"] floating enable
 for_window [class="URxvt" instance="ncmpcpp"] floating enable
 for_window [class="URxvt" instance="htop"] floating enable
 
-assign [class="Chromium"] 2
+assign [class="(?i)chromium"] 2
 assign [class="Firefox"] 2
 assign [class="Pidgin"] 9
 assign [class="Deluge"] 10
@@ -219,6 +219,10 @@ bindsym XF86AudioMute exec --no-startup-id "amixer -q set Master toggle && pkill
 bindsym XF86AudioPlay exec --no-startup-id "mpc toggle"
 bindsym XF86AudioPrev exec --no-startup-id "mpc prev"
 bindsym XF86AudioNext exec --no-startup-id "mpc next"
+
+# send PrtSc to /tmp
+bindsym --release Print exec --no-startup-id scrot '/tmp/%s.png'
+bindsym --release Shift+Print exec --no-startup-id scrot -u '/tmp/%s.png'
 
 bindsym Ctrl+Mod1+Delete exec --no-startup-id "urxvt -name htop -e htop"
 bindsym $mod+t exec --no-startup-id thunar
