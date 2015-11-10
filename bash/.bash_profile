@@ -4,7 +4,7 @@
 
 [[ -f ~/.bashrc ]] && . ~/.bashrc
 
-export XDG_CONFIG_HOME="/home/carlosf/.config"
+export XDG_CONFIG_HOME="$HOME/.config"
 #export BSPWM_SOCKET="/tmp/bspwm-socket"
 #export PANEL_FIFO="/tmp/panel-fifo"
 export PATH="$PATH:$HOME/dotfiles/bin"

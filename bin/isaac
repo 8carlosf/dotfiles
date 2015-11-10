@@ -1,3 +1,0 @@
-#!/bin/sh
-cd /home/carlosf/Downloads/The\ Binding\ of\ Isaac\ Rebirth/
-sh run-x64.sh

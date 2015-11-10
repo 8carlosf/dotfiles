@@ -25,6 +25,7 @@ alias please='sudo !!'
 alias chess='GTK2_RC_FILES=/usr/share/themes/Numix-ArchBlue/gtk-2.0/gtkrc pychess'
 alias mpvl='mpv --no-resume-playback'
 alias calc='python3 -ic "from math import *"'
+alias ydl='youtube-dl -f best --restrict-filenames'
 alias private_mode='unset HISTFILE'
 
 dualscreen(){

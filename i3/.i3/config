@@ -242,5 +242,6 @@ bindsym $mod+x [urgent=latest] focus
 bindsym $mod+z move workspace to output right
 
 
+exec --no-startup-id 'xbacklight = 50'
 
 # vim:filetype=i3
