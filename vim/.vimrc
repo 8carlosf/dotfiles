@@ -11,7 +11,7 @@ Plug 'bling/vim-airline'
 "Plug 'scrooloose/syntastic'
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'tpope/vim-fugitive'
-" community/rubber
+Plug 'rking/ag.vim' " community/the_silver_searcher
 Plug 'godlygeek/tabular', { 'on': 'Tabularize' }
 Plug 'PotatoesMaster/i3-vim-syntax'
 
@@ -79,6 +79,7 @@ map <C-n> :NERDTreeToggle<CR>
 command! W  write
 command! Q  quit
 command! WL  w | !rubber -d %; rubber --clean %
+" community/rubber
 command! SW w !sudo tee %
 
 " toggle spellcheck
