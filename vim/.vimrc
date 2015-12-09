@@ -14,6 +14,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'rking/ag.vim' " community/the_silver_searcher
 Plug 'godlygeek/tabular', { 'on': 'Tabularize' }
 Plug 'PotatoesMaster/i3-vim-syntax'
+Plug 'kchmck/vim-coffee-script'
 
 call plug#end()
 
