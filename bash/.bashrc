@@ -24,6 +24,7 @@ alias please='sudo !!'
 #alias lock="slock & xset dpms force off"
 alias chess='GTK2_RC_FILES=/usr/share/themes/Numix-ArchBlue/gtk-2.0/gtkrc pychess'
 alias mpvl='mpv --no-resume-playback'
+alias uglify='uglifyjs --compress --mangle -- '
 alias calc='python3 -ic "from math import *"'
 alias ydl='youtube-dl -f best --restrict-filenames'
 alias private_mode='unset HISTFILE'
@@ -77,4 +78,6 @@ bind '"\e[A":history-search-backward'
 bind '"\e[B":history-search-forward'
 shopt -s checkwinsize
 eval $(dircolors ~/.dircolors) #termite stuff
+# z - jump around
+. ~/dotfiles/bin/z/z.sh
 
