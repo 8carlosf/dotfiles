@@ -78,6 +78,6 @@ bind '"\e[A":history-search-backward'
 bind '"\e[B":history-search-forward'
 shopt -s checkwinsize
 eval $(dircolors ~/.dircolors) #termite stuff
-# z - jump around
-. ~/dotfiles/bin/z/z.sh
+# z-git - jump around
+. /usr/lib/z.sh
 
