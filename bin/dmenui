@@ -8,13 +8,14 @@ SB="#0088CC"
 SF="#ffffff"
 
 #FN="-*-fixed-medium-r-semicondensed-*-13-*-*-*-*-*-iso10646-*"
-FN="xft:Monospace:size=10" #needs dmenu-xft patch ≡ ×
+#FN="-misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1"
+FN="xft:Monospace:size=10" #needs dmenu-xft (or dmenu2) patch ≡ ×
 
 OPTIONS="-p × -fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
 
 DMENU="dmenu -i $OPTIONS"
-TERMI="urxvt" #must have -e and -name flags
-TERMI_HOLD="urxvt -hold"
+TERMI="termite" #must have -e and --name= (-name) flags
+TERMI_HOLD="termite --hold"
 CACHE="$HOME/.dmenu_cache_recent"
 ALIASES="$HOME/.bashrc"
 source "$ALIASES"
@@ -38,11 +39,11 @@ fi
 
 case $RUN_TMP in
 	*\!)
-		echo "$TERMI_HOLD -e bash -c '$RUN'" | bash;;
+		echo "$TERMI_HOLD -e \"bash -c '$RUN'\"" | bash;;
 	*\;)
-		echo "$TERMI -e bash -c '$RUN'" | bash;;
+		echo "$TERMI -e \"bash -c '$RUN'\"" | bash;;
 	*\?)
-		echo "$TERMI -name '$RUN' -e bash -c '$RUN'" | bash;;
+		echo "$TERMI --name='$RUN' -e \"bash -c '$RUN'\"" | bash;;
     *)
 		compgen -F "$RUN" || (echo "$RUN" | bash);;
 esac

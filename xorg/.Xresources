@@ -1,3 +1,10 @@
+! Fonts
+Xft.dpi: 96
+Xft.antialias: true
+Xft.rgba: rgb
+!Xft.hinting: true
+!Xft.hintstyle: hintslight
+
 xterm*font: -*-terminus-medium-r-normal-*-12-*-*-*-c-*-*-1
 XTerm*termName: xterm-256color
 !-------------

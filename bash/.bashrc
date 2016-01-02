@@ -81,3 +81,7 @@ eval $(dircolors ~/.dircolors) #termite stuff
 # z-git - jump around
 . /usr/lib/z.sh
 
+# set vimpager as default terminal pager
+#export PAGER='vimpager'
+#alias less=$PAGER
+
