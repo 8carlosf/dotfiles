@@ -1,13 +1,23 @@
 # Should you change your keyboard layout some time, delete
 # this file and re-run i3-config-wizard(1).
 #
-
 # i3 config file (v4)
 #
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
 set $mod Mod4
-#set $exec exec --no-startup-id
+set $exec exec --no-startup-id
+
+set $ws1 "1:1"
+set $ws2 "2:2"
+set $ws3 "3:3"
+set $ws4 "4:4"
+set $ws5 "5:5"
+set $ws6 "6:6"
+set $ws7 "7:7"
+set $ws8 "8:8"
+set $ws9 "9:9"
+set $ws0 "10:0"
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -26,17 +36,17 @@ floating_modifier $mod
 
 # start a terminal
 bindsym $mod+Shift+Return exec i3-sensible-terminal
-bindsym $mod+Return exec --no-startup-id termite
+bindsym $mod+Return $exec termite
 
 # kill focused window
 bindsym $mod+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+space exec --no-startup-id dmenui
+bindsym $mod+space $exec dmenui
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
-# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+# bindsym $mod+d $exec i3-dmenu-desktop
 
 # change focus
 bindsym $mod+h focus left
@@ -89,28 +99,28 @@ bindsym $mod+a focus parent
 bindsym $mod+d focus child
 
 # switch to workspace
-bindsym $mod+1 workspace 1
-bindsym $mod+2 workspace 2
-bindsym $mod+3 workspace 3
-bindsym $mod+4 workspace 4
-bindsym $mod+5 workspace 5
-bindsym $mod+6 workspace 6
-bindsym $mod+7 workspace 7
-bindsym $mod+8 workspace 8
-bindsym $mod+9 workspace 9
-bindsym $mod+0 workspace 10
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace $ws5
+bindsym $mod+6 workspace $ws6
+bindsym $mod+7 workspace $ws7
+bindsym $mod+8 workspace $ws8
+bindsym $mod+9 workspace $ws9
+bindsym $mod+0 workspace $ws0
 
 # move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace 1
-bindsym $mod+Shift+2 move container to workspace 2
-bindsym $mod+Shift+3 move container to workspace 3
-bindsym $mod+Shift+4 move container to workspace 4
-bindsym $mod+Shift+5 move container to workspace 5
-bindsym $mod+Shift+6 move container to workspace 6
-bindsym $mod+Shift+7 move container to workspace 7
-bindsym $mod+Shift+8 move container to workspace 8
-bindsym $mod+Shift+9 move container to workspace 9
-bindsym $mod+Shift+0 move container to workspace 10
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5
+bindsym $mod+Shift+6 move container to workspace $ws6
+bindsym $mod+Shift+7 move container to workspace $ws7
+bindsym $mod+Shift+8 move container to workspace $ws8
+bindsym $mod+Shift+9 move container to workspace $ws9
+bindsym $mod+Shift+0 move container to workspace $ws0
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -154,9 +164,9 @@ bindsym $mod+Escape mode $sysmenu
 mode $sysmenu {
     bindsym r         restart
     bindsym o         exit
-#	bindsym s         exec --no-startup-id lock && systemctl suspend, mode "default"
-	bindsym s         exec --no-startup-id systemctl suspend, mode "default"
-    bindsym l         exec --no-startup-id lock, mode "default"
+#	bindsym s         $exec lock && systemctl suspend, mode "default"
+	bindsym s         $exec systemctl suspend, mode "default"
+    bindsym l         $exec lock, mode "default"
     bindsym p         exec poweroff
     bindsym b         exec reboot
     bindsym Return    mode "default"
@@ -171,6 +181,7 @@ bar {
 	status_command i3blocks -c ~/.i3/i3blocks.conf
 	position       top
 	tray_output    LVDS1
+	strip_workspace_numbers yes
 
 	separator_symbol ""
 	colors {
@@ -195,7 +206,7 @@ new_window pixel 3
 new_float normal
 #workspace_auto_back_and_forth yes
 
-####  RULES      ####
+####    RULES    ####
 for_window [class="Pidgin"] floating enable
 for_window [class="Sonata"] floating enable
 for_window [class="Connman-gtk"] floating enable
@@ -203,29 +214,29 @@ for_window [class="Connman-gtk"] floating enable
 for_window [class="Termite" instance="ncmpcpp"] floating enable
 for_window [class="Termite" instance="htop"] floating enable
 
-assign [class="(?i)chromium"] 2
-assign [class="Firefox"] 2
-assign [class="Pidgin"] 9
-assign [class="Transmission"] 10
+assign [class="(?i)chromium"] $ws2
+assign [class="Firefox"] $ws2
+assign [class="Pidgin"] $ws9
+assign [class="Transmission"] $ws0
 
 
 ####  SHORTCUTS  ####
-bindsym XF86MonBrightnessUp exec --no-startup-id "xbacklight + 10 && pkill -RTMIN+1 i3blocks"
-bindsym XF86MonBrightnessDown exec --no-startup-id "xbacklight - 10 && pkill -RTMIN+1 i3blocks"
+bindsym XF86MonBrightnessUp $exec "xbacklight + 10 && pkill -RTMIN+1 i3blocks"
+bindsym XF86MonBrightnessDown $exec "xbacklight - 10 && pkill -RTMIN+1 i3blocks"
 
-bindsym XF86AudioRaiseVolume exec --no-startup-id "amixer set Master 5%+ unmute && pkill -RTMIN+2 i3blocks"
-bindsym XF86AudioLowerVolume exec --no-startup-id "amixer set Master 5%- unmute && pkill -RTMIN+2 i3blocks"
-bindsym XF86AudioMute exec --no-startup-id "amixer -q set Master toggle && pkill -RTMIN+2 i3blocks"
-bindsym XF86AudioPlay exec --no-startup-id "mpc toggle"
-bindsym XF86AudioPrev exec --no-startup-id "mpc prev"
-bindsym XF86AudioNext exec --no-startup-id "mpc next"
+bindsym XF86AudioRaiseVolume $exec "amixer set Master 5%+ unmute && pkill -RTMIN+2 i3blocks"
+bindsym XF86AudioLowerVolume $exec "amixer set Master 5%- unmute && pkill -RTMIN+2 i3blocks"
+bindsym XF86AudioMute $exec "amixer -q set Master toggle && pkill -RTMIN+2 i3blocks"
+bindsym XF86AudioPlay $exec "mpc toggle"
+bindsym XF86AudioPrev $exec "mpc prev"
+bindsym XF86AudioNext $exec "mpc next"
 
 # send PrtSc to /tmp
-bindsym --release Print exec --no-startup-id scrot '/tmp/%s.png'
-bindsym --release Shift+Print exec --no-startup-id scrot -u '/tmp/%s.png'
+bindsym --release Print $exec scrot '/tmp/%s.png'
+bindsym --release Shift+Print $exec scrot -u '/tmp/%s.png'
 
-bindsym Ctrl+Mod1+Delete exec --no-startup-id "termite --name=htop -e htop"
-bindsym $mod+t exec --no-startup-id thunar
+bindsym Ctrl+Mod1+Delete $exec "termite --name=htop -e htop"
+bindsym $mod+t $exec thunar
 
 # switch between the current and the previously focused one
 bindsym $mod+Tab workspace back_and_forth
@@ -241,7 +252,16 @@ bindsym $mod+x [urgent=latest] focus
 # (effectively toggles when you only have two outputs)
 bindsym $mod+z move workspace to output right
 
+# Make the currently focused window a scratchpad
+bindsym $mod+Shift+minus move scratchpad
 
-exec --no-startup-id 'xbacklight = 50'
+# Show the first scratchpad window
+bindsym $mod+minus scratchpad show
+
+# toggle sticky mode
+bindsym $mod+plus sticky toggle
+
+$exec "xbacklight = 50"
+$exec "wmname LG3D"
 
 # vim:filetype=i3

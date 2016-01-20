@@ -14,6 +14,7 @@ font = Inconsolata-dz 10
 #font = Anonymous Pro 11
 #font = Terminus 10
 #font = Source Code Pro 10
+#font = Meslo LG M 9
 scrollback_lines = 1000
 search_wrap = true
 #icon_name = terminal
