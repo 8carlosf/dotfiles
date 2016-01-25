@@ -17,7 +17,8 @@ xsetroot -cursor_name left_ptr
 #feh --bg-center ~/Images/wall_archlinux.png
 # Disable DPMS turning off the screen
 xset -dpms
-xset s off
+#xset s off
+xset s 3600
 # Disable bell
 xset b off
 unclutter --timeout 2 -b #Airblader/unclutter-xfixes
