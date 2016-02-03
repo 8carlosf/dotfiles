@@ -74,6 +74,7 @@
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/5c03df5e5da8ad59e5cc4fff3a3b55fa" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/cut" "<Primary>x")
 ; (gtk_accel_path "<Actions>/ThunarWindow/empty-trash" "")
+; (gtk_accel_path "<Actions>/ThunarActions/Tdp::browse\n" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-location-selector-menu" "")
 ; (gtk_accel_path "<Actions>/ThunarLocationButtons/location-buttons-create-folder" "")
 ; (gtk_accel_path "<Actions>/ThunarLauncher/open-in-new-window" "<Primary><Shift>o")

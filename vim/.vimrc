@@ -4,7 +4,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'ervandew/supertab'
 Plug 'nanotech/jellybeans.vim'
 "Plug 'morhetz/gruvbox'
-Plug 'bling/vim-airline'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 " aur/ttf-dejavu-sans-mono-powerline-git
 " ?aur/otf-powerline-symbols-git
 "Plug 'bling/vim-bufferline'
