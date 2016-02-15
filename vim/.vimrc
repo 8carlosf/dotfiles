@@ -45,7 +45,7 @@ set backspace=indent,eol,start " make backspace a more flexible
 set foldenable " Turn on folding
 set foldmethod=indent " Fold on the indent (damn you python)
 set foldlevel=100 " Don't autofold anything (but I can still fold manually)
-au Filetype python setl noet ts=4 sw=4 " Use tabs in python
+"au Filetype python setl noet ts=4 sw=4 " Use tabs in python
 
 set background=dark
 colorscheme jellybeans

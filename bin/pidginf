@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pkill -x pidgin
+pidgin
+
