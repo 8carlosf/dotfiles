@@ -1,0 +1,10 @@
+#!/bin/bash
+
+xrandr --output LVDS1 --primary --output VGA1 --left-of LVDS1
+#bspc monitor VGA1 -d \ 1\  \ 2\  \ 3\  \ 4\  \ 5\  \ 6\ 
+#bspc monitor LVDS1 -d \ 7\  \ 8\  \ 9\  \ 0\ 
+#bspc monitor VGA1 -s LVDS1
+feh --bg-fill $HOME/Images/AnselAdams.jpg
+setxkbmap -layout us,pt -variant altgr-intl, -option grp:alt_caps_toggle
+
+
