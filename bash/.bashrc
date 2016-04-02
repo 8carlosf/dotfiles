@@ -18,9 +18,9 @@ alias gld='git log --decorate --stat --graph --pretty=format:"%d %Cgreen%h%Crese
 alias active='grep -v -e "^$" -e"^ *#"'
 alias share='python -m http.server'
 alias flac2mp3='find -name "*.flac" | parallel ffmpeg -i {} -acodec libmp3lame -ab 320k {.}.mp3 "&&" rm {}'
-alias matlab='/home/carlosf/Apps/Matlab/bin/matlab -nosplash -desktop'
-alias matlab1='/home/carlosf/Apps/Matlab/bin/matlab -nodesktop -nosplash'
-alias matlab2='/home/carlosf/Apps/Matlab/bin/matlab -nodesktop -nosplash -nojvm'
+alias matlab='$HOME/Apps/Matlab/bin/matlab -nosplash -desktop'
+alias matlab1='$HOME/Apps/Matlab/bin/matlab -nodesktop -nosplash'
+alias matlab2='$HOME/Apps/Matlab/bin/matlab -nodesktop -nosplash -nojvm'
 alias please='sudo !!'
 #alias lock="slock & xset dpms force off"
 alias chess='GTK2_RC_FILES=/usr/share/themes/Numix-ArchBlue/gtk-2.0/gtkrc pychess'
@@ -29,16 +29,6 @@ alias uglify='uglifyjs --compress --mangle -- '
 alias calc='python3 -ic "from math import *"'
 alias ydl='youtube-dl -f best --restrict-filenames'
 alias private_mode='unset HISTFILE'
-
-dualscreen(){
-	xrandr --output LVDS1 --primary
-	xrandr --output VGA1 --mode 1920x1080 --left-of LVDS1
-	#bspc monitor VGA1 -d \ 1\  \ 2\  \ 3\  \ 4\  \ 5\  \ 6\ 
-	#bspc monitor LVDS1 -d \ 7\  \ 8\  \ 9\  \ 0\ 
-	#bspc monitor VGA1 -s LVDS1
-	feh --bg-fill $HOME/Images/numix.png
-	#setxkbmap -layout us -variant intl
-}
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return

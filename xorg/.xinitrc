@@ -12,7 +12,7 @@ fi
 xset +fp /usr/share/fonts/local
 xset fp rehash
 #setxkbmap -layout pt
-setxkbmap -layout pt,us -variant ,intl -option grp:alt_caps_toggle
+setxkbmap -layout pt,us -variant ,altgr-intl -option grp:alt_caps_toggle
 xsetroot -cursor_name left_ptr
 #feh --bg-center ~/Images/wall_archlinux.png
 # Disable DPMS turning off the screen
@@ -23,7 +23,8 @@ xset s 3600
 xset b off
 unclutter --timeout 2 -b #Airblader/unclutter-xfixes
 
-feh --bg-fill ~/Images/numix.png
+#feh --bg-fill ~/Images/numix.png
+feh --bg-fill ~/Images/AnselAdams.jpg
 #wmname LG3D
 
 # Use XToolkit in java applications
@@ -45,6 +46,7 @@ nm-applet &
 QT_STYLE_OVERRIDE=gtk dropbox &
 #caffeine &
 
+#exec i3 --shmlog-size=26214400
 exec i3
 #exec dbus-launch bspwm -s "$PANEL_FIFO" -p W
 #exec openbox-session

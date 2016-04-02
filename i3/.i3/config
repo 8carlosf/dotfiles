@@ -8,16 +8,16 @@
 set $mod Mod4
 set $exec exec --no-startup-id
 
-set $ws1 "1:1"
-set $ws2 "2:2"
-set $ws3 "3:3"
-set $ws4 "4:4"
-set $ws5 "5:5"
-set $ws6 "6:6"
-set $ws7 "7:7"
-set $ws8 "8:8"
-set $ws9 "9:9"
-set $ws0 "10:0"
+set $ws1 "0:1"
+set $ws2 "1:2"
+set $ws3 "2:3"
+set $ws4 "3:4"
+set $ws5 "4:5"
+set $ws6 "5:6"
+set $ws7 "6:7"
+set $ws8 "7:8"
+set $ws9 "8:9"
+set $ws0 "9:0"
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -134,7 +134,6 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcu
 bindsym $mod+r mode "resize"
 mode "resize" {
 	# These bindings trigger as soon as you enter the resize mode
-
 	bindsym h resize grow left  5 px or 5 ppt
     bindsym j resize grow down  5 px or 5 ppt
     bindsym k resize grow up    5 px or 5 ppt
