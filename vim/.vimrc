@@ -47,11 +47,14 @@ set foldmethod=indent " Fold on the indent (damn you python)
 set foldlevel=100 " Don't autofold anything (but I can still fold manually)
 "au Filetype python setl noet ts=4 sw=4 " Use tabs in python
 
+set t_Co=256
+
 set background=dark
 colorscheme jellybeans
 "colorscheme gruvbox
 
 " vim-airline
+let g:airline_theme='jellybeans'
 set laststatus=2
 set timeoutlen=50
 "let g:airline#extensions#tabline#enabled = 1
@@ -91,8 +94,6 @@ command! Spell :setlocal spell! spell?
 "nmap <C-V> "+gP
 "imap <C-V> <ESC><C-V>i
 "vmap <C-C> "+y
-
-set t_Co=256
 
 if has("gui_running")
 	set lines=40 columns=75

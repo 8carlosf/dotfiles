@@ -7,7 +7,7 @@ alias update='pacaur -Syu && sudo pkgcacheclean -v'
 alias update-git='pacaur -Syua --devel --needed'
 alias ls="ls --color=auto"
 alias rm='rm -I'
-alias ll='ls -la'
+alias ll='ls -latr'
 alias grep='grep --color=auto'
 alias unrarall='for i in $(tree -if | grep .rar);do unrar x $i; done;'
 alias unrarall2='find -name "*.rar" | parallel unrar x {}'

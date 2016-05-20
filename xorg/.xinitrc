@@ -12,7 +12,8 @@ fi
 xset +fp /usr/share/fonts/local
 xset fp rehash
 #setxkbmap -layout pt
-setxkbmap -layout pt,us -variant ,altgr-intl -option grp:alt_caps_toggle
+#setxkbmap -layout pt,us -variant ,altgr-intl -option grp:alt_caps_toggle
+setxkbmap -layout pt,us -variant ,intl -option grp:alt_caps_toggle
 xsetroot -cursor_name left_ptr
 #feh --bg-center ~/Images/wall_archlinux.png
 # Disable DPMS turning off the screen
