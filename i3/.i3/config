@@ -5,6 +5,13 @@
 #
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
+## i3-gaps ##
+gaps inner 8
+gaps outer -2
+smart_gaps on
+####
+
+
 set $mod Mod4
 set $exec exec --no-startup-id
 
@@ -201,7 +208,7 @@ client.urgent           #2f343a #900000 #ffffff #900000
 client.focused_inactive #444444 #444444 #AAAAAA #292d2e
 client.unfocused        #444444 #444444 #AAAAAA #292d2e
 
-new_window pixel 3
+new_window pixel 4
 new_float normal
 #workspace_auto_back_and_forth yes
 
