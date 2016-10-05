@@ -83,3 +83,15 @@ URxvt.colorIT: #87af5f
 URxvt.colorBD: #d7d7d7
 URxvt.colorUL: #87afd7
 
+
+! ------------------------------------------------------------------------------
+! rofi -dump-Xresources
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #111111, #0088cc, #222222
+rofi.color-normal: #151515, #ffffff, #151515, #0088cc, #ffffff
+rofi.color-active: #151515, #0088cc, #151515, #0088cc, #000000
+rofi.color-urgent: #151515, #dd0000, #151515, #bb0000, #ffffff
+rofi.separator-style: solid
+rofi.lines: 8

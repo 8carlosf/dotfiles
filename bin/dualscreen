@@ -1,6 +1,7 @@
 #!/bin/sh
 
 xrandr --output LVDS1 --primary --output VGA1 --left-of LVDS1
+#xrandr --output LVDS-1 --primary --output VGA-1 --left-of LVDS-1
 feh --bg-fill $HOME/Images/AnselAdams.jpg
 #setxkbmap -layout us,pt -variant altgr-intl, -option grp:alt_caps_toggle
 #setxkbmap -layout us,pt -variant intl, -option grp:alt_caps_toggle
