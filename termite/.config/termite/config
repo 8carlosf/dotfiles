@@ -88,6 +88,7 @@ browser = chromium
 #gruvbox
 [colors] 
 background = #151515
+#background = rgba(21, 21, 21, 0.9)
 foreground = #f0f0f0
 foreground_bold = #ffffff
 
