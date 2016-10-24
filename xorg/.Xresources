@@ -96,4 +96,5 @@ rofi.color-urgent: #151515, #dd0000, #151515, #bb0000, #ffffff
 rofi.separator-style: solid
 rofi.lines: 8
 rofi.fixed-num-lines: true
+rofi.levenshtein-sort: false
 

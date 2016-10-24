@@ -11,6 +11,14 @@ scrot $fscrn
 gm mogrify -scale 10% -scale 1000% $fscrn
 #gm mogrify -scale 10% -scale $(identify -format "%wx%h" $fscrn)\! $fscrn
 
-i3lock -dui $fscrn
+revert() {
+	xset dpms 0 0 0
+}
+
+trap revert SIGHUP SIGINT SIGTERM
+xset +dpms dpms 5 5 5
+i3lock -nui $fscrn
+
+revert
 rm $fscrn
 
