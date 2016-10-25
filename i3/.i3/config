@@ -214,6 +214,12 @@ new_window pixel 4
 new_float normal
 #workspace_auto_back_and_forth yes
 
+#fix no borders in csd windows (gnome gtk3, steam, ...) 
+for_window [class=".*" window_type="normal"] border pixel 4
+# steam ignores EWMH
+for_window [class="Steam"] border pixel 4
+
+
 ####    RULES    ####
 for_window [class="Pidgin"] floating enable
 for_window [class="Sonata"] floating enable
