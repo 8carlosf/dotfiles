@@ -17,6 +17,7 @@ Plug 'godlygeek/tabular', { 'on': 'Tabularize' }
 Plug 'PotatoesMaster/i3-vim-syntax'
 Plug 'kchmck/vim-coffee-script'
 Plug 'fatih/vim-go'
+Plug 'airblade/vim-gitgutter'
 
 call plug#end()
 
