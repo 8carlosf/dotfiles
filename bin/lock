@@ -3,7 +3,8 @@
 fscrn=$(mktemp --tmpdir XXXX.png)
 
 # requires graphicsmagick for better performance (erase <gm> to use imagemagick) 
-scrot $fscrn
+#scrot $fscrn
+maim $fscrn
 #xset dpms force off
 #gm mogrify -colorspace gray -blur 0x3 $fscrn
 #gm mogrify -blur 0x4 $fscrn
@@ -12,7 +13,7 @@ gm mogrify -scale 10% -scale 1000% $fscrn
 #gm mogrify -scale 10% -scale $(identify -format "%wx%h" $fscrn)\! $fscrn
 
 revert() {
-	xset dpms 0 0 0
+    xset dpms 0 0 0
 }
 
 trap revert SIGHUP SIGINT SIGTERM
