@@ -24,8 +24,8 @@ xset s 3600
 xset b off
 unclutter --timeout 2 -b #Airblader/unclutter-xfixes
 
-#feh --bg-fill ~/Images/numix.png
-feh --bg-fill ~/Images/AnselAdams.jpg
+feh --bg-fill ~/Images/numix.png
+#feh --bg-fill ~/Images/AnselAdams.jpg
 #wmname LG3D
 
 # Use XToolkit in java applications

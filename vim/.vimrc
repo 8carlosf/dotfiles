@@ -18,6 +18,7 @@ Plug 'PotatoesMaster/i3-vim-syntax'
 Plug 'kchmck/vim-coffee-script'
 Plug 'fatih/vim-go'
 Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-commentary'
 
 call plug#end()
 
@@ -55,10 +56,13 @@ set background=dark
 colorscheme jellybeans
 "colorscheme gruvbox
 
+let mapleader=","
+" set timeoutlen=1000
+
 " vim-airline
 let g:airline_theme='jellybeans'
 set laststatus=2
-set timeoutlen=50
+set ttimeoutlen=50
 "let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#whitespace#enabled = 0
 let g:airline_powerline_fonts = 1 " needs powerline fonts
