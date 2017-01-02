@@ -216,7 +216,8 @@ client.unfocused        #444444 #444444 #AAAAAA #292d2e
 
 #fix borders in client side decoration windows 
 for_window [tiling] border pixel 4
-for_window [floating] border normal
+# for_window [floating] border normal
+for_window [floating] border pixel 4
 
 
 ####    RULES    ####
@@ -249,7 +250,8 @@ bindsym --release Print $exec scrot '/tmp/%s.png'
 bindsym --release Shift+Print $exec scrot -u '/tmp/%s.png'
 
 bindsym Ctrl+Mod1+Delete $exec "termite --name=htop -e htop"
-bindsym $mod+t $exec thunar
+#bindsym $mod+t $exec thunar
+bindsym $mod+t $exec pcmanfm
 
 # switch between the current and the previously focused one
 bindsym $mod+Tab workspace back_and_forth

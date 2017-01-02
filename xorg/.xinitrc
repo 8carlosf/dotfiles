@@ -24,8 +24,9 @@ xset s 3600
 xset b off
 unclutter --timeout 2 -b #Airblader/unclutter-xfixes
 
-feh --bg-fill ~/Images/numix.png
-#feh --bg-fill ~/Images/AnselAdams.jpg
+feh --bg-fill ~/Images/MarS.png
+# feh --bg-fill ~/Images/numix.png
+# feh --bg-fill ~/Images/AnselAdams.jpg
 #wmname LG3D
 
 # Use XToolkit in java applications
@@ -45,7 +46,7 @@ compton --backend glx --glx-no-stencil --vsync opengl-swc --paint-on-overlay --u
 numlockx &
 redshift-gtk -l 40.2:-8.4 &
 nm-applet &
-QT_STYLE_OVERRIDE=gtk dropbox &
+# QT_STYLE_OVERRIDE=gtk dropbox &
 #caffeine &
 
 #exec i3 --shmlog-size=26214400

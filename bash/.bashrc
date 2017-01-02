@@ -3,8 +3,8 @@
 #
 
 alias pacman='pacaur'
-alias update='pacaur -Syu && sudo pkgcacheclean -v'
-alias update-git='pacaur -Syua --devel --needed'
+alias update='pacaur -Syu --noedit && sudo pkgcacheclean -v'  #replace pkgcacheclean with paccache?!
+alias update-git='pacaur -Syua --devel --needed --noconfirm --noedit'
 alias ls="ls --color=auto"
 alias rm='rm -I'
 alias ll='ls -latr'
