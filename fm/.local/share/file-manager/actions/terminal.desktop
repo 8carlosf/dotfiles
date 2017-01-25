@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Action
+Tooltip=Open Terminal
+Name=Terminal
+Profiles=profile-zero;
+Icon=utilities-terminal
+
+[X-Action-Profile profile-zero]
+Exec=/usr/bin/termite -d %d/%b
+Name=Default profile
+MimeTypes=inode/directory;

@@ -11,6 +11,9 @@ export PATH="$PATH:$HOME/dotfiles/bin"
 #export PATH="$PATH:/home/carlosf/.config/bspwm"
 #export PANEL_HEIGHT=18
 
+export GOPATH=$HOME/.go
+#export PATH=$PATH:$GOPATH/bin
+
 # MPD daemon start (if no other user instance exists)
 #[ ! -s ~/.config/mpd/pid ] && mpd
 mpd

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Action
+Icon=application-x-srt
+Tooltip=Download subtitles
+ToolbarLabel=Subliminal
+Name=Subliminal
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+Exec=subliminal download -l en -s %F
+Name=Default profile
+MimeTypes=video/*;

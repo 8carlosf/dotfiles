@@ -2,6 +2,7 @@
 # ~/.bashrc
 #
 
+alias v='vim'
 alias pacman='pacaur'
 alias update='pacaur -Syu --noedit && sudo pkgcacheclean -v'  #replace pkgcacheclean with paccache?!
 alias update-git='pacaur -Syua --devel --needed --noconfirm --noedit'
