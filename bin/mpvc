@@ -1,6 +1,6 @@
 #!/bin/bash
 
 LINK=$(xclip -o)
-notify-send Link: $LINK
-mpv --no-resume-playback --ytdl-format=best $LINK || notify-send Invalid Link
+notify-send Link: "$LINK"
+mpv --no-resume-playback --ytdl-format=best "$LINK" || notify-send Invalid Link
 
