@@ -7,7 +7,7 @@ notify-send Link: "$LINK"
 
 case "$LINK" in
 	acestream*|+([a-f0-9]))
-		find .ACEStream/.acestream_cache/ -mtime +2 -type f -delete
+		find ~/.ACEStream/.acestream_cache/ -mtime +2 -type f -delete
 		acestream-launcher --player "mpv --no-resume-playback" "$LINK"
 		;;
 	*)
