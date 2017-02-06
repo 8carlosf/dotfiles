@@ -1,6 +1,17 @@
 #!/bin/bash
 
+shopt -s extglob
+
 LINK=$(xclip -o)
 notify-send Link: "$LINK"
-mpv --no-resume-playback --ytdl-format=best "$LINK" || notify-send Invalid Link
+
+case "$LINK" in
+	acestream*|+([a-f0-9]))
+		find .ACEStream/.acestream_cache/ -mtime +2 -type f -delete
+		acestream-launcher --player "mpv --no-resume-playback" "$LINK"
+		;;
+	*)
+		mpv --no-resume-playback --ytdl-format=best "$LINK" || notify-send Invalid Link
+		;;
+esac
 
