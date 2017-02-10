@@ -1,0 +1,4 @@
+#!/bin/sh
+
+$HOME/Apps/Matlab/bin/matlab -nosplash -desktop
+

@@ -19,7 +19,7 @@ alias gld='git log --decorate --stat --graph --pretty=format:"%d %Cgreen%h%Crese
 alias active='grep -v -e "^$" -e"^ *#"'
 alias share='python -m http.server'
 alias flac2mp3='find -name "*.flac" | parallel ffmpeg -i {} -acodec libmp3lame -ab 320k {.}.mp3 "&&" rm {}'
-alias matlab='$HOME/Apps/Matlab/bin/matlab -nosplash -desktop'
+#alias matlab='$HOME/Apps/Matlab/bin/matlab -nosplash -desktop'
 alias matlab1='$HOME/Apps/Matlab/bin/matlab -nodesktop -nosplash'
 alias matlab2='$HOME/Apps/Matlab/bin/matlab -nodesktop -nosplash -nojvm'
 alias please='sudo !!'
