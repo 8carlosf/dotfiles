@@ -140,6 +140,6 @@ rofi.width: 32
 rofi.fixed-num-lines: true
 rofi.levenshtein-sort: false
 rofi.run-shell-command: {terminal} -e "{cmd}"
-! rofi.run-command: bash -c "{cmd}"
-rofi.run-command: {cmd}
+rofi.run-command: bash -c "{cmd}"
+! rofi.run-command: "{cmd}"
 

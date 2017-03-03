@@ -3,6 +3,7 @@
 #
 
 alias v='vim'
+alias agh='ag --hidden'
 alias pacman='pacaur'
 alias update='pacaur -Syu --noedit && sudo pkgcacheclean -v'  #replace pkgcacheclean with paccache?!
 alias update-git='pacaur -Syua --devel --needed --noconfirm --noedit'

@@ -11,7 +11,6 @@ gaps outer -2
 smart_gaps on
 ####
 
-
 set $mod Mod4
 set $exec exec --no-startup-id
 
@@ -248,8 +247,8 @@ bindsym --release Print $exec scrot '/tmp/%s.png'
 bindsym --release Shift+Print $exec scrot -u '/tmp/%s.png'
 
 bindsym Ctrl+Mod1+Delete $exec "termite --name=htop -e htop"
-#bindsym $mod+t $exec thunar
-bindsym $mod+t $exec pcmanfm
+bindsym $mod+t $exec thunar
+# bindsym $mod+t $exec pcmanfm
 
 # switch between the current and the previously focused one
 bindsym $mod+Tab workspace back_and_forth

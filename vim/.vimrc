@@ -28,6 +28,8 @@ set encoding=utf-8
 syntax enable " enable syntax highlight
 set tabstop=4	" numbers of spaces of tab character
 set shiftwidth=4	" numbers of spaces to (auto)indent
+set expandtab " always use spaces instead of tab
+set softtabstop=4 " delete 4 spaces together
 set scrolloff=4	" keep 3 lines when scrolling
 set number	" show line numbers
 set hlsearch	" highlight searches
@@ -58,6 +60,10 @@ colorscheme jellybeans
 
 let mapleader=","
 " set timeoutlen=1000
+
+" needs clang
+map <C-K> :pyf $HOME/.vim/clang-format.py<cr>
+imap <C-K> <c-o>:pyf $HOME/.vim/clang-format.py<cr>
 
 " vim-airline
 let g:airline_theme='jellybeans'
