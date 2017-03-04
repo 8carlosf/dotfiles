@@ -62,8 +62,8 @@ let mapleader=","
 " set timeoutlen=1000
 
 " needs clang
-map <C-K> :pyf $HOME/.vim/clang-format.py<cr>
-imap <C-K> <c-o>:pyf $HOME/.vim/clang-format.py<cr>
+map <Leader>f :pyf $HOME/.vim/clang-format.py<cr>
+" imap <Leader>f <c-o>:pyf $HOME/.vim/clang-format.py<cr>
 
 " vim-airline
 let g:airline_theme='jellybeans'
@@ -91,7 +91,7 @@ let g:airline_powerline_fonts = 1 " needs powerline fonts
 "let g:airline_symbols.whitespace = 'Ξ'
 
 "vim-nerdtree
-map <C-n> :NERDTreeToggle<CR>
+map <Leader>n :NERDTreeToggle<CR>
 
 command! W  write
 command! Q  quit
@@ -103,6 +103,9 @@ command! SW w !sudo tee %
 command! Spell :setlocal spell! spell?
 
 " clipboard
+map <Leader>p "+gp
+vmap <Leader>y "+y
+map <Leader>y "+yy
 "nmap <C-V> "+gP
 "imap <C-V> <ESC><C-V>i
 "vmap <C-C> "+y
