@@ -32,6 +32,7 @@ set expandtab " always use spaces instead of tab
 set softtabstop=4 " delete 4 spaces together
 set scrolloff=4	" keep 3 lines when scrolling
 set number	" show line numbers
+set relativenumber " show relative line numbers 
 set hlsearch	" highlight searches
 set ruler	" show the cursor position all the time
 set ttyfast	" smoother changes
@@ -62,8 +63,10 @@ let mapleader=","
 " set timeoutlen=1000
 
 " needs clang
-map <Leader>f :pyf $HOME/.vim/clang-format.py<cr>
-" imap <Leader>f <c-o>:pyf $HOME/.vim/clang-format.py<cr>
+map <Leader>f :pyf $HOME/.vim/clang-format.py<CR>
+" imap <Leader>f <c-o>:pyf $HOME/.vim/clang-format.py<CR>
+map <Leader>h :noh<CR>
+map <Leader>c gcc
 
 " vim-airline
 let g:airline_theme='jellybeans'
@@ -93,8 +96,8 @@ let g:airline_powerline_fonts = 1 " needs powerline fonts
 "vim-nerdtree
 map <Leader>n :NERDTreeToggle<CR>
 
-command! W  write
-command! Q  quit
+command! W  w
+command! Q  q
 command! WL  w | !rubber -d %; rubber --clean %
 " community/rubber
 command! SW w !sudo tee %

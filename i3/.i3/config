@@ -273,7 +273,7 @@ bindsym $mod+minus scratchpad show
 # toggle sticky mode
 bindsym $mod+plus sticky toggle
 
-$exec "xbacklight = 50"
+$exec "xbacklight = 42"
 $exec "wmname LG3D"
 
 # vim:filetype=i3
