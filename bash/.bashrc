@@ -1,6 +1,7 @@
 #
 # ~/.bashrc
 #
+# Depends On (optional!?): bash-completion
 
 alias v='vim'
 alias agh='ag --hidden'
