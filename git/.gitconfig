@@ -1,13 +1,27 @@
 [user]
-	email = 8carlosf@gmail.com
-	name = carlosf
+    email = 8carlosf@gmail.com
+    name = carlosf
 [merge]
-	tool = meld
+    tool = meld
 [diff]
-	tool = gvimdiff
+    tool = gvimdiff
 [push]
-	default = simple
+    default = simple
 [core]
-	editor = vim
+    editor = vim
 [color]
-	ui = true
+    ui = true
+[alias]
+    st = status
+    cm = commit -v
+    acm = commit -av
+    a = add
+    ps = push
+    pl = pull
+    co = checkout
+    br = branch
+    unstage = reset HEAD --
+    last = log -1 HEAD
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)<%an>%Creset' --abbrev-commit
+[github]
+    user = 8carlosf
