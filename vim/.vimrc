@@ -11,14 +11,15 @@ Plug 'vim-airline/vim-airline-themes'
 "Plug 'bling/vim-bufferline'
 "Plug 'scrooloose/syntastic'
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
-Plug 'tpope/vim-fugitive'
 Plug 'rking/ag.vim' " community/the_silver_searcher
 Plug 'godlygeek/tabular', { 'on': 'Tabularize' }
 Plug 'PotatoesMaster/i3-vim-syntax'
 Plug 'kchmck/vim-coffee-script'
 Plug 'fatih/vim-go'
 Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-repeat'
 
 call plug#end()
 

@@ -1,6 +1,7 @@
 #
 # ~/.bashrc
 #
+# Needs at least bash 4.0
 # Depends On (optional!?): bash-completion
 
 alias v='vim'
@@ -61,6 +62,10 @@ fi
 #set show-all-if-ambiguous on
 export EDITOR='vim'
 #export TERM='xterm'
+
+# Use bash-completion, if available
+# [[ $PS1 && -f /usr/share/bash-completion/bash_completion ]] && \
+#     . /usr/share/bash-completion/bash_completion
 
 # Prevent file overwrite on stdout redirection
 # Use `>|` to force redirection to an existing file
