@@ -33,6 +33,7 @@ alias uglify='uglifyjs --compress --mangle -- '
 alias calc='python3 -ic "from math import *"'
 alias ydl='youtube-dl -f best --restrict-filenames'
 alias private_mode='unset HISTFILE'
+alias autopep8i='autopep8 --in-place'
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return

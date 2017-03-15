@@ -12,7 +12,7 @@ Plug 'vim-airline/vim-airline-themes'
 "Plug 'scrooloose/syntastic'
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'rking/ag.vim' " community/the_silver_searcher
-Plug 'godlygeek/tabular', { 'on': 'Tabularize' }
+Plug 'junegunn/vim-easy-align'
 Plug 'PotatoesMaster/i3-vim-syntax'
 Plug 'kchmck/vim-coffee-script'
 Plug 'fatih/vim-go'
@@ -20,6 +20,7 @@ Plug 'airblade/vim-gitgutter'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-repeat'
+" Plug 'tell-k/vim-autopep8'
 
 call plug#end()
 
@@ -61,13 +62,21 @@ colorscheme jellybeans
 "colorscheme gruvbox
 
 let mapleader=","
+let g:mapleader = ","
+
 " set timeoutlen=1000
+
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
 
 " needs clang
 map <Leader>f :pyf $HOME/.vim/clang-format.py<CR>
 " imap <Leader>f <c-o>:pyf $HOME/.vim/clang-format.py<CR>
 map <Leader>h :noh<CR>
 map <Leader>c gcc
+" autocmd FileType python set equalprg=autopep8\ -
 
 " vim-airline
 let g:airline_theme='jellybeans'
@@ -96,6 +105,11 @@ let g:airline_powerline_fonts = 1 " needs powerline fonts
 
 "vim-nerdtree
 map <Leader>n :NERDTreeToggle<CR>
+
+" Start interactive EasyAlign in visual mode (e.g. vipga)
+xmap ga <Plug>(EasyAlign)
+" Start interactive EasyAlign for a motion/text object (e.g. gaip)
+nmap ga <Plug>(EasyAlign)
 
 command! W  w
 command! Q  q

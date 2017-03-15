@@ -186,8 +186,9 @@ bar {
 	#status_command i3status -c ~/.i3/i3status.conf
 	status_command i3blocks -c ~/.i3/i3blocks.conf
 	position       top
-	tray_output    LVDS1
-	#tray_output    LVDS-1
+	tray_output    primary
+	# tray_output    LVDS1
+	# tray_output    LVDS-1
 	strip_workspace_numbers yes
 
 	separator_symbol ""
@@ -247,8 +248,8 @@ bindsym --release Print $exec scrot '/tmp/%s.png'
 bindsym --release Shift+Print $exec scrot -u '/tmp/%s.png'
 
 bindsym Ctrl+Mod1+Delete $exec "termite --name=htop -e htop"
-bindsym $mod+t $exec thunar
-bindsym $mod+Shift+t $exec pcmanfm
+bindsym $mod+t $exec pcmanfm
+bindsym $mod+Shift+t $exec thunar
 
 # switch between the current and the previously focused one
 bindsym $mod+Tab workspace back_and_forth
