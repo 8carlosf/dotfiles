@@ -16,7 +16,7 @@ Inside the group files should keep the original directory tree and filenames.
 
 You will need [GNU Stow](http://www.gnu.org/software/stow/) to manage your configs (Archlinux: `community/stow`).
 
-##Importing new configs
+## Importing new configs
 
 If there is no group for the new config, you should create a new folder.
 
@@ -31,7 +31,7 @@ Examples:
 
 If you don't know the meaning of the above command check `man cp`.
 
-##Managing
+## Managing
 
 I recommend using Stow to farm the symlinks (read `man stow`).
 
