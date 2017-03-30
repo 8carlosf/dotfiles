@@ -6,7 +6,7 @@
 └──────────────────────┘
 ```
 
-##Structure
+## Structure
 
 You should keep this repo in the root of your home directory `~/dotfiles`.
 
