@@ -76,6 +76,7 @@ map <Leader>f :pyf $HOME/.vim/clang-format.py<CR>
 " imap <Leader>f <c-o>:pyf $HOME/.vim/clang-format.py<CR>
 map <Leader>h :noh<CR>
 map <Leader>c gcc
+vmap <Leader>c gc
 " autocmd FileType python set equalprg=autopep8\ -
 
 " vim-airline
