@@ -1,12 +1,13 @@
 [user]
     email = 8carlosf@gmail.com
+    ; email = cferreira@gocardless.com
     name = carlosf
 [merge]
     tool = meld
 [diff]
-    tool = gvimdiff
+    tool = vimdiff
 [push]
-    default = simple
+	default = current
 [core]
     editor = vim
 [color]
@@ -17,6 +18,7 @@
     acm = commit -av
     a = add
     ps = push
+    psu = push -u
     pl = pull
     co = checkout
     br = branch
@@ -27,3 +29,5 @@
     submodulesummary = true    
 [github]
     user = 8carlosf
+[init]
+	templateDir = /Users/cferreira/.git-template
