@@ -1,6 +1,5 @@
 [user]
     email = 8carlosf@gmail.com
-    ; email = cferreira@gocardless.com
     name = carlosf
 [merge]
     tool = meld
@@ -30,4 +29,4 @@
 [github]
     user = 8carlosf
 [init]
-	templateDir = /Users/cferreira/.git-template
+	templateDir = ~/.git-template
