@@ -1,7 +1,7 @@
 [user]
     email = 8carlosf@gmail.com
-    ; email = cferreira@gocardless.com
     name = carlosf
+    signingkey = ~/.ssh/id_ed25519.pub
 [merge]
     tool = meld
 [diff]
@@ -30,4 +30,6 @@
 [github]
     user = 8carlosf
 [init]
-	templateDir = /Users/cferreira/.git-template
+	templateDir = ~/.git-template
+[gpg]
+	format = ssh
