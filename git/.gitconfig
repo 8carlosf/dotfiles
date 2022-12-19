@@ -7,6 +7,7 @@
     tool = vimdiff
 [push]
 	default = current
+	autoSetupRemote = true
 [core]
     editor = vim
 [color]
