@@ -5,6 +5,7 @@
 antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
+# https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins
 antigen bundles <<EOBUNDLES
     git
     ag
@@ -13,8 +14,10 @@ antigen bundles <<EOBUNDLES
     python
     pip
     virtualenv
+    poetry
 
     docker
+    kubectl
     ssh-agent
 
     colored-man-pages
@@ -33,7 +36,7 @@ if [[ $CURRENT_OS == 'OS X' ]]; then
     antigen bundle brew-cask
     antigen bundle macos
 elif [[ $CURRENT_OS == 'Linux' ]]; then
-    # None so far...
+    antigen bundle archlinux
 fi
 
 # Load the theme.
