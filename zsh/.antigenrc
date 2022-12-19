@@ -1,0 +1,34 @@
+# Load the oh-my-zsh's library.
+antigen use oh-my-zsh
+
+# Bundles from the default repo (robbyrussell's oh-my-zsh).
+antigen bundle git
+antigen bundle ag
+antigen bundle python
+antigen bundle pip
+antigen bundle virtualenv
+antigen bundle docker
+antigen bundle ssh-agent
+antigen bundle colored-man-pages
+antigen bundle colorize
+antigen bundle command-not-found
+
+# Load bundles from external repos
+antigen bundle zsh-users/zsh-completions
+antigen bundle zsh-users/zsh-autosuggestions
+antigen bundle zsh-users/zsh-syntax-highlighting
+
+# OS specific plugins
+if [[ $CURRENT_OS == 'OS X' ]]; then
+    antigen bundle brew
+    antigen bundle brew-cask
+    antigen bundle macos
+elif [[ $CURRENT_OS == 'Linux' ]]; then
+    # None so far...
+fi
+
+# Load the theme.
+antigen theme romkatv/powerlevel10k
+
+# Tell Antigen that you're done.
+antigen apply
