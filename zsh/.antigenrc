@@ -14,7 +14,6 @@ antigen bundles <<EOBUNDLES
     python
     pip
     virtualenv
-    poetry
 
     docker
     kubectl
