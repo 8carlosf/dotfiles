@@ -2,16 +2,22 @@
 antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
-antigen bundle git
-antigen bundle ag
-antigen bundle python
-antigen bundle pip
-antigen bundle virtualenv
-antigen bundle docker
-antigen bundle ssh-agent
-antigen bundle colored-man-pages
-antigen bundle colorize
-antigen bundle command-not-found
+antigen bundle <<EOBUNDLES
+    git
+    ag
+    common-aliases
+
+    python
+    pip
+    virtualenv
+
+    docker
+    ssh-agent
+
+    colored-man-pages
+    colorize
+    command-not-found
+EOBUNDLES
 
 # Load bundles from external repos
 antigen bundle zsh-users/zsh-completions

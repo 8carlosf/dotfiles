@@ -1,4 +1,4 @@
-source ~/.antigen.zsh
+source ~/dotfiles/bin/antigen.zsh
 antigen init ~/.antigenrc
 
 # colorize config
@@ -95,8 +95,7 @@ alias stopDevbox='gcloud compute instances stop devbox-carlosf --project slingsh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# Created by `pipx` on 2022-11-16 18:56:13
-export PATH="$PATH:$HOME/.local/bin"
+export PATH="$PATH:$HOME/.local/bin:$HOME/dotfiles/bin"
 
 export REGION_ZONE=us-central1-c
 export DEVBOX_NAME=carlosf
