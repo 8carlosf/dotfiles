@@ -1,8 +1,11 @@
+# after changing this file, run
+# antigen reset
+
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
-antigen bundle <<EOBUNDLES
+antigen bundles <<EOBUNDLES
     git
     ag
     common-aliases
