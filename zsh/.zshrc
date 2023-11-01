@@ -117,7 +117,17 @@ export KUBECONFIG="$HOME/.kube/config:$HOME/.kube/devbox-$DEVBOX_NAME-config"
 # unset __conda_setup
 # <<< conda initialize <<<
 
+if type brew &>/dev/null; then
+    FPATH="$(brew --prefix)/share/zsh-completions:$FPATH"
+    FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
+
+    autoload -Uz compinit
+    compinit
+fi
+
 autoload -Uz compinit
-zstyle ':completion:*' menu select
 fpath+=~/.zfunc
+
+# Do menu-driven completion.
+zstyle ':completion:*' menu select
 
