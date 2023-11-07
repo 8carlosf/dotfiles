@@ -13,7 +13,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'rking/ag.vim' " community/the_silver_searcher
 Plug 'junegunn/vim-easy-align'
-Plug 'PotatoesMaster/i3-vim-syntax'
+" Plug 'PotatoesMaster/i3-vim-syntax'
 Plug 'kchmck/vim-coffee-script'
 Plug 'fatih/vim-go'
 Plug 'airblade/vim-gitgutter'
