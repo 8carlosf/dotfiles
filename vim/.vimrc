@@ -130,6 +130,7 @@ map <Leader>y "+yy
 "vmap <C-C> "+y
 
 if has("gui_running")
-	set lines=40 columns=75
+    set lines=33 columns=135
+    set guifont=MesloLGS\ NF:h12
 endif
 
