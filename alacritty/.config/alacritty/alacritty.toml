@@ -37,9 +37,9 @@ background = "#2e3440"
 dim_foreground = "#a5abb6"
 foreground = "#d8dee9"
 
-[colors.search.footer_bar]
-background = "#434c5e"
-foreground = "#d8dee9"
+# [colors.search.footer_bar]
+# background = "#434c5e"
+# foreground = "#d8dee9"
 
 [colors.search.matches]
 background = "#88c0d0"

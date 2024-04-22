@@ -5,6 +5,12 @@
     tool = meld
 [diff]
     tool = vimdiff
+[difftool]
+    prompt = false
+[difftool "difftastic"]
+    cmd = difft "$LOCAL" "$REMOTE"
+[pager]
+    difftool = true
 [push]
 	default = current
 	autoSetupRemote = true
@@ -22,6 +28,7 @@
     pl = pull
     co = checkout
     br = branch
+    d = difftool --tool=difftastic
     unstage = reset HEAD --
     last = log -1 HEAD
     lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)<%an>%Creset' --abbrev-commit
