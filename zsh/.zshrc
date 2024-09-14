@@ -131,3 +131,4 @@ fpath+=~/.zfunc
 # Do menu-driven completion.
 zstyle ':completion:*' menu select
 
+eval "$(uv generate-shell-completion zsh)"
