@@ -38,3 +38,5 @@
     user = 8carlosf
 [init]
 	templateDir = ~/.git-template
+[pull]
+	rebase = true
