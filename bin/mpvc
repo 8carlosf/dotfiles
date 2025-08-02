@@ -3,5 +3,5 @@
 shopt -s extglob
 
 LINK=$(pbpaste)
-mpv --no-resume-playback --ytdl-format=best "$LINK"
+mpv --no-resume-playback --script-opts=ytdl_hook-ytdl_path=yt-dlp "$LINK"
 
