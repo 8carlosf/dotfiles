@@ -1,7 +1,8 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-shopt -s extglob
+case $(uname) in
+    Darwin) LINK=$(pbpaste) ;;
+    *)      LINK=$(wl-paste --no-newline) ;;
+esac
 
-LINK=$(pbpaste)
 mpv --no-resume-playback --script-opts=ytdl_hook-ytdl_path=yt-dlp "$LINK"
-
