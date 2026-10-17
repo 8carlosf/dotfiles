@@ -132,3 +132,13 @@ fpath+=~/.zfunc
 zstyle ':completion:*' menu select
 
 eval "$(uv generate-shell-completion zsh)"
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/opt/homebrew/share/google-cloud-sdk/path.zsh.inc' ]; then . '/opt/homebrew/share/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/opt/homebrew/share/google-cloud-sdk/completion.zsh.inc' ]; then . '/opt/homebrew/share/google-cloud-sdk/completion.zsh.inc'; fi
+
+# Added by Windsurf
+export PATH="/Users/carlosf/.codeium/windsurf/bin:$PATH"
+eval "$(/Users/carlosf/.local/bin/mise activate zsh)"

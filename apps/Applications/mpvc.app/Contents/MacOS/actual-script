@@ -1,3 +1,4 @@
 #!/bin/bash
+export PATH="$PATH:/opt/homebrew/bin:$HOME/.docker/bin:$HOME/.local/bin:$HOME/dotfiles/bin"
 mpvc
 

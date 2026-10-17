@@ -1,3 +1,4 @@
 #!/bin/bash
 script_path="$( dirname -- "$( readlink -f -- "$0"; )"; )"/actual-script
-open -a Terminal "$script_path"
+#open -a Terminal "$script_path"
+open -na ghostty.app --args --initial-command="$script_path"
